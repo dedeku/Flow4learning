@@ -1,6 +1,78 @@
 {
   "current": "Default",
   "presets": {
+    "Flow": {
+      "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#813f94",
+    "colors_accent_2": "#a4c50e",
+    "colors_outline_button_labels": "#a4c50e",
+    "colors_background_2": "#e4e8ea",
+    "colors_background_3": "#000000",
+    "type_header_font": "poppins_n4",
+    "type_body_font": "poppins_n4",
+    "accent_icons": "outline-button",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+    "checkout_accent_color": "#813f94",
+    "checkout_button_color": "#813f94",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "22666043-5c88-4b18-a435-ccc204751842": {
+            "type": "announcement",
+            "settings": {
+              "text": "KUPONNAL MOST 3+1 AKCIÓ",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "22666043-5c88-4b18-a435-ccc204751842"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/header-logo.png",
+          "logo_width": 130,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Menü",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0"
+        ],
+        "settings": {
+          "color_scheme": "accent-2",
+          "newsletter_enable": false,
+          "newsletter_heading": "Sign up to our emails",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": false,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+    },
     "Default": {
       "colors_solid_button_labels": "#FFFFFF",
       "colors_accent_1": "#121212",

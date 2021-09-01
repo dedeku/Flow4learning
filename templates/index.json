@@ -2,105 +2,575 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "settings": {
-        "desktop_text_box_position": "flex-end"
-      },
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "FLOW4LEARNING: TANULNI ÖRÖM"
+          }
+        },
+        "15f8179e-58dd-4df2-a308-1cca2694d1a3": {
+          "type": "text",
+          "settings": {
+            "text": "Fejleszd magad a flow4learning kurzusaival, és légy hatékonyabb a magánéletedben és a karrieredben. Tanulj bárhonnan, bármikor - ahogy számodra a legkényelmesebb."
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Képzéseink",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_label_2": ""
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
         "heading",
+        "15f8179e-58dd-4df2-a308-1cca2694d1a3",
         "button"
-      ]
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading"
-        },
-        "text": {
-          "type": "text"
-        },
-        "button": {
-          "type": "button"
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ]
-    },
-    "featured_products": {
-      "type": "featured-collection",
+      ],
       "settings": {
-        "title": "Featured products",
-        "collection": "all",
-        "image_ratio": "square"
+        "image": "shopify:\/\/shop_images\/contact.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-2",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "video": {
-          "type": "video"
-        },
-        "product": {
-            "type": "product"
-        },
-        "collection": {
-          "type": "collection"
-        }
-      },
-      "block_order": [
-        "video",
-        "product",
-        "collection"
-      ]
-    },
-    "video": {
-      "type": "video"
-    },
-    "multi_column": {
+    "1626962693d2de0207": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
-          "type": "column"
+        "1626962693d2de0207-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9272_resize.jpg",
+            "title": "80 000 résztvevő",
+            "text": "<p>20 év alatt a Flow Magyarország képzésein<\/p>"
+          }
         },
-        "column2": {
-          "type": "column"
+        "1626962693d2de0207-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chris-montgomery-smgTvepind4-unsplash.jpg",
+            "title": "Több mint 24 órányi online tartalom",
+            "text": "<p>munkafüzetekkel és live konzultációval<\/p>"
+          }
         },
-        "column3": {
-          "type": "column"
+        "1626962693d2de0207-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/javier-sierra-6jopFhZkGGk-unsplash.jpg",
+            "title": "Eddig 3 041 résztvevő",
+            "text": "<p>az online és blended kurzusainkon<\/p>"
+          }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ]
+        "1626962693d2de0207-0",
+        "1626962693d2de0207-1",
+        "1626962693d2de0207-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "162696284706074dbc": {
+      "type": "image-with-text",
+      "blocks": {
+        "162696284706074dbc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Örömteli tanulás - sikeresebb magánélet és munka"
+          }
+        },
+        "162696284706074dbc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tanulni, többé válni mindig fantasztikus élmény. Felejtsd el a hagyományos, magolás-alapú tanfolyamokat: <strong>a flow4learning saját fejlesztésű programjai <\/strong>segítenek abban, hogy valóban beépítsd a tanultakat az életedbe, és hatékonyan hasznosíthasd őket az életed minden területén.<\/p><p><\/p><p><strong>Mit nyújt a flow4learning?<\/strong><\/p><p>   - prémium kurzusok a kommunikáció, az önismeret és a vezetés területén<br\/>   - kényelmes, könnyen kezelhető oktatófelület <br\/>   - online kapcsolat a kurzus oktatójával és más résztvevőkkel<\/p><p>   - munkafüzetek a megszerzett tudás elmélyítéséhez és a gyakorláshoz<br\/>   - oklevél a kurzus elvégzéséről <br\/>   - flow4learning-tanulócsoport<\/p>"
+          }
+        },
+        "162696284706074dbc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a képzéseket",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "162696284706074dbc-0",
+        "162696284706074dbc-1",
+        "162696284706074dbc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tamara-bellis-kyg5fvluhxw-unsplash.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16269627771e9fe6bd": {
+      "type": "multicolumn",
+      "blocks": {
+        "16269627771e9fe6bd-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "KOMMUNIKÁCIÓ",
+            "text": "<p>azért, hogy sikeresen érjünk el másokat, és ők szívesen legyenek és beszélgessenek velünk<\/p>"
+          }
+        },
+        "16269627771e9fe6bd-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "ÖNISMERET",
+            "text": "<p>azért, hogy tudjuk, hogy a viselkedésünk milyen hatással van másokra, és ez hogyan segíthet bennünket<\/p>"
+          }
+        },
+        "16269627771e9fe6bd-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "VEZETÉS",
+            "text": "<p>azért, hogy a magányos vezetői pillanatokban legyen milyen eszközökhöz, tudáshoz nyúlnunk <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16269627771e9fe6bd-1",
+        "16269627771e9fe6bd-0",
+        "16269627771e9fe6bd-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16269630444bc242c3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LEGNÉPSZERŰBB KÉPZÉSEINK",
+        "collection": "legnepszerbubb-kepzeseink",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "1626963196529102f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1626963196529102f5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Képzések cégeknek"
+          }
+        },
+        "1626963196529102f5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vezetőként vagy hr-esként dolgozol egy cégnél? Ismerkedj meg <strong>testre szabott megoldásainkkal<\/strong>, amelyek révén munkatársaidat hatékonyan és gazdaságosan fejlesztheted azokban a témákban, amik nektek a legfontosabbak éppen. <\/p><p>Kurzusainkat <strong>a stratégiátokhoz illesztjük<\/strong>, létrehozhatunk egy saját képzési oldalt, <strong>saját tartalom<\/strong>mal, csak nektek, és oktatóvideóink <strong>látványvilágát is a ti brandeteknek <\/strong>megfelelően tudjuk kialakítani.<\/p><p><\/p>"
+          }
+        },
+        "1626963196529102f5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Még több a céges képzésekről",
+            "button_link": "shopify:\/\/pages\/kepzesek-cegeknek"
+          }
+        }
+      },
+      "block_order": [
+        "1626963196529102f5-0",
+        "1626963196529102f5-1",
+        "1626963196529102f5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/business-education.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
+    "1626963305a5cace36": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LEGNÉPSZERŰBB KURZUSAINK: VEZETŐI KÉPZÉSEK",
+        "collection": "vezetes",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "1627545463300c61dd": {
+      "type": "image-with-text",
+      "blocks": {
+        "1627545463300c61dd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "INGYENES BETEKINTŐK"
+          }
+        },
+        "1627545463300c61dd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Próbáld ki, milyen a flow4learninggel tanulni! Nézd meg ingyenesen elérhető leckéinket, gondold át, mi érdekelhet, és élvezd a flow-t!<\/p>"
+          }
+        },
+        "1627545463300c61dd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a képzéseket",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1627545463300c61dd-0",
+        "1627545463300c61dd-1",
+        "1627545463300c61dd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leon-0K7GgiA8lVE-unsplash.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16270189427248061e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16270189427248061e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/header-logo.png",
+            "title": "",
+            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16270189427248061e-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Ismerd meg a Flow világát!",
+        "button_link": "shopify:\/\/pages\/rolunk",
+        "swipe_on_mobile": false
+      }
+    },
+    "16269633762719be69": {
+      "type": "multicolumn",
+      "blocks": {
+        "16269633762719be69-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "Bozsogi Dia",
+            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
+          }
+        },
+        "16269633762719be69-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "Frenyo Andrea",
+            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
+          }
+        },
+        "16269633762719be69-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "Kékesi Eszter",
+            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16269633762719be69-0",
+        "16269633762719be69-1",
+        "16269633762719be69-2"
+      ],
+      "settings": {
+        "title": "KIKTŐL TANULHATSZ?",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "Ismerd meg oktatóinkat!",
+        "button_link": "shopify:\/\/pages\/oktatoink",
+        "swipe_on_mobile": false
+      }
+    },
+    "16269638486602ba4e": {
+      "type": "image-with-text",
+      "blocks": {
+        "16269638486602ba4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BACK TO SCHOOL - TANULJ VELÜNK ŐSSZEL"
+          }
+        },
+        "16269638486602ba4e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Az ősz mindig az új kezdetek időszaka - mindannyian érezzük a levegőben a tettrekészséget a nyári pihenés után. Mit szólnál, ha végre a saját fejlődésedre is szánhatnál időt? <\/p><p>Neked hoztuk létre őszi akciónkat: <strong>válaszd a minikurzusaink közül bármelyik hármat, és egyet ajándékba adunk<\/strong> melléjük! Tanulj velünk, és légy büszke az eredményeidre!<\/p>"
+          }
+        },
+        "16269638486602ba4e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a minikurzusokat",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16269638486602ba4e-0",
+        "16269638486602ba4e-1",
+        "16269638486602ba4e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sale-tag-online-shopping.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
+    "1626963112c776924e": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626963112c776924e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
+            "text": "<p>„Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>"
+          }
+        },
+        "1626963112c776924e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Dr.Kovács Eszter - Audi Hungária Zrt",
+            "text": "<p>„Élvezetes, jól követhető, pont annyira tömör, amennyire kell, de pont annyira részletes is.”<\/p>"
+          }
+        },
+        "1626963112c776924e-2": {
+          "type": "column",
+          "settings": {
+            "title": "Résztvevőnk a Sikeres Vezető kurzusról",
+            "text": "<p>„Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626963112c776924e-0",
+        "1626963112c776924e-1",
+        "1626963112c776924e-2"
+      ],
+      "settings": {
+        "title": "MIT MONDANAK, AKIK VELÜNK TANULNAK?",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1626963619bc709712": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1626963619bc709712-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1626963619bc709712-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1626963619bc709712-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1626963619bc709712-0",
+        "1626963619bc709712-1",
+        "1626963619bc709712-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+
+    "16269636332e363e1f": {
+      "type": "multicolumn",
+      "blocks": {
+        "16269636332e363e1f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/building-on-crescent-4303ld.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "16269636332e363e1f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/building-on-crescent-4303ld.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "16269636332e363e1f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/building-on-crescent-4303ld.png",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "16269636332e363e1f-0",
+        "16269636332e363e1f-1",
+        "16269636332e363e1f-2"
+      ],
+      "settings": {
+        "title": "AKIK TŐLÜNK TANULTAK",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "16269630002307db95": {
+      "type": "rich-text",
+      "blocks": {
+        "16269630002307db95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?",
+            "heading_size": "medium"
+          }
+        },
+        "16269630002307db95-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod megszervezni a tanulást, mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is. Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
+          }
+        },
+        "16269630002307db95-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "16269630002307db95-0",
+        "16269630002307db95-1",
+        "16269630002307db95-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "16269636913ba50bcb": {
+      "type": "newsletter",
+      "blocks": {
+        "16269636913ba50bcb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tudás a postafiókodban"
+          }
+        },
+        "16269636913ba50bcb-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban. <\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
+          }
+        },
+        "16269636913ba50bcb-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16269636913ba50bcb-0",
+        "16269636913ba50bcb-1",
+        "16269636913ba50bcb-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "image_banner",
-    "rich_text",
-    "featured_products",
-    "collage",
-    "video",
-    "multi_column"
+    "1626962693d2de0207",
+    "162696284706074dbc",
+    "16269627771e9fe6bd",
+    "16269630444bc242c3",
+    "1626963196529102f5",
+    "1626963305a5cace36",
+    "1627545463300c61dd",
+    "16270189427248061e",
+    "16269633762719be69",
+    "16269638486602ba4e",
+    "1626963112c776924e",
+    "1626963619bc709712",
+    "16269636332e363e1f",
+    "16269630002307db95",
+    "16269636913ba50bcb"
   ]
 }
