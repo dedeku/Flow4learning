@@ -20,7 +20,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
@@ -35,6 +35,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/header-logo.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
