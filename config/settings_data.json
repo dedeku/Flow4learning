@@ -19,9 +19,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "KUPONNAL MOST 3+1 AKCIÓ",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/pages\/oszimegujulas"
             }
           }
         },
