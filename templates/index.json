@@ -6,7 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "FLOW4LEARNING: TANULNI ÖRÖM"
+            "heading": "FLOW4LEARNING: TANULNI ÖRÖM",
+            "heading_size": "medium"
           }
         },
         "15f8179e-58dd-4df2-a308-1cca2694d1a3": {
@@ -36,8 +37,11 @@
         "image": "shopify:\/\/shop_images\/contact.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
         "color_scheme": "accent-2",
-        "stack_images_on_mobile": true
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1626962693d2de0207": {
@@ -174,7 +178,9 @@
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
-        "show_vendor": false
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1626963196529102f5": {
@@ -223,7 +229,9 @@
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
-        "show_vendor": false
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1627545463300c61dd": {
@@ -505,6 +513,7 @@
         },
         "16269630002307db95-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "",
             "button_link": "",
@@ -534,6 +543,7 @@
         "16269636913ba50bcb-1": {
           "type": "paragraph",
           "settings": {
+            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
           }
         },
         "16269636913ba50bcb-2": {
