@@ -34,10 +34,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/contact.jpg",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "color_scheme": "accent-2",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": true
+        "stack_images_on_mobile": true
       }
     },
     "1626962693d2de0207": {
@@ -443,7 +443,6 @@
         "full_width": true
       }
     },
-
     "16269636332e363e1f": {
       "type": "multicolumn",
       "blocks": {
@@ -535,7 +534,6 @@
         "16269636913ba50bcb-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban. <\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
           }
         },
         "16269636913ba50bcb-2": {
