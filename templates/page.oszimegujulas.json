@@ -5,37 +5,6 @@
       "settings": {
       }
     },
-    "1630414566c48110d6": {
-      "type": "newsletter",
-      "blocks": {
-        "1630414566c48110d6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tudás a postafiókodban"
-          }
-        },
-        "1630414566c48110d6-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "1630414566c48110d6-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1630414566c48110d6-0",
-        "1630414566c48110d6-1",
-        "1630414566c48110d6-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "163048622045c721ef": {
       "type": "image-banner",
       "blocks": {
@@ -82,7 +51,6 @@
   },
   "order": [
     "main",
-    "1630414566c48110d6",
     "163048622045c721ef"
   ]
 }
