@@ -1,0 +1,113 @@
+{
+  "wrapper": "div.faqs-page",
+  "sections": {
+    "main": {
+      "type": "faq-page",
+      "blocks": {
+        "1ecf4d3c-1dfd-45d7-88d2-ec0a35229b03": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Miből áll egy online kurzus?",
+            "answer_faqs": "Minden képzésünk többször visszanézhető video tanananyagokból, letölthető segédanyagokból és munkafüzetekből, valamint az oktatók által adott gyakorló feladatokból áll. Javasoljuk, hogy ne csak a video-kat nézd meg, hanem töltsd ki a munkafüzetet, és végezz el minden gyakorló feladatot. Így lesz maradandó a tanulásod."
+          }
+        },
+        "6e3f5e9e-60ae-4724-b55b-75d45192f6f0": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Regisztrálnom kell egy kurzus elvégzéséhez?",
+            "answer_faqs": "Igen, regisztrálnod kell a TalentLMS rendszerébe. A tanulási platform-ra belépve egy kurzust bármikor abba tudsz hagyni, majd később visszatérhetsz és folytathatod."
+          }
+        },
+        "b491c831-0f4c-49bf-b359-ee049ea96754": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Még nem tudok dönteni. Belenézhetek ingyenesen az egyes képzésekbe?",
+            "answer_faqs": "Igen, ingyenesen elérhetővé tettük minden kurzusunk első leckéjét, hogy minél inkább tudd, mit vásárolsz. Ehhez mindössze regisztrálnod kell."
+          }
+        },
+        "a6900b50-7a22-4115-a539-2f0e2c14568f": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Mennyi időt vesz igénybe a kurzusok elvégzése?",
+            "answer_faqs": "Minden kurzus elvégzése más-más időbefektetéssel jár. A várható időtartamot a kurzus-leírásban szerepeltetjük. Minikurzusaink jellemzően 1-2 óra, nagy kurzusaink jellemzően 4-6 óra időbefektetéssel járnak."
+          }
+        },
+        "b515bf56-3f20-4556-ab42-a0d068823f90": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Meddig elérhetőek a tananyagok?",
+            "answer_faqs": "A regisztrációt követően 1 évig bármikor vissza tudod nézni a videókat. A munkafüzetet, segédanyagokat pedig le tudod tölteni magadnak, így azok örökre a tieid."
+          }
+        },
+        "4cb29fef-6540-4d32-8635-1da65076deba": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Kapok oklevelet a kurzus elvégzéséről?",
+            "answer_faqs": "Igen, a kurzus elvégzése után automatikusan névre szóló oklevelet kapsz, amit letölthetsz, és a LinkedIn oldaladra is feltölthetsz."
+          }
+        },
+        "819f027c-6e4c-4878-bca2-fa847fb553bc": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Van lehetőségem az oktatókkal kapcsolatba lépni?",
+            "answer_faqs": "Igen, fórumokban tudsz kérdezni. Ezeket a fórumokat oktatóink is olvassák, és válaszolnak a kérdésekre. Ha olyan kurzust vásárolsz, ami live konzultációt is tartalmaz, akkor pedig ezeken az alkalmakon is felteheted a kérdéseidet."
+          }
+        },
+        "9fde7084-70c1-4b8d-8831-9e10e5e4b395": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Hogyan tudok az oldalon fizetni?",
+            "answer_faqs": "Bankkártyával tudsz vásárolni az oldalon a Barion rendszerének a segítségével."
+          }
+        },
+        "1be29723-0500-44b9-9afd-915cc2a323c8": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Ajándékba is tudok kurzust vásárolni?",
+            "answer_faqs": "Igen, ezt még meg kell írni"
+          }
+        },
+        "d5365524-da49-405f-8104-22d6030f249e": {
+          "type": "text",
+          "settings": {
+            "question_faqs": "Milyen Internetes böngészőt használjak a kurzusok elvégzéséhez?",
+            "answer_faqs": "Bármelyik modern böngésző alkalmas az oldal használatára, beleértve az alábbiakat: Firefox, IE 9+, Chrome, Safari és Opera. A felület a legújabb mobil eszközök által használt böngészőket is támogatja (pl.: iOS és Android).\nAmikor a rendszer érzékeli, hogy egy régi böngészőt használsz, automatikus figyelmeztetést küld, hogy frissítsd a böngésződet a megfelelő működés érdekében. Fontos: a régi böngészők nem támogatják a HTML5 és ehhez hasonló szabványokat, így javasoljuk, hogy a jobb felhasználói élmény érdekében válts modern böngészőre."
+          }
+        }
+      },
+      "block_order": [
+        "1ecf4d3c-1dfd-45d7-88d2-ec0a35229b03",
+        "6e3f5e9e-60ae-4724-b55b-75d45192f6f0",
+        "b491c831-0f4c-49bf-b359-ee049ea96754",
+        "a6900b50-7a22-4115-a539-2f0e2c14568f",
+        "b515bf56-3f20-4556-ab42-a0d068823f90",
+        "4cb29fef-6540-4d32-8635-1da65076deba",
+        "819f027c-6e4c-4878-bca2-fa847fb553bc",
+        "9fde7084-70c1-4b8d-8831-9e10e5e4b395",
+        "1be29723-0500-44b9-9afd-915cc2a323c8",
+        "d5365524-da49-405f-8104-22d6030f249e"
+      ],
+      "settings": {
+        "icon_faqs": "?",
+        "bg_icon_qs": "#ef6454",
+        "color_icon_qs": "#ffffff",
+        "bg_question": "#fafafa",
+        "color_question": "#323232",
+        "font_size_qs": "12",
+        "bg_question_acitve": "#232323",
+        "color_question_acitve": "#ffffff",
+        "icon_answer": "!",
+        "bg_icon_answer": "#69c69c",
+        "color_icon_answer": "#ffffff",
+        "color_question_answer": "#3c3c3c",
+        "font_size_answer": "12",
+        "color_question_link": "#0688e2",
+        "icon_show": "Show",
+        "icon_hide": "Hide"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
