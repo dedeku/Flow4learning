@@ -5,40 +5,52 @@
       "settings": {
       }
     },
-    "1630414566c48110d6": {
-      "type": "newsletter",
+    "163048622045c721ef": {
+      "type": "image-banner",
       "blocks": {
-        "1630414566c48110d6-0": {
+        "163048622045c721ef-0": {
           "type": "heading",
           "settings": {
-            "heading": "Tudás a postafiókodban"
+            "heading": "Image banner",
+            "heading_size": "medium"
           }
         },
-        "1630414566c48110d6-1": {
-          "type": "paragraph",
+        "163048622045c721ef-1": {
+          "type": "text",
           "settings": {
-            "paragraph": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
+            "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
-        "1630414566c48110d6-2": {
-          "type": "email_form",
+        "163048622045c721ef-2": {
+          "type": "buttons",
           "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "1630414566c48110d6-0",
-        "1630414566c48110d6-1",
-        "1630414566c48110d6-2"
+        "163048622045c721ef-0",
+        "163048622045c721ef-1",
+        "163048622045c721ef-2"
       ],
       "settings": {
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
         "color_scheme": "background-1",
-        "full_width": true
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "main",
-    "1630414566c48110d6"
+    "163048622045c721ef"
   ]
 }
