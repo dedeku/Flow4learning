@@ -1,0 +1,43 @@
+<div class="instructors" style="width: 100%">
+Oktatók:
+
+<slider-component class="slider-mobile-gutter">
+    <ul class="multicolumn-list grid grid--1-col grid--4-col-desktop grid--3-col-tablet"
+      id="Slider-instructors"
+      role="list"
+    >
+        {% assign instructorIDs =  product.metafields.units.instructorID.value | split: "&" %}
+        {% for singlePage in pages %}
+            {% assign imgsrc = "" %}
+            {% if singlePage.metafields.global.instructor %}
+                {% assign pageInstructorId = singlePage.metafields.global.instructor | downcase %}
+                {% if instructorIDs contains pageInstructorId %}
+                    {% if singlePage.content contains "<img" %}
+                        {% assign imgsrc = singlePage.content | split: ' src="' | last | split:'"' | first %}
+                    {% endif %}
+
+                    <li class="multicolumn-list__item grid__item center">
+                        <div class="multicolumn-card">
+                        {%- if imgsrc != blank -%}
+                            <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width multicolumn-card-spacing">
+                            <div class="media media--transparent media--circle">
+                                <img
+                                src="{{ imgsrc }}"
+                                >
+                            </div>
+                            </div>
+                        {%- endif -%}
+                        <div class="multicolumn-card__info">
+                            <h3>
+                                <a href="{{ singlePage.url }}">{{ singlePage.title | escape }}</a>
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</slider-component>
+
+</div>

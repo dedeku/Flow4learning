@@ -1,0 +1,42 @@
+{% assign unitname =  product.metafields.units.name.value | split: "&" %}
+{% assign unittype =  product.metafields.units.type.value | split: "&" %}
+{% assign unitID =  product.metafields.units.unitID.value | split: "&" %}
+
+<div class="units">
+
+Leckék: 
+
+{% assign listStarted = false %}
+{% for a in unitname %}
+    {% if unittype[forloop.index0] == 'Section' %}
+        {% if listStarted %}
+            </ul>
+            {% assign listStarted = false %}
+        {% endif %}
+        <h2>{{ a }}</h2>
+        <ul>
+        {% assign listStarted = true %}
+    {% else %}
+        <li>
+            {% case unittype[forloop.index0] %}
+                {% when 'Test' %}
+                    📝
+                {% when 'Video' %}
+                    <span class="unit_icon">
+                        {% render 'icon-video'%}
+                    </span>
+                {% when 'Presentation'%}
+                    📺
+                {% when 'Survey'%}
+                    📖
+                {% when 'Document'%}
+                    📄
+            {% endcase %}
+        <span class="unit_name">{{ a }}</span>
+    </li>
+    {% endif %}
+{% endfor %}
+{% if listStarted %}
+</ul>
+{% endif %}
+</div>
