@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16290403822792fae9": {
+      "type": "image-with-text",
+      "blocks": {
+        "16290403822792fae9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TELJESEN TESTRE SZABOTT ONLINE KURZUS"
+          }
+        },
+        "16290403822792fae9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Egyedi igények alapján alakítjuk ki a képzéseket a megadott témákban (pl. egy új rendszer bevezetése, céges értékekre fűzött online kurzusok, a stratégia beépítése a mindennapokba, stb.). Ilyenkor a ti brandetekhez illeszkedünk, saját logóval ellátott videós és nyomtatható anyagokat adunk át. A képzés tartalmát többszöri egyeztetés során véglegesítjük, a Ti képzési céljaitokat szem előtt tartva. <\/p><p><em>Akikkel már dolgoztunk együtt: Market Zrt.<\/em><\/p>"
+          }
+        },
+        "16290403822792fae9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Érdekel",
+            "button_link": "shopify:\/\/pages\/kapcsolat"
+          }
+        }
+      },
+      "block_order": [
+        "16290403822792fae9-0",
+        "16290403822792fae9-1",
+        "16290403822792fae9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-taking-notes-during-team-meeting.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1629040397ca453d84": {
+      "type": "image-with-text",
+      "blocks": {
+        "1629040397ca453d84-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BLENDED FEJLESZTÉSI PROGAM"
+          }
+        },
+        "1629040397ca453d84-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hatékony megoldás, amikor kombináljuk az online és az offline képzéseinket különböző készségfejlesztő témákban (pl. asszertív kommunikáció, konfliktuskezelés, időgazdálkodás, vezetői képzések): az új tudás megalapozását online kurzusok formájában adjuk át (videós anyagok, olvasnivalók, kvízek, hangolódó feladatok), hogy a költségesebb jelenléti képzési idő lecsökkenjen, és minél gazdaságosabbá váljon. A közösen eltöltött időnket ilyenkor gyakorlásra, reflexióra, visszajelzésre szánjuk.<\/p><p><em>Akikkel már dolgoztunk együtt: MOL Nyrt., MemoQ<\/em><\/p>"
+          }
+        },
+        "1629040397ca453d84-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Érdekel",
+            "button_link": "shopify:\/\/pages\/kapcsolat"
+          }
+        }
+      },
+      "block_order": [
+        "1629040397ca453d84-0",
+        "1629040397ca453d84-1",
+        "1629040397ca453d84-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bjorn-antonissen-37UYj2pnRac-unsplash.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16290406409b454fae": {
+      "type": "image-with-text",
+      "blocks": {
+        "16290406409b454fae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIKERES VEZETŐ KÉPZÉSEINK"
+          }
+        },
+        "16290406409b454fae-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elsősorban frissen kinevezett vagy tapasztalt vezetőknek ajánljuk ezeket a kurzusainkat (Sikeres vezető 1: Friss vezetők \/ Sikeres vezető 2: Megküzdés a kihívásokkal). A résztvevők a 8 hetes kurzus során minden héten live konzultáció keretében találkoznak az oktatókkal, ahol feltehetik kérdéseiket, feldolgozhatják konkrét eseteiket. Zárt képzés formájában is kérhetitek, ilyenkor csak a ti vezetőitek vesznek részt a képzésen, és a live konzultációk tartalmát testre szabjuk a cégetek környezetére, kultúrájára. A képzések fókuszában a vezetői szerep és működés áll, a sikeres vezetővé váláshoz nélkülözhetetlen tudást és készségeket adjuk át (a vezetés modelljei, vezetői kommunikáció, munkatársak motiválása, nehéz helyzetek kezelése). <\/p><p><\/p><p><em>Akikkel már dolgoztunk együtt: CIB Bank, Raiffeisen Bank, Linde, Sanofi, Grundfos, Wallis, Emil Frey, Egis, Graboplast, Brandfizz<\/em><\/p>"
+          }
+        },
+        "16290406409b454fae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Érdekel",
+            "button_link": "shopify:\/\/pages\/kapcsolat"
+          }
+        }
+      },
+      "block_order": [
+        "16290406409b454fae-0",
+        "16290406409b454fae-1",
+        "16290406409b454fae-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/chris-montgomery-smgTvepind4-unsplash.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16290403822792fae9",
+    "1629040397ca453d84",
+    "16290406409b454fae"
+  ]
+}
