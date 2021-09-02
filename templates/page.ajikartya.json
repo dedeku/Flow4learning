@@ -47,10 +47,17 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1630575044446b2d63": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Itt írhatsz nekünk AJI-kártyád felhasználásáról"
+      }
     }
   },
   "order": [
     "main",
-    "1630568029802fab22"
+    "1630568029802fab22",
+    "1630575044446b2d63"
   ]
 }
