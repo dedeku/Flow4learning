@@ -771,5 +771,14 @@ a.product__text {
   width: 2rem;
   height: 2rem;
   vertical-align: middle;
+  color: var(--gradient-base-accent-1) !important;
+}
 
+.unit_section {
+  border-bottom-color: var(--gradient-base-accent-1) !important;
+  border-bottom: 2px solid;
+} 
+
+.instructor_name {
+  color: rgb(var(--color-foreground));
 }

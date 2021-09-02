@@ -4,7 +4,7 @@
 
 <div class="units">
 
-Leckék: 
+<h2>Leckék: </h2>
 
 {% assign listStarted = false %}
 {% for a in unitname %}
@@ -13,7 +13,7 @@ Leckék:
             </ul>
             {% assign listStarted = false %}
         {% endif %}
-        <h2>{{ a }}</h2>
+        <h3 class="unit_section">{{ a }}</h3>
         <ul>
         {% assign listStarted = true %}
     {% else %}

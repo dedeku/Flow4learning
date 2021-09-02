@@ -336,8 +336,14 @@
       </div>
     </div>
   </div>
-{% render 'talent-units' %}
-{% render 'talent-instructors' %}
+  <div class="product grid grid--1-col grid--2-col-tablet">
+    <div class="grid__item product__media-wrapper">
+      {% render 'talent-units' %}
+    </div>
+    <div class="product__info-wrapper grid__item">
+      {% render 'talent-instructors' %}
+    </div>
+  </div>
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="{{ 'products.modal.label' | t }}" aria-modal="true" tabindex="-1">
       <button id="ModalClose-{{ section.id }}" type="button" class="product-media-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
