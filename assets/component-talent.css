@@ -1,0 +1,283 @@
+/* TALENT Unit style */
+
+.units ul {
+    list-style: none;
+}
+
+.unit_icon svg {
+    width: 2rem;
+    height: 2rem;
+    vertical-align: middle;
+    color: var(--gradient-base-accent-1) !important;
+}
+
+.unit_section {
+    border-bottom-color: var(--gradient-base-accent-1) !important;
+    border-bottom: 2px solid;
+}
+
+.instructor_name {
+    color: rgb(var(--color-foreground));
+}
+
+
+/*
+ CSS for the tabs
+*/
+.tabset>input[type="radio"] {
+    position: absolute;
+    left: -200vw;
+}
+
+.tabset .tab-panel {
+    display: none;
+}
+
+.tabset>input:first-child:checked~.tab-panels>.tab-panel:first-child,
+.tabset>input:nth-child(3):checked~.tab-panels>.tab-panel:nth-child(2),
+.tabset>input:nth-child(5):checked~.tab-panels>.tab-panel:nth-child(3),
+.tabset>input:nth-child(7):checked~.tab-panels>.tab-panel:nth-child(4),
+.tabset>input:nth-child(9):checked~.tab-panels>.tab-panel:nth-child(5),
+.tabset>input:nth-child(11):checked~.tab-panels>.tab-panel:nth-child(6) {
+    display: block;
+}
+
+
+
+.tabset>label {
+    position: relative;
+    display: inline-block;
+    padding: 15px 15px 25px;
+    border: 1px solid transparent;
+    border-bottom: 0;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.tabset>label::after {
+    content: "";
+    position: absolute;
+    left: 15px;
+    bottom: 10px;
+    width: 22px;
+    height: 4px;
+    background: #8d8d8d;
+}
+
+.tabset>label:hover,
+.tabset>input:focus+label {
+    color: #06c;
+}
+
+.tabset>label:hover::after,
+.tabset>input:focus+label::after,
+.tabset>input:checked+label::after {
+    background: #06c;
+}
+
+.tabset>input:checked+label {
+    border-color: #ccc;
+    border-bottom: 1px solid #fff;
+    margin-bottom: -1px;
+}
+
+.tab-panel {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+}
+
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+
+.tabset {
+    max-width: 65em;
+}
+
+/*
+ CSS for the accordion
+*/
+
+
+.unit-accordion {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    max-width: 99%;
+    padding: 10px 20px 20px;
+    border-radius: 5px;
+}
+
+.unit-accordion h2 {
+    font-size: 18px;
+    line-height: 34px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    display: block;
+    margin: 0;
+    cursor: pointer;
+    color: #6c6c6a;
+}
+
+.unit-accordion p {
+    color: rgba(48, 69, 92, 0.8);
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+    max-height: 800px;
+    opacity: 1;
+    transform: translate(0, 0);
+    margin-top: 14px;
+    z-index: 2;
+}
+
+.unit-accordion ul {
+    list-style: none;
+    perspective: 900;
+    padding: 0 20px 10px;
+    margin: 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2),
+        0 2px 2px 0 rgba(255, 255, 255, 0.19);
+}
+
+.unit-accordion ul li {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 4px;
+    padding-top: 18px;
+    border-top: 1px dotted #dce7eb;
+}
+
+.unit-accordion ul li:nth-child(1) {
+    border: none;
+}
+
+.unit-accordion ul li:nth-of-type(1) {
+    animation-delay: 0.5s;
+}
+
+.unit-accordion ul li:nth-of-type(2) {
+    animation-delay: 0.75s;
+}
+
+.unit-accordion ul li:nth-of-type(3) {
+    animation-delay: 1.0s;
+}
+
+.unit-accordion ul li:last-of-type {
+    padding-bottom: 0;
+}
+
+.unit-accordion ul li .arrow {
+    position: absolute;
+    transform: translate(-6px, 0);
+    margin-top: 16px;
+    right: 0;
+}
+
+.unit-accordion ul li .fas {
+    color: #f6483b;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.unit-accordion ul li .arrow:before,
+.unit-accordion ul li .arrow:after {
+    content: "";
+    position: absolute;
+    background-color: #f6483b;
+    width: 3px;
+    height: 9px;
+}
+
+.unit-accordion ul li .arrow:before {
+    transform: translate(-2px, 0) rotate(45deg);
+}
+
+.unit-accordion ul li .arrow:after {
+    transform: translate(2px, 0) rotate(-45deg);
+}
+
+.unit-accordion ul li input[type=checkbox] {
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+}
+
+.unit-accordion ul li input[type=checkbox]:checked~p {
+    margin-top: 0;
+    max-height: 0;
+    opacity: 0;
+    transform: translate(0, 50%);
+}
+
+.unit-accordion ul li input[type=checkbox]:checked~.arrow:before {
+    transform: translate(2px, 0) rotate(45deg);
+}
+
+.unit-accordion ul li input[type=checkbox]:checked~.arrow:after {
+    transform: translate(-2px, 0) rotate(-45deg);
+}
+
+.unit-accordion .transition,
+p,
+ul li .arrow:before,
+ul li .arrow:after {
+    transition: all 0.25s ease-in-out;
+}
+
+.unit-accordion .flipIn,
+h1,
+ul li {
+    animation: flipdown 0.5s ease both;
+}
+
+.unit-accordion .no-select,
+h2 {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+}
+
+@keyframes flipdown {
+    0% {
+        opacity: 0;
+        transform-origin: top center;
+        transform: rotateX(-90deg);
+    }
+
+    5% {
+        opacity: 1;
+    }
+
+    80% {
+        transform: rotateX(8deg);
+    }
+
+    83% {
+        transform: rotateX(6deg);
+    }
+
+    92% {
+        transform: rotateX(-3deg);
+    }
+
+    100% {
+        transform-origin: top center;
+        transform: rotateX(0deg);
+    }
+}

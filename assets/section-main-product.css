@@ -760,25 +760,3 @@ a.product__text {
   margin: 0;
   width: 2.2rem;
 }
-
-/* Unit css */
-
-.units ul {
-  list-style: none;
-}
-
-.unit_icon svg {
-  width: 2rem;
-  height: 2rem;
-  vertical-align: middle;
-  color: var(--gradient-base-accent-1) !important;
-}
-
-.unit_section {
-  border-bottom-color: var(--gradient-base-accent-1) !important;
-  border-bottom: 2px solid;
-} 
-
-.instructor_name {
-  color: rgb(var(--color-foreground));
-}
