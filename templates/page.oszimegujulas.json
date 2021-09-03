@@ -47,10 +47,46 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1630665990b238e3bb": {
+      "type": "rich-text",
+      "blocks": {
+        "1630665990f29be0d7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1630665990f29be0d7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kerülj flowba idén ősszel minikurzus akcióinkkal<\/p><p>Tudjuk, hogy mindent megteszel, amit tudsz. Hogy helytállsz a munkahelyeden, a családi feladataidban, a párkapcsolatodban.<\/p><p>De talán te is érzed, hogy lehetne még jobb. Hogy lehetnél harmonikusabb, hatékonyabb, eredményesebb. Könnyebben oldhatnád meg a konfliktusokat, vagy akár meg is előzhetnéd a kialakulásukat. Végre nem a végtelen köröket rónád, hanem tisztán látnád az utat, amin haladsz. Ugye, mennyire felszabadító lenne?<\/p><p>Mi ismerjük az érzést. Látjuk többezer végzett hallgatónk arcán az örömöt, kapjuk a visszajelzéseiket, átéljük velük a sikereket. Fantasztikus érzés, amikor egy, a témában rutinos szakértő iránymutatásával egyenesbe kerülnek a dolgok, és ami lehetetlennek tűnt, immár egyértelmű lesz.<\/p><p>Már csak te hiányzol hozzá - vagyis a döntésed.<\/p><p>Legyen ez az ősz a fejlődésé! Tégy meg magadért annyit, hogy időt szánsz saját magadra - és az egész életedben érezni fogod a változásokat. Legyen szó akár a párkapcsolatodról, akár a munkahelyedről, vagy akár a kamaszodó gyerekeddel való kommunikációról vagy csak a saját harmóniádról, a flow4learning minikurzusai között megtalálod azokat a témákat, amik igazán neked valók.<\/p><p>Több területen is felvérteznéd magad? Használd ki őszi akciónkat! Válassz három minikurzust, és a negyediket ajándékba kapod tőlünk. Így úgy zárhatod ezt az évet, és indulhatsz neki a következőnek, hogy biztos lehetsz abban, hogy tettél magadért.<\/p><p>Persze nem hagyunk egyedül - kurzusaink profi oktatói folyamatosan figyelemmel kísérik fejlődésed. Munkafüzetekkel segítjük a tananyag feldolgozását, és kérdéseidre örömmel válaszolunk. Mert nekünk is fontos, hogy még teljesebb legyél.<\/p><p><\/p>"
+          }
+        },
+        "1630665990f29be0d7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630665990f29be0d7-0",
+        "1630665990f29be0d7-1",
+        "1630665990f29be0d7-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
-    "163048622045c721ef"
+    "163048622045c721ef",
+    "1630665990b238e3bb"
   ]
 }
