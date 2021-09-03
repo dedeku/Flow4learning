@@ -104,180 +104,87 @@
 */
 
 
-.unit-accordion {
-    display: inline-block;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0);
-    max-width: 99%;
-    padding: 10px 20px 20px;
-    border-radius: 5px;
-}
-
-.unit-accordion h2 {
+.units h2 {
+    margin: 20px auto 80px;
     font-size: 18px;
-    line-height: 34px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.5;
+}
+
+.units details {
+    width: 75%;
+    min-height: 5px;
+    max-width: 700px;
+    padding: 45px 70px 45px 45px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 22px;
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 15px;
+    box-sizing: border-box;
+    transition: all .3s;
+}
+
+details+details {
+    margin-top: 20px;
+}
+
+details[open] {
+    min-height: 50px;
+    background-color: #f6f7f8;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
+}
+
+details p {
+    color: #96999d;
+    font-weight: 300;
+}
+
+summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-weight: 500;
-    letter-spacing: 1px;
-    display: block;
-    margin: 0;
     cursor: pointer;
-    color: #6c6c6a;
 }
 
-.unit-accordion p {
-    color: rgba(48, 69, 92, 0.8);
-    font-size: 15px;
-    line-height: 26px;
-    letter-spacing: 1px;
-    position: relative;
-    overflow: hidden;
-    max-height: 800px;
-    opacity: 1;
-    transform: translate(0, 0);
-    margin-top: 14px;
-    z-index: 2;
+summary:focus {
+    outline: none;
+
 }
 
-.unit-accordion ul {
-    list-style: none;
-    perspective: 900;
-    padding: 0 20px 10px;
-    margin: 0;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2),
-        0 2px 2px 0 rgba(255, 255, 255, 0.19);
-}
-
-.unit-accordion ul li {
-    position: relative;
-    padding: 0;
-    margin: 0;
-    padding-bottom: 4px;
-    padding-top: 18px;
-    border-top: 1px dotted #dce7eb;
-}
-
-.unit-accordion ul li:nth-child(1) {
-    border: none;
-}
-
-.unit-accordion ul li:nth-of-type(1) {
-    animation-delay: 0.5s;
-}
-
-.unit-accordion ul li:nth-of-type(2) {
-    animation-delay: 0.75s;
-}
-
-.unit-accordion ul li:nth-of-type(3) {
-    animation-delay: 1.0s;
-}
-
-.unit-accordion ul li:last-of-type {
-    padding-bottom: 0;
-}
-
-.unit-accordion ul li .arrow {
-    position: absolute;
-    transform: translate(-6px, 0);
-    margin-top: 16px;
-    right: 0;
-}
-
-.unit-accordion ul li .fas {
-    color: #f6483b;
-    font-size: 15px;
-    margin-right: 10px;
-}
-
-.unit-accordion ul li .arrow:before,
-.unit-accordion ul li .arrow:after {
+summary:focus::after {
     content: "";
-    position: absolute;
-    background-color: #f6483b;
-    width: 3px;
-    height: 9px;
-}
-
-.unit-accordion ul li .arrow:before {
-    transform: translate(-2px, 0) rotate(45deg);
-}
-
-.unit-accordion ul li .arrow:after {
-    transform: translate(2px, 0) rotate(-45deg);
-}
-
-.unit-accordion ul li input[type=checkbox] {
-    position: absolute;
-    cursor: pointer;
-    width: 100%;
     height: 100%;
-    z-index: 1;
-    opacity: 0;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 0 5px rebeccapurple;
 }
 
-.unit-accordion ul li input[type=checkbox]:checked~p {
-    margin-top: 0;
-    max-height: 0;
-    opacity: 0;
-    transform: translate(0, 50%);
+summary::-webkit-details-marker {
+    display: none
 }
 
-.unit-accordion ul li input[type=checkbox]:checked~.arrow:before {
-    transform: translate(2px, 0) rotate(45deg);
+.control-icon {
+    fill: rebeccapurple;
+    transition: .3s ease;
+    pointer-events: none;
 }
 
-.unit-accordion ul li input[type=checkbox]:checked~.arrow:after {
-    transform: translate(-2px, 0) rotate(-45deg);
+.control-icon-close {
+    display: none;
 }
 
-.unit-accordion .transition,
-p,
-ul li .arrow:before,
-ul li .arrow:after {
-    transition: all 0.25s ease-in-out;
+details[open] .control-icon-close {
+    display: initial;
+    transition: .3s ease;
 }
 
-.unit-accordion .flipIn,
-h1,
-ul li {
-    animation: flipdown 0.5s ease both;
-}
-
-.unit-accordion .no-select,
-h2 {
-    -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
-    user-select: none;
-}
-
-@keyframes flipdown {
-    0% {
-        opacity: 0;
-        transform-origin: top center;
-        transform: rotateX(-90deg);
-    }
-
-    5% {
-        opacity: 1;
-    }
-
-    80% {
-        transform: rotateX(8deg);
-    }
-
-    83% {
-        transform: rotateX(6deg);
-    }
-
-    92% {
-        transform: rotateX(-3deg);
-    }
-
-    100% {
-        transform-origin: top center;
-        transform: rotateX(0deg);
-    }
+details[open] .control-icon-expand {
+    display: none;
 }

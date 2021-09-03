@@ -337,14 +337,33 @@
       </div>
     </div>
   </div>
-  <div class="product grid grid--1-col">
-    <div class="grid__item">
+
+
+<div class="tabset">
+  <!-- Tab 1 -->
+  <input type="radio" name="tabset" id="tab1" aria-controls="tematika" checked>
+  <label for="tab1">Tematika</label>
+  <!-- Tab 2 -->
+  <input type="radio" name="tabset" id="tab2" aria-controls="oktatok">
+  <label for="tab2">Oktatók</label>
+  <!-- Tab 3 -->
+  <input type="radio" name="tabset" id="tab3" aria-controls="ertekelesek">
+  <label for="tab3">Értékelések</label>
+  
+  <div class="tab-panels">
+    <section id="tematika" class="tab-panel">
       {% render 'talent-units' %}
-    </div>
-    <div class="product__info-wrapper grid__item">
+    </section>
+    <section id="oktatok" class="tab-panel">
       {% render 'talent-instructors' %}
-    </div>
+    </section>
+    <section id="ertekelesek" class="tab-panel">
+      <h2>Értékelések</h2>
+    </section>
   </div>
+</div>
+
+
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="{{ 'products.modal.label' | t }}" aria-modal="true" tabindex="-1">
       <button id="ModalClose-{{ section.id }}" type="button" class="product-media-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
