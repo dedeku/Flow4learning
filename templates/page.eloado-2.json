@@ -16,11 +16,17 @@
       "settings": {
         "custom_liquid": "{{ page.metafields.global.szakterulet }}"
       }
+    },
+    "instructor-courses": {
+      "type": "instructor-courses",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
     "1629882441482b6d60",
-    "1629882521f9b26bd3"
+    "1629882521f9b26bd3",
+    "instructor-courses"
   ]
 }

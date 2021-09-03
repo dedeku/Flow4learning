@@ -1,0 +1,54 @@
+{% assign courseCount = 0 %}
+{% for product in collections['all'].products %}
+  {% assign instructorIDs =  product.metafields.units.instructorID.value | split: "&" %}
+    {% assign pageInstructorId = page.metafields.global.instructor | downcase %}
+    {% if instructorIDs contains pageInstructorId %}
+      {% if courseCount == 0 %}
+        <h2>Képzések:</h2>
+
+        <slider-component class="slider-mobile-gutter">
+            <ul class="multicolumn-list grid grid--1-col grid--4-col-desktop grid--3-col-tablet"
+              id="Slider-instructors"
+              role="list"
+            >
+      {% endif %}
+
+      <li class="multicolumn-list__item grid__item center">
+          <div class="multicolumn-card">
+          {%- if product.featured_image != blank -%}
+              <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width multicolumn-card-spacing">
+              <div class="media media--transparent media--circle">
+                  <img
+                  src="{{ product.featured_image | img_url: '500x500' }}"
+                  width="200" 
+                  height="200" 
+                  loading="lazy"
+                  >
+              </div>
+              </div>
+          {%- endif -%}
+          <div class="multicolumn-card__info">
+              <span class="instructor_name">
+                  <a href="{{ product.url }}">{{ product.title | escape }}</a>
+              </span>
+          </div>
+          </div>
+      </li>
+
+      {% assign courseCount = courseCount | plus: 1 %}
+    {% endif%}
+{% endfor %}
+
+{% if courseCount > 0 %}
+  </ul>
+  </slider-component>
+</div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Instructor courses",
+  "tag": "section",
+  "blocks": []
+}
+{% endschema %}
