@@ -40,6 +40,49 @@
 {% endif %}
 
 
+{% assign listStarted = false %}
+{% for a in unitname %}
+  {% if unittype[forloop.index0] == 'Section' %}
+    {% if listStarted %}
+          </ul>
+        </p>
+      </details>
+        {% assign listStarted = false %}
+    {% endif %}
+    <details open>
+      <summary>
+        {{ a }}
+        <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
+        <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
+      </summary>
+      <p>
+        <ul>  
+    {% assign listStarted = true %}
+  {% else %}
+      <li>
+          {% case unittype[forloop.index0] %}
+              {% when 'Test' %}
+                  📝
+              {% when 'Video' %}
+                  <span class="unit_icon">
+                      {% render 'icon-video' %}
+                  </span>
+              {% when 'Presentation'%}
+                  📺
+              {% when 'Survey'%}
+                  📖
+              {% when 'Document'%}
+                  📄
+          {% endcase %}
+      <span class="unit_name">{{ a }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+{% if listStarted %}
+    </ul>
+  </p>
+</details>
+{% endif %}
 
 <div style="visibility: hidden; position: absolute; width: 0px; height: 0px;">
   <svg xmlns="http://www.w3.org/2000/svg">
@@ -65,6 +108,8 @@
       </ul>
   </p>
 </details>
+
+
 <details open>
   <summary>
     Section title
