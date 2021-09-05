@@ -1,45 +1,7 @@
 {% assign unitname =  product.metafields.units.name.value | split: "&" %}
 {% assign unittype =  product.metafields.units.type.value | split: "&" %}
 {% assign unitID =  product.metafields.units.unitID.value | split: "&" %}
-
 <div class="units">
-
-
-{% assign listStarted = false %}
-{% for a in unitname %}
-    {% if unittype[forloop.index0] == 'Section' %}
-        {% if listStarted %}
-            </ul>
-            {% assign listStarted = false %}
-        {% endif %}
-        <h3 class="unit_section">{{ a }}</h3>
-        <ul>
-        {% assign listStarted = true %}
-    {% else %}
-        <li>
-            {% case unittype[forloop.index0] %}
-                {% when 'Test' %}
-                    📝
-                {% when 'Video' %}
-                    <span class="unit_icon">
-                        {% render 'icon-video'%}
-                    </span>
-                {% when 'Presentation'%}
-                    📺
-                {% when 'Survey'%}
-                    📖
-                {% when 'Document'%}
-                    📄
-            {% endcase %}
-        <span class="unit_name">{{ a }}</span>
-    </li>
-    {% endif %}
-{% endfor %}
-{% if listStarted %}
-</ul>
-{% endif %}
-
-
 {% assign listStarted = false %}
 {% for a in unitname %}
   {% if unittype[forloop.index0] == 'Section' %}
@@ -49,7 +11,7 @@
       </details>
         {% assign listStarted = false %}
     {% endif %}
-    <details open>
+    <details>
       <summary>
         {{ a }}
         <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
@@ -83,7 +45,6 @@
   </p>
 </details>
 {% endif %}
-
 <div style="visibility: hidden; position: absolute; width: 0px; height: 0px;">
   <svg xmlns="http://www.w3.org/2000/svg">
     <symbol viewBox="0 0 24 24" id="expand-more">
@@ -94,35 +55,4 @@
     </symbol>
   </svg>
 </div>
-<details open>
-  <summary>
-    Section title
-    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
-    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-  </summary>
-  <p>
-      <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-      </ul>
-  </p>
-</details>
-
-
-<details open>
-  <summary>
-    Section title
-    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
-    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-  </summary>
-  <p>
-      <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-      </ul>
-  </p>
-</details>
-    
 </div>

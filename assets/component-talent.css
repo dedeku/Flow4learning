@@ -47,7 +47,7 @@
 .tabset>label {
     position: relative;
     display: inline-block;
-    padding: 15px 15px 25px;
+    padding: 8px 15px 8px;
     border: 1px solid transparent;
     border-bottom: 0;
     cursor: pointer;
@@ -61,29 +61,29 @@
     bottom: 10px;
     width: 22px;
     height: 4px;
-    background: #8d8d8d;
+    background: var(--gradient-base-accent-1);
 }
 
 .tabset>label:hover,
 .tabset>input:focus+label {
-    color: #06c;
+    color: var(--gradient-base-accent-1);
 }
 
 .tabset>label:hover::after,
 .tabset>input:focus+label::after,
 .tabset>input:checked+label::after {
-    background: #06c;
+    background: var(--gradient-base-accent-2);
 }
 
 .tabset>input:checked+label {
-    border-color: #ccc;
-    border-bottom: 1px solid #fff;
     margin-bottom: -1px;
+    background-color: var(--gradient-base-accent-1);
+    color: seashell;
 }
 
 .tab-panel {
     padding: 30px 0;
-    border-top: 1px solid #ccc;
+    border-top: 4px solid var(--gradient-base-accent-1);
 }
 
 
@@ -96,7 +96,7 @@
 
 
 .tabset {
-    max-width: 65em;
+    max-width: 90%;
 }
 
 /*
@@ -114,15 +114,13 @@
 }
 
 .units details {
-    width: 75%;
+    width: 95%;
     min-height: 5px;
-    max-width: 700px;
-    padding: 45px 70px 45px 45px;
-    margin: 0 auto;
+    padding: 12px 12px 12px 12px;
+    margin: 4 auto;
     position: relative;
-    font-size: 22px;
-    border: 1px solid rgba(0, 0, 0, .1);
-    border-radius: 15px;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
     box-sizing: border-box;
     transition: all .3s;
 }
@@ -133,8 +131,6 @@ details+details {
 
 details[open] {
     min-height: 50px;
-    background-color: #f6f7f8;
-    box-shadow: 2px 2px 20px rgba(0, 0, 0, .2);
 }
 
 details p {
@@ -187,4 +183,83 @@ details[open] .control-icon-close {
 
 details[open] .control-icon-expand {
     display: none;
+}
+
+
+/* instructor card */
+
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 30px;
+}
+
+.profile-card {
+    flex: 1 1 30%;
+    max-width: 300px;
+    background: #fff;
+    padding: 12px 12px;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0 #ccc;
+    transition: .3s;
+}
+
+.profile-card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px -5px #ccc;
+}
+
+.profile-icon {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 25px 0 10px 0;
+}
+
+.profile-position {
+    font-size: 14px;
+    color: #777;
+}
+
+.button {
+    margin: 40px 0 0 0;
+    padding: 10px 30px;
+    color: #999;
+    text-decoration: none;
+    border: 1px solid #999;
+    border-radius: 4px;
+}
+
+.button:hover {
+    color: #fff;
+    background: #748dff;
+    border: 1px solid #748dff;
+}
+
+@media screen and (max-width: 1000px) {
+    .profile-name {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .profile-card {
+        padding: 20px 15px;
+    }
+
+    .profile-name {
+        font-size: 16px;
+    }
 }
