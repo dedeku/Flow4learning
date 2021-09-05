@@ -151,7 +151,7 @@ summary:focus {
 
 }
 
-summary:focus::after {
+.units summary:focus::after {
     content: "";
     height: 100%;
     width: 100%;
@@ -159,7 +159,6 @@ summary:focus::after {
     position: absolute;
     top: 0;
     left: 0;
-    box-shadow: 0 0 0 5px rebeccapurple;
 }
 
 summary::-webkit-details-marker {
@@ -192,7 +191,6 @@ details[open] .control-icon-expand {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    height: 100vh;
     margin: 0 30px;
 }
 
@@ -225,12 +223,13 @@ details[open] .control-icon-expand {
 .profile-name {
     font-size: 24px;
     font-weight: bold;
-    margin: 25px 0 10px 0;
+    margin: 12px 0 12px 0;
 }
 
 .profile-position {
     font-size: 14px;
     color: #777;
+    margin: 0 0 12px 0;
 }
 
 

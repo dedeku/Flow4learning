@@ -6,6 +6,7 @@
     <h2>Szakterület:</h2>
     <p>{{ page.metafields.global.szakterulet }}</p>
   </div>
+  <h2>Kurzusaim:</h2>
   <p>
     {% assign courseCount = 0 %}
 {% for product in collections['all'].products %}
@@ -13,7 +14,7 @@
     {% assign pageInstructorId = page.metafields.global.instructor | downcase %}
     {% if instructorIDs contains pageInstructorId %}
       {% if courseCount == 0 %}
-        <h2>Képzések:</h2>
+        
 
         <slider-component class="slider-mobile-gutter">
             <ul class="multicolumn-list grid grid--1-col grid--4-col-desktop grid--3-col-tablet"

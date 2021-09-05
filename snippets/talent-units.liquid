@@ -29,10 +29,14 @@
                   <span class="unit_icon">
                       {% render 'icon-video' %}
                   </span>
-              {% when 'Presentation'%}
-                  📺
+              {% when 'Presentation | Document'%}
+                  <span class="unit_icon">
+                      {% render 'icon-presentation' %}
+                  </span>
               {% when 'Survey'%}
-                  📖
+                  <span class="unit_icon">
+                      {% render 'icon-poll' %}
+                  </span>
               {% when 'Document'%}
                   📄
           {% endcase %}
