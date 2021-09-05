@@ -233,20 +233,7 @@ details[open] .control-icon-expand {
     color: #777;
 }
 
-.button {
-    margin: 40px 0 0 0;
-    padding: 10px 30px;
-    color: #999;
-    text-decoration: none;
-    border: 1px solid #999;
-    border-radius: 4px;
-}
 
-.button:hover {
-    color: #fff;
-    background: #748dff;
-    border: 1px solid #748dff;
-}
 
 @media screen and (max-width: 1000px) {
     .profile-name {
