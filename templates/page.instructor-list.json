@@ -1,0 +1,8 @@
+{
+    "sections": {
+        "main": {
+            "type": "talent-instructors-list"
+        }
+    },
+    "order" : ["main"]
+}
