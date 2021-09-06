@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "162702839547f51888": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "162702839547f51888-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "EGYIK LÁB",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "162702839547f51888-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "MÁSIK LÁB",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "162702839547f51888-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+            "title": "HARMADIK LÁB",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162702839547f51888-0",
+        "162702839547f51888-1",
+        "162702839547f51888-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16270284223dfed06b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16270284223dfed06b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trénereink, oktatóink"
+          }
+        },
+        "16270284223dfed06b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trénereink, oktatóink a szakma krémjébe tartoznak, mindannyian több éves, akár évtizedes tapasztalattal rendelkeznek. Folyamatosan képezzük magunkat külföldön is, hogy <strong>a nemzetközileg elérhető legújabb tudás<\/strong>t hozzuk Magyarországra. Képzéseinktől így kimagasló tanulási élményt és egyéni változást is várhatsz.<\/p>"
+          }
+        },
+        "16270284223dfed06b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16270284223dfed06b-0",
+        "16270284223dfed06b-1",
+        "16270284223dfed06b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_magyarorszag_kepzesek.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1627028426acee7faa": {
+      "type": "image-with-text",
+      "blocks": {
+        "1627028426acee7faa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eredményes tanulás"
+          }
+        },
+        "1627028426acee7faa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kutatások bizonyítják, hogy a résztvevőknek mindössze 15%-a alkalmazza a tréningen megtanultakat a mindennapi munkájában úgy, hogy annak pozitív hatása lesz a szervezetre. 70% megpróbálja, de motiváció és segítség hiányában nem jár sikerrel, 15% pedig meg sem próbálja hasznosítani a tanultakat.<\/p><p>Mi a Flowban olyan tanulási folyamatokat tervezünk, amelyek eredményeként a résztvevők <strong>magabiztosan és tartósan tudják használni a mindennapokban azokat a készségeket<\/strong>, amik a kiváló teljesítményhez és az üzleti célok eléréséhez kellenek.<\/p>"
+          }
+        },
+        "1627028426acee7faa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1627028426acee7faa-0",
+        "1627028426acee7faa-1",
+        "1627028426acee7faa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow4learning_kurzusok.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1627028431560a22a5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1627028431560a22a5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A flow élmény"
+          }
+        },
+        "1627028431560a22a5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bizonyára te is átéltél már olyan pillanatokat, amikor annyira belemerültél abba, amivel éppen foglalatoskodtál, hogy az egész világ megállt körülötted. Amikor igazán élvezted azt, amit éppen csináltál, és kimagasló teljesítményt nyújtottál. Ez <strong>a flow élmény<\/strong>. Ilyenkor jellemzően hosszabb ideig végzed az adott tevékenységet, és a fáradtság érzése helyett túlcsordulsz energiával. Számos tanulmány bizonyítja, hogy minél több időt töltenek az emberek flow állapotban, annál eredményesebbek. A flow állapothoz világos célok kellenek, a kihívás mértékének egyensúlyban kell lennie az egyén képességeivel, valamint az adott tevékenység végzése önmagában visszajelzést kell adjon az eredményességről. Képzéseink során igyekszünk olyan környezetet teremteni, amiben <strong>a résztvevők flow-ba kerülhetnek<\/strong>.<\/p>"
+          }
+        },
+        "1627028431560a22a5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1627028431560a22a5-0",
+        "1627028431560a22a5-1",
+        "1627028431560a22a5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_elmeny_oktatas.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "162703975493a7c2c0": {
+      "type": "image-banner",
+      "blocks": {
+        "162703975493a7c2c0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Céges programok"
+          }
+        },
+        "162703975493a7c2c0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Vállalati ügyfeleinkkel szorosan együttműködve nemcsak a tantermi, hanem az online tréningeken is eredményesen támogatjuk a munkatársak készségfejlesztését és viselkedésváltozását, akár személyes, akár munkahelyi fejlődésükhöz szeretnék használni a képzéseken megszerzett tudást. Testre szabott ajánlatainkért keress bennünket!"
+          }
+        },
+        "162703975493a7c2c0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Megnézem a képzéseket",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "Írok a Flow-nak",
+            "button_link_2": "shopify:\/\/pages\/kapcsolat",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "162703975493a7c2c0-0",
+        "162703975493a7c2c0-1",
+        "162703975493a7c2c0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/students-learning-in-class-room.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "162702839547f51888",
+    "16270284223dfed06b",
+    "1627028426acee7faa",
+    "1627028431560a22a5",
+    "162703975493a7c2c0"
+  ]
+}
