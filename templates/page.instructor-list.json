@@ -1,8 +1,39 @@
 {
-    "sections": {
-        "main": {
-            "type": "talent-instructors-list"
+  "sections": {
+    "1630911633c4cceaaa": {
+      "type": "rich-text",
+      "blocks": {
+        "163091163316c312b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Oktatóink",
+            "heading_size": "h1"
+          }
+        },
+        "163091163316c312b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ismerd meg oktatóinkat<\/p>"
+          }
         }
+      },
+      "block_order": [
+        "163091163316c312b2-0",
+        "163091163316c312b2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     },
-    "order" : ["main"]
+    "main": {
+      "type": "talent-instructors-list",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1630911633c4cceaaa",
+    "main"
+  ]
 }
