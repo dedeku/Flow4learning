@@ -88,7 +88,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Válassz minikurzusaink közül",
-        "collection": "minikurzus",
+        "collection": "minikurzus-akcio-magyar-nyelven",
         "products_to_show": 12,
         "show_view_all": false,
         "swipe_on_mobile": false,
