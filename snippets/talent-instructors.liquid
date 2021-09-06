@@ -16,41 +16,4 @@
       {% endif %}{% endif %}
         {% endfor %}
     </div>
-
-<!--
-<slider-component class="slider-mobile-gutter">
-    <ul class="multicolumn-list grid grid--1-col grid--4-col-desktop grid--3-col-tablet"
-      id="Slider-instructors"
-      role="list"
-    >
-        {% assign instructorIDs =  product.metafields.units.instructorID.value | split: "&" %}
-        {% for singlePage in pages %}
-            {% if singlePage.metafields.global.instructor %}
-                {% assign pageInstructorId = singlePage.metafields.global.instructor | downcase %}
-                {% if instructorIDs contains pageInstructorId %}
-                    <li class="multicolumn-list__item grid__item center">
-                        <div class="multicolumn-card">
-                        {%- if singlePage.metafields.global.instructorpic != blank and singlePage.metafields.global.instructorpic.type == "file_reference"-%}
-                            <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width multicolumn-card-spacing">
-                            <div class="media media--transparent media--circle">
-                                <img
-                                src="{{ singlePage.metafields.global.instructorpic | img_url: '500x500' }}"
-                                >
-                            </div>
-                            </div>
-                        {%- endif -%}
-                        <div class="multicolumn-card__info">
-                            <span class="instructor_name">
-                                <a href="{{ singlePage.url }}">{{ singlePage.title | escape }}</a>
-                            </span>
-                        </div>
-                        </div>
-                    </li>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-    </ul>
-</slider-component>
--->
-
 </div>

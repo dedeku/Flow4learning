@@ -25,15 +25,17 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    
     },
-    "main": {
+    "instructor-list": {
       "type": "talent-instructors-list",
+      "class": "profile-container",
       "settings": {
       }
     }
   },
   "order": [
     "1630911633c4cceaaa",
-    "main"
+    "instructor-list"
   ]
 }

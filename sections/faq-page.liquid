@@ -1,7 +1,5 @@
-
-  <section id="faqs_page">
-    <div class="unit-accordion">
-        
+<section id="faqs_page">
+    <div class="unit-accordion">      
         <ul>
           {% for block in section.blocks %}
             <li>
@@ -15,36 +13,6 @@
           {% endfor %}
         </ul>
     </div>
-
-    <!--
-    <div class="panel-group">
-      {% for block in section.blocks %}
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h4 class="panel-title">
-            <a class="{% unless forloop.first %}collapsed{% endunless %}" data-toggle="collapse" href="#faqs-{{block.id}}" >
-  
-              <span data-title="{{section.settings.icon_faqs | split: '|' | first }}" data-show="{{ section.settings.icon_show | split: '|' | first }}" data-hide="{{ section.settings.icon_hide | split: '|' | first }}">
-                {{ block.settings.question_faqs | split: '|' | first }}
-              </span>
-
-            </a>
-          </h4>    
-        </div>
-        <div id="faqs-{{block.id}}" class="panel-collapse collapse{% if forloop.first %} show{% endif %}">
-          <div class="panel-body">
-            <div data-title="{{section.settings.icon_answer | split: '|' | first }}">
-              <div class="rte">
-                {{ block.settings.answer_faqs | split: '|' | first }}
-              </div>
-            </div>
-          
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    -->
   </section>
 
 
@@ -243,9 +211,6 @@ h2 {
     "name": "FAQ",
     "settings": [
  
-
- 
-
       {
         "type": "header",
         "content": "Question"
