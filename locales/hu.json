@@ -167,8 +167,8 @@
     "contact": {
       "form": {
         "name": "Neved",
-        "email": "E-mail-cím",
-        "phone": "Telefonszám",
+        "email": "E-mail címed",
+        "phone": "Telefonszámod",
         "comment": "Üzeneted",
         "send": "Küldés",
         "post_success": "Köszönjük, hogy írtál nekünk. A lehető legrövidebb időn belül válaszolni fogunk.",
