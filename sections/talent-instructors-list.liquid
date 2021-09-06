@@ -1,5 +1,6 @@
 {{ 'component-talent.css' | asset_url | stylesheet_tag }}
-{% for singlePage in pages %}
+<div class="instructors" style="width: 100%">
+    {% for singlePage in pages %}
     {%- if singlePage.metafields.global.instructorpic != blank and singlePage.metafields.global.instructorpic.type == "file_reference"-%}
         <div class="profile-card">
         <img src="{{ singlePage.metafields.global.instructorpic | img_url: '500x500' }}" alt="image1" class="profile-icon" />
@@ -12,3 +13,4 @@
 </div>
         {% endfor %}
 
+</div>
