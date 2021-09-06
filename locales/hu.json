@@ -166,7 +166,7 @@
     },
     "contact": {
       "form": {
-        "name": "Név",
+        "name": "Neved",
         "email": "E-mail-cím",
         "phone": "Telefonszám",
         "comment": "Üzeneted",
