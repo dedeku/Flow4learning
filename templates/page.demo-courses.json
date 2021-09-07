@@ -5,23 +5,176 @@
       "settings": {
       }
     },
-    "162754406673b476d6": {
-      "type": "featured-collection",
+    "16310191071c05122b": {
+      "type": "collage",
+      "blocks": {
+        "1631019107e8fa97ed-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_14.57.01.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=vzCDbiTGqbQ&ab_channel=GowiththeFlow",
+            "description": "Vezetési stílusok tudatosan: Beosztottak típusai:",
+            "image_padding": false
+          }
+        },
+        "1631019107e8fa97ed-1": {
+          "type": "product",
+          "settings": {
+            "product": "belulrol-vezetes",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631019107e8fa97ed-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "vezetes",
+            "image_padding": false,
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1631019107e8fa97ed-0",
+        "1631019107e8fa97ed-1",
+        "1631019107e8fa97ed-2"
+      ],
       "settings": {
-        "title": "",
-        "collection": "frontpage",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_vendor": false
+        "heading": "Vezetési stílusok tudatosan - Beosztottak típusai",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "1631019116650d0325": {
+      "type": "collage",
+      "blocks": {
+        "163101911631895a72-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.09.06.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=o2W9MErqjCY&ab_channel=GowiththeFlow",
+            "description": "Az értő kommunikáció művészete - Hogyan adj visszajelzést",
+            "image_padding": false
+          }
+        },
+        "163101911631895a72-1": {
+          "type": "product",
+          "settings": {
+            "product": "hogyan-kommunikaljak-hogy-meghallgassanak",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "163101911631895a72-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kommunikacio",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "163101911631895a72-0",
+        "163101911631895a72-1",
+        "163101911631895a72-2"
+      ],
+      "settings": {
+        "heading": "Az értő kommunikáció művészete - Hogyan adj visszajelzést",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "1631019799fb4494b2": {
+      "type": "collage",
+      "blocks": {
+        "1631019799674b5761-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.17.09.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=AVOkqZrqJVI&ab_channel=GowiththeFlow",
+            "description": "Harmóniában a személyiségtípusokkal - Tervezők és Improvizálók",
+            "image_padding": false
+          }
+        },
+        "1631019799674b5761-1": {
+          "type": "product",
+          "settings": {
+            "product": "harmoniaban-a-szemelyisegtipusokkal",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631019799674b5761-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "onismeret",
+            "image_padding": false,
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1631019799674b5761-0",
+        "1631019799674b5761-1",
+        "1631019799674b5761-2"
+      ],
+      "settings": {
+        "heading": "Harmóniában a személyiségtípusokkal - Tervezők és Improvizálók",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "16310204818191f7ad": {
+      "type": "collage",
+      "blocks": {
+        "1631020481ae08b16e-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.19.54.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=eBctEHGNcuw&ab_channel=GowiththeFlow",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1631020481ae08b16e-1": {
+          "type": "product",
+          "settings": {
+            "product": "mit-kezdjek-a-kamasz-gyerekemmel",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631020481ae08b16e-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kommunikacio",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631020481ae08b16e-0",
+        "1631020481ae08b16e-1",
+        "1631020481ae08b16e-2"
+      ],
+      "settings": {
+        "heading": "Párbeszéd a kamaszokkal - A kamaszok világának megértése",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     }
   },
   "order": [
     "main",
-    "162754406673b476d6"
+    "16310191071c05122b",
+    "1631019116650d0325",
+    "1631019799fb4494b2",
+    "16310204818191f7ad"
   ]
 }
