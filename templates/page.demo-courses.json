@@ -127,12 +127,54 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "16310204818191f7ad": {
+      "type": "collage",
+      "blocks": {
+        "1631020481ae08b16e-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.19.54.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=eBctEHGNcuw&ab_channel=GowiththeFlow",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1631020481ae08b16e-1": {
+          "type": "product",
+          "settings": {
+            "product": "mit-kezdjek-a-kamasz-gyerekemmel",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631020481ae08b16e-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kommunikacio",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631020481ae08b16e-0",
+        "1631020481ae08b16e-1",
+        "1631020481ae08b16e-2"
+      ],
+      "settings": {
+        "heading": "Párbeszéd a kamaszokkal - A kamaszok világának megértése",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
     "main",
     "16310191071c05122b",
     "1631019116650d0325",
-    "1631019799fb4494b2"
+    "1631019799fb4494b2",
+    "16310204818191f7ad"
   ]
 }
