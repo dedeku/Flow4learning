@@ -16,12 +16,55 @@
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
-        "show_vendor": false
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "16310191071c05122b": {
+      "type": "collage",
+      "blocks": {
+        "1631019107e8fa97ed-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=vzCDbiTGqbQ&ab_channel=GowiththeFlow",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1631019107e8fa97ed-1": {
+          "type": "product",
+          "settings": {
+            "product": "belulrol-vezetes",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631019107e8fa97ed-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "vezetes",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631019107e8fa97ed-0",
+        "1631019107e8fa97ed-1",
+        "1631019107e8fa97ed-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     }
   },
   "order": [
     "main",
-    "162754406673b476d6"
+    "162754406673b476d6",
+    "16310191071c05122b"
   ]
 }
