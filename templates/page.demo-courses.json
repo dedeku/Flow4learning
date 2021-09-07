@@ -43,7 +43,7 @@
       "settings": {
         "heading": "Vezetési stílusok tudatosan - Beosztottak típusai",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "column"
       }
     },
     "1631019116650d0325": {
@@ -84,7 +84,7 @@
       "settings": {
         "heading": "Az értő kommunikáció művészete - Hogyan adj visszajelzést",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "column"
       }
     },
     "1631019799fb4494b2": {
@@ -125,7 +125,7 @@
       "settings": {
         "heading": "Harmóniában a személyiségtípusokkal - Tervezők és Improvizálók",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "column"
       }
     },
     "16310204818191f7ad": {
@@ -166,7 +166,7 @@
       "settings": {
         "heading": "Párbeszéd a kamaszokkal - A kamaszok világának megértése",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "column"
       }
     }
   },
