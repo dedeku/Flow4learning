@@ -21,7 +21,7 @@
           "type": "product",
           "settings": {
             "product": "belulrol-vezetes",
-            "second_image": true,
+            "second_image": false,
             "image_padding": false,
             "secondary_background": false
           }
@@ -45,10 +45,52 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "1631019116650d0325": {
+      "type": "collage",
+      "blocks": {
+        "163101911631895a72-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.09.06.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=o2W9MErqjCY&ab_channel=GowiththeFlow",
+            "description": "Az értő kommunikáció művészete - Hogyan adj visszajelzést",
+            "image_padding": false
+          }
+        },
+        "163101911631895a72-1": {
+          "type": "product",
+          "settings": {
+            "product": "hogyan-kommunikaljak-hogy-meghallgassanak",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "163101911631895a72-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "kommunikacio",
+            "image_padding": false,
+            "color_scheme": "accent-1"
+          }
+        }
+      },
+      "block_order": [
+        "163101911631895a72-0",
+        "163101911631895a72-1",
+        "163101911631895a72-2"
+      ],
+      "settings": {
+        "heading": "Az értő kommunikáció művészete - Hogyan adj visszajelzést",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
     "main",
-    "16310191071c05122b"
+    "16310191071c05122b",
+    "1631019116650d0325"
   ]
 }
