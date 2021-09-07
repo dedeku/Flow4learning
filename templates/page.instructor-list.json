@@ -13,7 +13,7 @@
         "163091163316c312b2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ismerd meg oktatóinkat<\/p>"
+            "text": "<p>Ismerd meg oktatóinkat!<\/p>"
           }
         }
       },
@@ -25,11 +25,9 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    
     },
     "instructor-list": {
       "type": "talent-instructors-list",
-      "class": "profile-container",
       "settings": {
       }
     }
