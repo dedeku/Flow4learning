@@ -188,6 +188,7 @@
       "blocks": {
         "1626963196529102f5-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Képzések cégeknek"
           }
