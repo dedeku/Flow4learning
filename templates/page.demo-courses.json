@@ -86,11 +86,53 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "1631019799fb4494b2": {
+      "type": "collage",
+      "blocks": {
+        "1631019799674b5761-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_15.17.09.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=AVOkqZrqJVI&ab_channel=GowiththeFlow",
+            "description": "Harmóniában a személyiségtípusokkal - Tervezők és Improvizálók",
+            "image_padding": false
+          }
+        },
+        "1631019799674b5761-1": {
+          "type": "product",
+          "settings": {
+            "product": "harmoniaban-a-szemelyisegtipusokkal",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1631019799674b5761-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "onismeret",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1631019799674b5761-0",
+        "1631019799674b5761-1",
+        "1631019799674b5761-2"
+      ],
+      "settings": {
+        "heading": "Harmóniában a személyiségtípusokkal - Tervezők és Improvizálók",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
     "main",
     "16310191071c05122b",
-    "1631019116650d0325"
+    "1631019116650d0325",
+    "1631019799fb4494b2"
   ]
 }
