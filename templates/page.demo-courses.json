@@ -11,8 +11,9 @@
         "1631019107e8fa97ed-0": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Screenshot_2021-09-07_at_14.57.01.png",
             "video_url": "https:\/\/www.youtube.com\/watch?v=vzCDbiTGqbQ&ab_channel=GowiththeFlow",
-            "description": "Describe the video",
+            "description": "Vezetési stílusok tudatosan: Beosztottak típusai:",
             "image_padding": false
           }
         },
@@ -20,7 +21,7 @@
           "type": "product",
           "settings": {
             "product": "belulrol-vezetes",
-            "second_image": false,
+            "second_image": true,
             "image_padding": false,
             "secondary_background": false
           }
@@ -30,7 +31,7 @@
           "settings": {
             "collection": "vezetes",
             "image_padding": false,
-            "color_scheme": "background-1"
+            "color_scheme": "accent-2"
           }
         }
       },
@@ -40,7 +41,7 @@
         "1631019107e8fa97ed-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Vezetési stílusok tudatosan - Beosztottak típusai",
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
