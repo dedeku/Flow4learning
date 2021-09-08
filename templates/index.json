@@ -506,6 +506,14 @@
             "title": "",
             "text": ""
           }
+        },
+        "c2d6e71a-3635-49d9-9103-2c2442bed9e2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Videoton.png",
+            "title": "",
+            "text": ""
+          }
         }
       },
       "block_order": [
@@ -513,7 +521,8 @@
         "16269636332e363e1f-1",
         "16269636332e363e1f-2",
         "1678b7ac-c33e-4e12-819b-b658afd2a272",
-        "2af1dbf6-7015-4a22-9c65-3f702d384ea1"
+        "2af1dbf6-7015-4a22-9c65-3f702d384ea1",
+        "c2d6e71a-3635-49d9-9103-2c2442bed9e2"
       ],
       "settings": {
         "title": "AKIK TŐLÜNK TANULTAK",
