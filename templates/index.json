@@ -358,7 +358,7 @@
           "type": "button",
           "settings": {
             "button_label": "Megnézem a minikurzusokat",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "shopify:\/\/collections\/minikurzus"
           }
         }
       },
