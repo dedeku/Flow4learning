@@ -253,7 +253,7 @@
           "type": "button",
           "settings": {
             "button_label": "Megnézem a képzéseket",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify:\/\/pages\/nezz-bele-ingyen"
           }
         }
       },
