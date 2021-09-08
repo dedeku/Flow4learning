@@ -309,17 +309,17 @@
         "16269633762719be69-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/Frenyo_Andrea.jpg",
             "title": "Frenyo Andrea",
-            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
+            "text": ""
           }
         },
         "16269633762719be69-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "title": "Kékesi Eszter",
-            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
+            "image": "shopify:\/\/shop_images\/Cseffalvi_Gabor.jpg",
+            "title": "Cséffalvay Gábor",
+            "text": ""
           }
         }
       },
@@ -331,12 +331,12 @@
       "settings": {
         "title": "KIKTŐL TANULHATSZ?",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "secondary",
         "button_label": "Ismerd meg oktatóinkat!",
         "button_link": "shopify:\/\/pages\/oktatoink",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "16269638486602ba4e": {
