@@ -13,7 +13,7 @@
         "15f8179e-58dd-4df2-a308-1cca2694d1a3": {
           "type": "text",
           "settings": {
-            "text": "Fejleszd magad a flow4learning kurzusaival, és légy hatékonyabb a magánéletedben és a karrieredben. Tanulj bárhonnan, bármikor - ahogy számodra a legkényelmesebb."
+            "text": "Fejleszd magad a flow4learning kurzusaival, és légy hatékonyabb a magánéletedben és a munkádban. Tanulj bárhonnan, bármikor - ahogy számodra a legkényelmesebb."
           }
         },
         "button": {
@@ -100,7 +100,7 @@
         "162696284706074dbc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Tanulni, többé válni mindig fantasztikus élmény. Felejtsd el a hagyományos, magolás-alapú tanfolyamokat: <strong>a flow4learning saját fejlesztésű programjai <\/strong>segítenek abban, hogy valóban beépítsd a tanultakat az életedbe, és hatékonyan hasznosíthasd őket az életed minden területén.<\/p><p><\/p><p><strong>Mit nyújt a flow4learning?<\/strong><\/p><p>   - prémium kurzusok a kommunikáció, az önismeret és a vezetés területén<br\/>   - kényelmes, könnyen kezelhető oktatófelület <br\/>   - online kapcsolat a kurzus oktatójával és más résztvevőkkel<\/p><p>   - munkafüzetek a megszerzett tudás elmélyítéséhez és a gyakorláshoz<br\/>   - oklevél a kurzus elvégzéséről <br\/>   - flow4learning-tanulócsoport<\/p>"
+            "text": "<p>Tanulni, többé válni mindig fantasztikus élmény. Felejtsd el a hagyományos, magolás-alapú tanfolyamokat: <strong>a flow4learning saját fejlesztésű programjai <\/strong>segítenek abban, hogy valóban beépítsd a tanultakat az életedbe, és hatékonyan hasznosíthasd őket az életed minden területén.<\/p><p><\/p><p><strong>Mit nyújt a flow4learning?<\/strong><\/p><p>- prémium kurzusok a kommunikáció, az önismeret és a vezetés területén<\/p><p>- kényelmes, könnyen kezelhető oktatófelület <\/p><p>- online kapcsolat a kurzus oktatójával és más résztvevőkkel<\/p><p>- munkafüzetek a megszerzett tudás elmélyítéséhez és a gyakorláshoz<\/p><p>- oklevél a kurzus elvégzéséről <\/p><p>- flow4learning-tanulócsoport<\/p>"
           }
         },
         "162696284706074dbc-2": {
@@ -131,7 +131,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FLOW-digitalis-uzletag-logok-2020-08-30_kommunikacio.png",
             "title": "KOMMUNIKÁCIÓ",
-            "text": "<p>azért, hogy sikeresen érjünk el másokat, és ők szívesen legyenek és beszélgessenek velünk<\/p>"
+            "text": "<p>azért, hogy sikeresen érjünk el másokat, és ők szívesen beszélgessenek és legyenek velünk<\/p>"
           }
         },
         "16269627771e9fe6bd-0": {
@@ -172,6 +172,7 @@
       "blocks": {
         "1626963196529102f5-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Képzések cégeknek"
           }
@@ -302,9 +303,9 @@
         "16269633762719be69-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GyeneseGyorgyi.jpg",
-            "title": "Orosz Györgyi",
-            "text": ""
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "Bozsogi Dia",
+            "text": "<p>Szervezetfejlesztési tanácsadó<\/p>"
           }
         },
         "16269633762719be69-1": {
@@ -382,21 +383,21 @@
           "type": "column",
           "settings": {
             "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
-            "text": "<p>„Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>"
+            "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>"
           }
         },
         "1626963112c776924e-1": {
           "type": "column",
           "settings": {
             "title": "Dr.Kovács Eszter - Audi Hungária Zrt",
-            "text": "<p>„Élvezetes, jól követhető, pont annyira tömör, amennyire kell, de pont annyira részletes is.”<\/p>"
+            "text": "<p>\"Élvezetes, jól követhető, pont annyira tömör, amennyire kell, de pont annyira részletes is.”<\/p>"
           }
         },
         "1626963112c776924e-2": {
           "type": "column",
           "settings": {
             "title": "Résztvevőnk a Sikeres Vezető kurzusról",
-            "text": "<p>„Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>"
+            "text": "<p>\"Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>"
           }
         }
       },
@@ -567,7 +568,7 @@
         "16269630002307db95-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod megszervezni a tanulást, mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is. Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
           }
         },
         "16269630002307db95-2": {
