@@ -167,22 +167,6 @@
         "swipe_on_mobile": false
       }
     },
-    "16269630444bc242c3": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "LEGNÉPSZERŰBB KÉPZÉSEINK",
-        "collection": "legnepszerbubb-kepzeseink",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1626963196529102f5": {
       "type": "image-with-text",
       "blocks": {
@@ -220,6 +204,7 @@
     },
     "1626963305a5cace36": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "LEGNÉPSZERŰBB KURZUSAINK: VEZETŐI KÉPZÉSEK",
         "collection": "vezetes",
@@ -227,6 +212,22 @@
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "16269630444bc242c3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LEGNÉPSZERŰBB KÉPZÉSEINK",
+        "collection": "legnepszerbubb-kepzeseink",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
@@ -626,9 +627,9 @@
     "1626962693d2de0207",
     "162696284706074dbc",
     "16269627771e9fe6bd",
-    "16269630444bc242c3",
     "1626963196529102f5",
     "1626963305a5cace36",
+    "16269630444bc242c3",
     "1627545463300c61dd",
     "16270189427248061e",
     "16269633762719be69",
