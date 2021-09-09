@@ -469,31 +469,14 @@
     "16269636332e363e1f": {
       "type": "multicolumn",
       "blocks": {
+        "27de4192-f042-4ee0-b08b-714d3aaf4399": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": ""
+          }
+        },
         "16269636332e363e1f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MemoQ.png",
-            "title": "",
-            "text": ""
-          }
-        },
-        "16269636332e363e1f-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Linde.png",
-            "title": "",
-            "text": ""
-          }
-        },
-        "16269636332e363e1f-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EmilFrey.png",
-            "title": "",
-            "text": ""
-          }
-        },
-        "1678b7ac-c33e-4e12-819b-b658afd2a272": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/CIB.png",
@@ -501,10 +484,10 @@
             "text": ""
           }
         },
-        "2af1dbf6-7015-4a22-9c65-3f702d384ea1": {
+        "16269636332e363e1f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mol.png",
+            "image": "shopify:\/\/shop_images\/Egis.png",
             "title": "",
             "text": ""
           }
@@ -517,32 +500,48 @@
             "text": ""
           }
         },
-        "b288d4af-aeff-47cd-ab1f-c04735cf315a": {
+        "2af1dbf6-7015-4a22-9c65-3f702d384ea1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Egis.png",
+            "image": "shopify:\/\/shop_images\/Mol.png",
             "title": "",
             "text": ""
           }
         },
-        "27de4192-f042-4ee0-b08b-714d3aaf4399": {
+        "16269636332e363e1f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2560px-Audi-Logo_2016.svg_6eefb596-0041-4f94-9da1-04333e4ad9bf.png",
+            "image": "shopify:\/\/shop_images\/Linde.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "1678b7ac-c33e-4e12-819b-b658afd2a272": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MemoQ.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "b288d4af-aeff-47cd-ab1f-c04735cf315a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EmilFrey.png",
             "title": "",
             "text": ""
           }
         }
       },
       "block_order": [
+        "27de4192-f042-4ee0-b08b-714d3aaf4399",
         "16269636332e363e1f-0",
         "16269636332e363e1f-1",
+        "c2d6e71a-3635-49d9-9103-2c2442bed9e2",
+        "2af1dbf6-7015-4a22-9c65-3f702d384ea1",
         "16269636332e363e1f-2",
         "1678b7ac-c33e-4e12-819b-b658afd2a272",
-        "2af1dbf6-7015-4a22-9c65-3f702d384ea1",
-        "c2d6e71a-3635-49d9-9103-2c2442bed9e2",
-        "b288d4af-aeff-47cd-ab1f-c04735cf315a",
-        "27de4192-f042-4ee0-b08b-714d3aaf4399"
+        "b288d4af-aeff-47cd-ab1f-c04735cf315a"
       ],
       "settings": {
         "title": "AKIK TŐLÜNK TANULTAK",
