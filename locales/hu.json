@@ -55,7 +55,7 @@
     "month_year": "%Y. %B"
   },
   "newsletter": {
-    "label": "E-mail-cím",
+    "label": "E-mail cím",
     "success": "Köszönjük a feliratkozást",
     "button_label": "Feliratkozás"
   },
@@ -90,7 +90,7 @@
       "moderated": "Felhívjuk a figyelmedet, hogy a hozzászólásokat jóvá kell hagyni a közzétételük előtt.",
       "comment_form_title": "Hozzászólás írása",
       "name": "Név",
-      "email": "E-mail-cím",
+      "email": "E-mail cím",
       "message": "Hozzászólás",
       "post": "Hozzászólás elküldése",
       "back_to_blog": "Vissza a blogba",
@@ -315,7 +315,7 @@
     "login_page": {
       "cancel": "Mégse",
       "create_account": "Fiók létrehozása",
-      "email": "E-mail-cím",
+      "email": "E-mail cím",
       "forgot_password": "Elfelejtetted a jelszavadat?",
       "guest_continue": "Tovább",
       "guest_title": "Folytatás vendégként",
@@ -343,7 +343,7 @@
       "title": "Fiók létrehozása",
       "first_name": "Utónév",
       "last_name": "Vezetéknév",
-      "email": "E-mail-cím",
+      "email": "E-mail cím",
       "password": "Jelszó",
       "submit": "Létrehozás"
     },
