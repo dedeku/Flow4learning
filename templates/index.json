@@ -308,14 +308,6 @@
             "text": ""
           }
         },
-        "16269633762719be69-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frenyo_Andrea_e62770f8-0011-43a8-9940-aad5e3fb45d7.jpg",
-            "title": "Frenyo Andrea",
-            "text": ""
-          }
-        },
         "16269633762719be69-2": {
           "type": "column",
           "settings": {
@@ -323,12 +315,20 @@
             "title": "Cséffalvay Gábor",
             "text": ""
           }
+        },
+        "16269633762719be69-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frenyo_Andrea_e62770f8-0011-43a8-9940-aad5e3fb45d7.jpg",
+            "title": "Frenyo Andrea",
+            "text": ""
+          }
         }
       },
       "block_order": [
         "16269633762719be69-0",
-        "16269633762719be69-1",
-        "16269633762719be69-2"
+        "16269633762719be69-2",
+        "16269633762719be69-1"
       ],
       "settings": {
         "title": "KIKTŐL TANULHATSZ?",
