@@ -48,6 +48,7 @@
         "blocks": {
           "footer-1": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "",
               "subtext": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p><\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
@@ -67,7 +68,7 @@
         ],
         "settings": {
           "color_scheme": "accent-2",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Tudás a postafiókodban",
           "show_social": true,
           "enable_country_selector": false,
