@@ -21,10 +21,42 @@
         "enable_sorting": false,
         "collapse_on_larger_devices": false
       }
+    },
+    "1631261799d90ca0e9": {
+      "type": "newsletter",
+      "blocks": {
+        "1631261799d90ca0e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tudás a postafiókodban"
+          }
+        },
+        "1631261799d90ca0e9-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
+          }
+        },
+        "1631261799d90ca0e9-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1631261799d90ca0e9-0",
+        "1631261799d90ca0e9-1",
+        "1631261799d90ca0e9-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1631261799d90ca0e9"
   ]
 }
