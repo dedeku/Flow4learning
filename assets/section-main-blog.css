@@ -1,6 +1,8 @@
 .blog-articles {
   display: grid;
   grid-gap: 1rem;
+  justify-items: start;
+  justify-content: start;
 }
 
 @media screen and (min-width: 750px) {
