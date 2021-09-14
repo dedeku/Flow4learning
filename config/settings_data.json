@@ -23,7 +23,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "KUPONNAL MOST 3+1 AKCIÓ",
+              "text": "3+1 AKCIÓ A MINIKURZUSOKRA",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/oszimegujulas"
             }
