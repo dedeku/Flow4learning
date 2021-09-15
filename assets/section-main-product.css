@@ -760,3 +760,14 @@ a.product__text {
   margin: 0;
   width: 2.2rem;
 }
+
+.gift_button svg {
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+  color: var(--gradient-base-accent-2) !important;
+}
+.gift_button a {
+  color: var(--gradient-base-accent-2) !important;
+  
+}
