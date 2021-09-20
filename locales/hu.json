@@ -399,7 +399,13 @@
       "contact": {
         "last_name_label": "Keresztnév",
         "first_name_label": "Vezetéknév"
+      },
+      "field_errors": {
+        "address_first_name_blank": "Írd be a vezetékneved"
       }
+    },
+    "attributes": {
+      "first_name": "vezetéknév"
     }
   }
 }
