@@ -52,7 +52,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9272_resize.jpg",
             "title": "80.000 résztvevő",
-            "text": "<p>20 év alatt a Flow Magyarország képzésein<\/p>"
+            "text": "<p>20 év alatt a Flow Magyarország képzésein<\/p>",
+            "column_link": ""
           }
         },
         "1626962693d2de0207-1": {
@@ -60,7 +61,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/chris-montgomery-smgTvepind4-unsplash.jpg",
             "title": "Több mint 24 óra online tartalom",
-            "text": "<p>munkafüzetekkel és live konzultációval<\/p>"
+            "text": "<p>munkafüzetekkel és live konzultációval<\/p>",
+            "column_link": ""
           }
         },
         "1626962693d2de0207-2": {
@@ -68,7 +70,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/javier-sierra-6jopFhZkGGk-unsplash.jpg",
             "title": "Eddig 3.041 résztvevő",
-            "text": "<p>az online és blended kurzusainkon<\/p>"
+            "text": "<p>az online és blended kurzusainkon<\/p>",
+            "column_link": ""
           }
         }
       },
@@ -131,7 +134,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FLOW-digitalis-uzletag-logok-2020-08-30_kommunikacio.png",
             "title": "KOMMUNIKÁCIÓ",
-            "text": "<p>azért, hogy sikeresen érjünk el másokat, és ők szívesen beszélgessenek és legyenek velünk<\/p>"
+            "text": "<p>azért, hogy sikeresen érjünk el másokat, és ők szívesen beszélgessenek és legyenek velünk<\/p>",
+            "column_link": "shopify:\/\/collections\/kommunikacio"
           }
         },
         "16269627771e9fe6bd-0": {
@@ -139,7 +143,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FLOW-digitalis-uzletag-logok-2020-08-30_onismeret.png",
             "title": "ÖNISMERET",
-            "text": "<p>azért, hogy tudjuk, hogy a viselkedésünk milyen hatással van másokra, és ez hogyan segíthet bennünket<\/p>"
+            "text": "<p>azért, hogy tudjuk, hogy a viselkedésünk milyen hatással van másokra, és ez hogyan segíthet bennünket<\/p>",
+            "column_link": "shopify:\/\/collections\/onismeret"
           }
         },
         "16269627771e9fe6bd-2": {
@@ -147,7 +152,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FLOW-digitalis-uzletag-logok-2020-08-30_vezetes.png",
             "title": "VEZETÉS",
-            "text": "<p>azért, hogy a magányos vezetői pillanatokban legyen milyen eszközökhöz, tudáshoz nyúlnunk <\/p>"
+            "text": "<p>azért, hogy a magányos vezetői pillanatokban legyen milyen eszközökhöz, tudáshoz nyúlnunk <\/p>",
+            "column_link": "shopify:\/\/collections\/vezetes"
           }
         }
       },
@@ -279,7 +285,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Flow_fekvo_szines.png",
             "title": "",
-            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>"
+            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>",
+            "column_link": ""
           }
         }
       },
@@ -305,7 +312,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Bozsogi_Dia_2ec607aa-5db9-40f6-b551-4625beed4d37.jpg",
             "title": "Bozsogi Dia",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "16269633762719be69-2": {
@@ -313,7 +321,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Cseffalvi_Gabor.jpg",
             "title": "Cséffalvay Gábor",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "16269633762719be69-1": {
@@ -321,7 +330,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Frenyo_Andrea_e62770f8-0011-43a8-9940-aad5e3fb45d7.jpg",
             "title": "Frenyo Andrea",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         }
       },
@@ -383,21 +393,24 @@
           "type": "column",
           "settings": {
             "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
-            "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>"
+            "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>",
+            "column_link": ""
           }
         },
         "1626963112c776924e-1": {
           "type": "column",
           "settings": {
             "title": "Dr.Kovács Eszter - Audi Hungária Zrt",
-            "text": "<p>\"Élvezetes, jól követhető, pont annyira tömör, amennyire kell, de pont annyira részletes is.”<\/p>"
+            "text": "<p>\"Élvezetes, jól követhető, pont annyira tömör, amennyire kell, de pont annyira részletes is.”<\/p>",
+            "column_link": ""
           }
         },
         "1626963112c776924e-2": {
           "type": "column",
           "settings": {
             "title": "Résztvevőnk a Sikeres Vezető kurzusról",
-            "text": "<p>\"Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>"
+            "text": "<p>\"Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>",
+            "column_link": ""
           }
         }
       },
@@ -473,7 +486,8 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "16269636332e363e1f-0": {
@@ -481,7 +495,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/CIB.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "16269636332e363e1f-1": {
@@ -489,7 +504,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Egis.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "c2d6e71a-3635-49d9-9103-2c2442bed9e2": {
@@ -497,7 +513,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Wallis.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "2af1dbf6-7015-4a22-9c65-3f702d384ea1": {
@@ -505,7 +522,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Mol.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "16269636332e363e1f-2": {
@@ -513,7 +531,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Linde.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "1678b7ac-c33e-4e12-819b-b658afd2a272": {
@@ -521,7 +540,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/MemoQ.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         },
         "b288d4af-aeff-47cd-ab1f-c04735cf315a": {
@@ -529,7 +549,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/EmilFrey.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "column_link": ""
           }
         }
       },
