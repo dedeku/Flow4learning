@@ -397,7 +397,8 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "last_name_label": "Keresztnév"
+        "last_name_label": "Keresztnév",
+        "first_name_label": "Vezetéknév"
       }
     }
   }
