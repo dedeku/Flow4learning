@@ -393,5 +393,12 @@
       "copy_code_success": "Sikeres volt a kód másolása",
       "print_gift_card": "Nyomtatás"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "last_name_label": "Keresztnév"
+      }
+    }
   }
 }
