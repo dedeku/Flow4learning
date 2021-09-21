@@ -30,10 +30,27 @@
       "type": "talent-instructors-list",
       "settings": {
       }
+    },
+    "1632240743454adb58": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LEGNÉPSZERŰBB KÉPZÉSEINK",
+        "collection": "all",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
     "1630911633c4cceaaa",
-    "instructor-list"
+    "instructor-list",
+    "1632240743454adb58"
   ]
 }
