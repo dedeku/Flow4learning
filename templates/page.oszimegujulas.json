@@ -18,7 +18,7 @@
         "1630665990f29be0d7-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p>Tudjuk, hogy mindent megteszel, amit tudsz. Hogy helytállsz a munkahelyeden, a családi feladataidban, a párkapcsolatodban.<\/p><p>De talán te is érzed, hogy lehetne még jobb. Hogy <strong>lehetnél harmonikusabb, hatékonyabb, eredményesebb.<\/strong> Könnyebben oldhatnád meg a konfliktusokat, vagy akár meg is előzhetnéd a kialakulásukat. Végre nem a végtelen köröket rónád, hanem tisztán látnád az utat, amin haladsz. Ugye, mennyire felszabadító lenne?<\/p><p>Mi ismerjük az érzést. Látjuk többezer végzett hallgatónk arcán az örömöt, kapjuk a visszajelzéseiket, átéljük velük a sikereket. Fantasztikus érzés, amikor egy, a témában rutinos szakértő iránymutatásával <strong>egyenesbe kerülnek a dolgok<\/strong>, és ami lehetetlennek tűnt, immár egyértelmű lesz.<\/p><p><strong>Már csak te hiányzol hozzá - vagyis a döntésed.<\/strong><\/p><p>Legyen ez az ősz a fejlődésé! Tégy meg magadért annyit, hogy időt szánsz saját magadra - és az egész életedben érezni fogod a változásokat. Legyen szó akár a <strong>párkapcsolatodról, a munkahelyedről, a kamaszodó gyerekeddel való kommunikációról vagy a saját harmóniádról<\/strong>, a flow4learning minikurzusai között megtalálod azokat a témákat, amik igazán neked valók.<\/p><p>Több területen is felvérteznéd magad? Használd ki őszi akciónkat! <strong>Válassz három minikurzust, és a negyediket ajándékba kapod tőlünk. <\/strong>Így úgy zárhatod ezt az évet, és indulhatsz neki a következőnek, hogy biztos lehetsz abban, hogy tettél magadért.<\/p><p>Persze nem hagyunk egyedül - kurzusaink profi oktatói folyamatosan figyelemmel kísérik fejlődésed. Munkafüzetekkel segítjük a tananyag feldolgozását, és kérdéseidre örömmel válaszolunk. <strong>Mert nekünk is fontos, hogy még teljesebb legyél.<\/strong><\/p><p><\/p>"
+            "text": "<p><\/p><p>Tudjuk, hogy mindent megteszel, amit tudsz. Hogy helytállsz a munkahelyeden, a családi feladataidban, a párkapcsolatodban.<\/p><p>De talán te is érzed, hogy lehetne még jobb. Hogy <strong>lehetnél harmonikusabb, hatékonyabb, eredményesebb.<\/strong> Könnyebben oldhatnád meg a konfliktusokat, vagy akár meg is előzhetnéd a kialakulásukat. Végre nem a végtelen köröket rónád, hanem tisztán látnád az utat, amin haladsz. Ugye, mennyire felszabadító lenne?<\/p><p>Mi ismerjük az érzést. Látjuk többezer végzett hallgatónk arcán az örömöt, kapjuk a visszajelzéseiket, átéljük velük a sikereket. Fantasztikus érzés, amikor egy, a témában rutinos szakértő iránymutatásával <strong>egyenesbe kerülnek a dolgok<\/strong>, és ami lehetetlennek tűnt, immár egyértelmű lesz.<\/p><p><strong>Már csak te hiányzol hozzá - vagyis a döntésed.<\/strong><\/p><p>Legyen ez az ősz a fejlődésé! Tégy meg magadért annyit, hogy időt szánsz saját magadra - és az egész életedben érezni fogod a változásokat. Legyen szó akár a <strong>párkapcsolatodról, a munkahelyedről, a kamaszodó gyerekeddel való kommunikációról vagy a saját harmóniádról<\/strong>, a flow4learning minikurzusai között megtalálod azokat a témákat, amik igazán neked valók.<\/p><p>Több területen is felvérteznéd magad? Használd ki őszi akciónkat! <strong>Válassz négy minikurzust, és a negyediket ajándékba kapod tőlünk. <\/strong>Így úgy zárhatod ezt az évet, és indulhatsz neki a következőnek, hogy biztos lehetsz abban, hogy tettél magadért.<\/p><p>Persze nem hagyunk egyedül - kurzusaink profi oktatói folyamatosan figyelemmel kísérik fejlődésed. Munkafüzetekkel segítjük a tananyag feldolgozását, és kérdéseidre örömmel válaszolunk. <strong>Mert nekünk is fontos, hogy még teljesebb legyél.<\/strong><\/p><p><\/p>"
           }
         },
         "1630665990f29be0d7-2": {
@@ -39,6 +39,41 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "1632221312b3de38f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632221312b3de38f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hogy működik?"
+          }
+        },
+        "1632221312b3de38f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Minikurzus akciónkat kényelmesen veheted igénybe: csak pakold a kosaradba négy kedvenc kurzusod, és máris láthatod, hogy a negyediket ajándékba adjuk! Kezdd el a fejlődést most!<\/p>"
+          }
+        },
+        "1632221312b3de38f1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632221312b3de38f1-0",
+        "1632221312b3de38f1-1",
+        "1632221312b3de38f1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-21_at_12.55.00.png",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
       }
     },
     "163066644033a85b23": {
@@ -88,7 +123,7 @@
     "16306670036aa38557": {
       "type": "featured-collection",
       "settings": {
-        "title": "Válassz minikurzusaink közül",
+        "title": "Válassz minikurzusaink közül négyet és a negyediket ajándékba kapod! Tedd őket a kosaradba, próbáld ki!",
         "collection": "minikurzus-akcio-magyar-nyelven",
         "products_to_show": 12,
         "show_view_all": true,
@@ -105,6 +140,7 @@
   "order": [
     "main",
     "1630665990b238e3bb",
+    "1632221312b3de38f1",
     "163066644033a85b23",
     "16306670036aa38557"
   ]
