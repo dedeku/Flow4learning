@@ -72,7 +72,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-21_at_12.55.00.png",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
