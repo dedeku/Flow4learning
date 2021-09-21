@@ -147,41 +147,6 @@
         "full_width": true
       }
     },
-    "1632221312b3de38f1": {
-      "type": "image-with-text",
-      "blocks": {
-        "1632221312b3de38f1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Hogy működik?"
-          }
-        },
-        "1632221312b3de38f1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Minikurzus akciónkat kényelmesen veheted igénybe: csak pakold a kosaradba négy kedvenc kurzusod, és máris láthatod, hogy a negyediket ajándékba adjuk! Kezdd el a fejlődést most!<\/p>"
-          }
-        },
-        "1632221312b3de38f1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1632221312b3de38f1-0",
-        "1632221312b3de38f1-1",
-        "1632221312b3de38f1-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-21_at_12.55.00.png",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "text_first"
-      }
-    },
     "163066644033a85b23": {
       "type": "image-banner",
       "blocks": {
@@ -226,6 +191,41 @@
         "show_text_below": true
       }
     },
+    "1632221312b3de38f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632221312b3de38f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hogy működik?"
+          }
+        },
+        "1632221312b3de38f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Minikurzus akciónkat kényelmesen veheted igénybe: csak pakold a kosaradba négy kedvenc kurzusod, és máris láthatod, hogy a negyediket ajándékba adjuk! Kezdd el a fejlődést most!<\/p>"
+          }
+        },
+        "1632221312b3de38f1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632221312b3de38f1-0",
+        "1632221312b3de38f1-1",
+        "1632221312b3de38f1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2021-09-21_at_12.55.00.png",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
+      }
+    },
     "16306670036aa38557": {
       "type": "featured-collection",
       "settings": {
@@ -249,8 +249,8 @@
     "163222216315cecece",
     "1632222217cfd0379f",
     "1630665990b238e3bb",
-    "1632221312b3de38f1",
     "163066644033a85b23",
+    "1632221312b3de38f1",
     "16306670036aa38557"
   ]
 }
