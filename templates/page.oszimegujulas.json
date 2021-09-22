@@ -221,7 +221,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/image_12_ebe889b0-b7bb-4cf4-aa38-b3155d90af2f.png",
-        "height": "small",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
