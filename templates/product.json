@@ -53,6 +53,16 @@
           "type": "rating",
           "settings": {
           }
+        },
+        "606de008-a40c-46b1-a391-a9acdcce0d65": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#813f94",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "Még nincs értékelés"
+          }
         }
       },
       "block_order": [
@@ -64,7 +74,8 @@
         "buy_buttons",
         "description",
         "share",
-        "725a5c1b-55ad-4a0f-ac32-9ed5612aaa71"
+        "725a5c1b-55ad-4a0f-ac32-9ed5612aaa71",
+        "606de008-a40c-46b1-a391-a9acdcce0d65"
       ],
       "settings": {
         "enable_sticky_info": true,
