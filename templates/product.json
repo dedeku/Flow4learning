@@ -77,6 +77,22 @@
         "enable_video_looping": false
       }
     },
+    "1632817538a8c64073": {
+      "type": "revy-contents",
+      "blocks": {
+        "1632817538a8c64073-0": {
+          "type": "html",
+          "settings": {
+            "revy-content-section": "<!-- Put Revy Content Here -->"
+          }
+        }
+      },
+      "block_order": [
+        "1632817538a8c64073-0"
+      ],
+      "settings": {
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -124,6 +140,7 @@
   },
   "order": [
     "main",
+    "1632817538a8c64073",
     "product-recommendations",
     "16312618716e27a562"
   ]
