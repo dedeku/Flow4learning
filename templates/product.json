@@ -77,22 +77,6 @@
         "enable_video_looping": false
       }
     },
-    "1632817538a8c64073": {
-      "type": "revy-contents",
-      "blocks": {
-        "1632817538a8c64073-0": {
-          "type": "html",
-          "settings": {
-            "revy-content-section": "<!-- Put Revy Content Here -->"
-          }
-        }
-      },
-      "block_order": [
-        "1632817538a8c64073-0"
-      ],
-      "settings": {
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -136,12 +120,28 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1632818596dab7d5a0": {
+      "type": "apps",
+      "blocks": {
+        "40ec651e-95f1-4fc8-a12b-d0c1e49b4624": {
+          "type": "shopify:\/\/apps\/unlimited-bundles-discounts\/blocks\/product-page-placeholder\/d33d0f48-dee0-42a0-b156-2a5dce91814a",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "40ec651e-95f1-4fc8-a12b-d0c1e49b4624"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "1632817538a8c64073",
     "product-recommendations",
-    "16312618716e27a562"
+    "16312618716e27a562",
+    "1632818596dab7d5a0"
   ]
 }
