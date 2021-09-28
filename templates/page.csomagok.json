@@ -36,10 +36,27 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16328187051cf4b58b": {
+      "type": "apps",
+      "blocks": {
+        "85562c04-15ad-4fc8-921a-396aa7c7f246": {
+          "type": "shopify:\/\/apps\/unlimited-bundles-discounts\/blocks\/embed-all\/d33d0f48-dee0-42a0-b156-2a5dce91814a",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "85562c04-15ad-4fc8-921a-396aa7c7f246"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "16309173004eb6add0"
+    "16309173004eb6add0",
+    "16328187051cf4b58b"
   ]
 }
