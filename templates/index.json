@@ -482,14 +482,6 @@
     "16269636332e363e1f": {
       "type": "multicolumn",
       "blocks": {
-        "27de4192-f042-4ee0-b08b-714d3aaf4399": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "column_link": ""
-          }
-        },
         "16269636332e363e1f-0": {
           "type": "column",
           "settings": {
@@ -555,7 +547,6 @@
         }
       },
       "block_order": [
-        "27de4192-f042-4ee0-b08b-714d3aaf4399",
         "16269636332e363e1f-0",
         "16269636332e363e1f-1",
         "c2d6e71a-3635-49d9-9103-2c2442bed9e2",
