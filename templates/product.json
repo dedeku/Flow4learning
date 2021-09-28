@@ -120,28 +120,11 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "1632818596dab7d5a0": {
-      "type": "apps",
-      "blocks": {
-        "40ec651e-95f1-4fc8-a12b-d0c1e49b4624": {
-          "type": "shopify:\/\/apps\/unlimited-bundles-discounts\/blocks\/product-page-placeholder\/d33d0f48-dee0-42a0-b156-2a5dce91814a",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "40ec651e-95f1-4fc8-a12b-d0c1e49b4624"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "16312618716e27a562",
-    "1632818596dab7d5a0"
+    "16312618716e27a562"
   ]
 }
