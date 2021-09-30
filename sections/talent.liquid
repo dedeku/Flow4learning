@@ -1,0 +1,41 @@
+{% if product.type != 'ajándékkártya' %}
+
+<div class="tabset">
+  <!-- Tab 1 -->
+  <input type="radio" name="tabset" id="tab1" aria-controls="tematika" checked>
+  <label for="tab1">Tematika</label>
+  <!-- Tab 2 -->
+  <input type="radio" name="tabset" id="tab2" aria-controls="oktatok">
+  <label for="tab2">Oktatók</label>
+  <!-- Tab 3 -->
+  <input type="radio" name="tabset" id="tab3" aria-controls="ertekelesek">
+  <label for="tab3">Értékelések</label>
+  
+  <div class="tab-panels">
+    <section id="tematika" class="tab-panel">
+      {% render 'talent-units' %}
+    </section>
+    <section id="oktatok" class="tab-panel">
+      {% render 'talent-instructors' %}
+    </section>
+    <section id="ertekelesek" class="tab-panel">
+      <h2>Értékelések</h2>
+      <div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
+    </section>
+  </div>
+</div>
+
+{% endif %}
+
+{% schema %}
+  {
+    "name": "Talent info",
+    
+    "presets": [
+      {
+        "name": "Talent",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
