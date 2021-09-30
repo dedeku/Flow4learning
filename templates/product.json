@@ -93,6 +93,11 @@
         "include_margins": true
       }
     },
+    "16329993304fdfcbff": {
+      "type": "talent",
+      "settings": {
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -141,6 +146,7 @@
   "order": [
     "main",
     "1632828242989022b2",
+    "16329993304fdfcbff",
     "product-recommendations",
     "16312618716e27a562"
   ]
