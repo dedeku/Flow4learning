@@ -77,6 +77,11 @@
         "enable_video_looping": false
       }
     },
+    "16329993304fdfcbff": {
+      "type": "talent",
+      "settings": {
+      }
+    },
     "1632828242989022b2": {
       "type": "apps",
       "blocks": {
@@ -140,6 +145,7 @@
   },
   "order": [
     "main",
+    "16329993304fdfcbff",
     "1632828242989022b2",
     "product-recommendations",
     "16312618716e27a562"
