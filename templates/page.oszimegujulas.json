@@ -191,6 +191,37 @@
         "show_text_below": true
       }
     },
+    "16336152467c9a3cb5": {
+      "type": "apps",
+      "blocks": {
+        "3c32bece-11cd-4ac7-8aa5-29e9e1770bdf": {
+          "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": "2np1"
+          }
+        },
+        "394a641b-811c-45af-b51a-cbbf27ee970b": {
+          "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": "2ofz"
+          }
+        },
+        "9145fd8e-c067-43ea-ba27-55e36c3ebf33": {
+          "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": "2og0"
+          }
+        }
+      },
+      "block_order": [
+        "3c32bece-11cd-4ac7-8aa5-29e9e1770bdf",
+        "394a641b-811c-45af-b51a-cbbf27ee970b",
+        "9145fd8e-c067-43ea-ba27-55e36c3ebf33"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "16323043239db57f28": {
       "type": "image-with-text",
       "blocks": {
@@ -250,6 +281,7 @@
     "1632222217cfd0379f",
     "1630665990b238e3bb",
     "163066644033a85b23",
+    "16336152467c9a3cb5",
     "16323043239db57f28",
     "16306670036aa38557"
   ]
