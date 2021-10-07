@@ -191,6 +191,43 @@
         "show_text_below": true
       }
     },
+    "1633615253bda023b4": {
+      "type": "rich-text",
+      "blocks": {
+        "1633615253bda023b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Válassz csomagot!",
+            "heading_size": "h0"
+          }
+        },
+        "1633615253bda023b4-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1633615253bda023b4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1633615253bda023b4-0",
+        "1633615253bda023b4-1",
+        "1633615253bda023b4-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
     "16336152467c9a3cb5": {
       "type": "apps",
       "blocks": {
@@ -281,6 +318,7 @@
     "1632222217cfd0379f",
     "1630665990b238e3bb",
     "163066644033a85b23",
+    "1633615253bda023b4",
     "16336152467c9a3cb5",
     "16323043239db57f28",
     "16306670036aa38557"
