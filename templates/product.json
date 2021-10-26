@@ -15,6 +15,14 @@
             "text_style": "subtitle"
           }
         },
+        "f645e720-46d9-4583-b141-d7d39ea6815d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Kurzus időtartama: {{ product.metafields.my_fields.kurzus_idotartama.value }}",
+            "text_style": "body"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -58,26 +66,19 @@
             "product": "{{product}}",
             "stars_text_empty": "Még nincs értékelés"
           }
-        },
-        "f645e720-46d9-4583-b141-d7d39ea6815d": {
-          "type": "text",
-          "settings": {
-            "text": "Kurzus időtartama: {{ product.metafields.my_fields.kurzus_idotartama.value }}",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "title",
         "subtitle",
+        "f645e720-46d9-4583-b141-d7d39ea6815d",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
         "share",
-        "606de008-a40c-46b1-a391-a9acdcce0d65",
-        "f645e720-46d9-4583-b141-d7d39ea6815d"
+        "606de008-a40c-46b1-a391-a9acdcce0d65"
       ],
       "settings": {
         "enable_sticky_info": true,
