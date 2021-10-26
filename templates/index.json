@@ -273,7 +273,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/three-business-women.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -308,7 +308,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/leon-0K7GgiA8lVE-unsplash.jpg",
         "height": "adapt",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "layout": "image_first"
       }
     },
