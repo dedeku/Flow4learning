@@ -242,6 +242,41 @@
         "show_rating": false
       }
     },
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető képzés"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>SAJÁTÍTSD EL A SIKERES VEZETŐK NÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/www.sikeresvezetp.flow4"
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1627545463300c61dd": {
       "type": "image-with-text",
       "blocks": {
@@ -633,42 +668,6 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető képzés"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>SAJÁTÍTSD EL A SIKERES VEZETŐK NÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/www.sikeresvezetp.flow4"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -679,6 +678,7 @@
     "1626963196529102f5",
     "1626963305a5cace36",
     "16269630444bc242c3",
+    "163524516749ec085a",
     "1627545463300c61dd",
     "16270189427248061e",
     "16269633762719be69",
@@ -688,7 +688,6 @@
     "16310798590329d19b",
     "16269636332e363e1f",
     "16269630002307db95",
-    "16269636913ba50bcb",
-    "163524516749ec085a"
+    "16269636913ba50bcb"
   ]
 }
