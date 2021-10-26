@@ -22,11 +22,10 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "3+1 AKCIÓ A MINIKURZUSOKRA",
+              "text": "KARÁCSONYI AKCIÓ CÉGEKNEK",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/pages\/oszimegujulas"
+              "link": "shopify:\/\/pages\/karacsony"
             }
           }
         },
