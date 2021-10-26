@@ -647,14 +647,14 @@
         "163524516749ec085a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><strong>SAJÁTÍTSD EL A SIKERES VEZETŐK NÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
           }
         },
         "163524516749ec085a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/www.sikeresvezetp.flow4"
           }
         }
       },
