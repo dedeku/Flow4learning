@@ -357,19 +357,19 @@
         "16269638486602ba4e-0": {
           "type": "heading",
           "settings": {
-            "heading": "BACK TO SCHOOL - TANULJ VELÜNK ŐSSZEL"
+            "heading": "AJÁNDÉKOZZ KÉPZÉST KOLLEGÁIDNAK"
           }
         },
         "16269638486602ba4e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Az ősz mindig az új kezdetek időszaka - mindannyian érezzük a levegőben a tettrekészséget a nyári pihenés után. Mit szólnál, ha végre a saját fejlődésedre is szánhatnál időt? <\/p><p>Neked hoztuk létre őszi akciónkat: <strong>válaszd a minikurzusaink közül bármelyik hármat, és egyet ajándékba adunk<\/strong> melléjük! Tanulj velünk, és légy büszke az eredményeidre!<\/p>"
+            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
           }
         },
         "16269638486602ba4e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Megnézem a minikurzusokat",
+            "button_label": "Megnézem a céges karácsonyi ajánlatot",
             "button_link": "shopify:\/\/collections\/minikurzus"
           }
         }
@@ -380,7 +380,7 @@
         "16269638486602ba4e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sale-tag-online-shopping.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
         "height": "adapt",
         "color_scheme": "accent-2",
         "layout": "image_first"
@@ -633,6 +633,42 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető képzés"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -652,6 +688,7 @@
     "16310798590329d19b",
     "16269636332e363e1f",
     "16269630002307db95",
-    "16269636913ba50bcb"
+    "16269636913ba50bcb",
+    "163524516749ec085a"
   ]
 }
