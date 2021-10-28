@@ -34,6 +34,11 @@
             "picker_type": "button"
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -68,6 +73,7 @@
         "f645e720-46d9-4583-b141-d7d39ea6815d",
         "price",
         "variant_picker",
+        "quantity_selector",
         "buy_buttons",
         "description",
         "share",
