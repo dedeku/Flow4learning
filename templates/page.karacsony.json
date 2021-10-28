@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16349099934647edd1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16349099934647edd1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kedvezményes online kurzusok cégeknek"
+          }
+        },
+        "16349099934647edd1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Szeretnéd meglepni valamivel kollégáidat karácsonyra? Nem tudod mi is lehetne ez? Egy üveg bor vagy egy céges logoval ellátott bögre? Nekünk van jobb ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad kollégáidnak, akik érdeklődésük alapján, összesen tizenegy online minikurzusból tudnak választani a lenti kínálatból.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16349099934647edd1-0",
+        "16349099934647edd1-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo-1545785028-23ee5937cf69.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16349112885ff0d574": {
+      "type": "rich-text",
+      "blocks": {
+        "16349112885ff0d574-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Válassz csomagot!",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "16349112885ff0d574-0"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "163491050160340610": {
+      "type": "multicolumn",
+      "blocks": {
+        "163491050160340610-0": {
+          "type": "column",
+          "settings": {
+            "title": "Alap csomag",
+            "text": "<p>- minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<br\/><br\/><\/p><p><strong>5.000 Ft + ÁFA \/ fő<\/strong><\/p><p><\/p><p>(a <a href=\"http:\/\/www.flow4learning.hu\/\" target=\"_blank\" title=\"http:\/\/www.flow4learning.hu\/\">www.flow4learning.hu<\/a> oldalon történő vásárlás esetén <\/p><p>4.717 Ft + ÁFA \/ fő)<\/p>",
+            "column_link": ""
+          }
+        },
+        "163491050160340610-1": {
+          "type": "column",
+          "settings": {
+            "title": "Optimum csomag",
+            "text": "<p>- minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail emlékeztetőket kapnak<\/p><p>- folyamatos visszajelzést adunk a HR-nek \/ vezetésnek a haladásról<br\/><br\/><\/p><p><strong>8.000 Ft + ÁFA \/ fő<\/strong><\/p>",
+            "column_link": ""
+          }
+        },
+        "163491050160340610-2": {
+          "type": "column",
+          "settings": {
+            "title": "Prémium csomag",
+            "text": "<p>- minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail emlékeztetőket kapnak<\/p><p>- folyamatos visszajelzést adunk a HR-nek \/ vezetésnek a haladásról<\/p><p>- cégre szabott 2 órás alkalmazás-segítő workshopot tartunk a résztvevőknek (minimum 6 fő esetén)<br\/><br\/><strong>20.000 Ft + ÁFA \/ fő<\/strong><\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163491050160340610-0",
+        "163491050160340610-1",
+        "163491050160340610-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16349106773cf6b3c5": {
+      "type": "image-banner",
+      "blocks": {
+        "16349106773cf6b3c5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tanultál már könyvből biciklizni?",
+            "heading_size": "medium"
+          }
+        },
+        "16349106773cf6b3c5-1": {
+          "type": "text",
+          "settings": {
+            "text": "Vannak dolgok, amiket sokkal hatékonyabb gyakorlatban elsajátítani. Ezért is adunk minden videokurzusunkhoz gyakorló feladatokat."
+          }
+        }
+      },
+      "block_order": [
+        "16349106773cf6b3c5-0",
+        "16349106773cf6b3c5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/person-rides-a-bike-with-a-mural-of-a-bike-behind-them.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1634911291ea9e702d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Válassz minikurzusaink közül!",
+        "collection": "minikurzus",
+        "products_to_show": 12,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1634911338c79fc370": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Írj nekünk a részletekért:"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16349099934647edd1",
+    "16349112885ff0d574",
+    "163491050160340610",
+    "16349106773cf6b3c5",
+    "1634911291ea9e702d",
+    "1634911338c79fc370"
+  ]
+}
