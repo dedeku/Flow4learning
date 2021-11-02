@@ -17,9 +17,8 @@
         },
         "f645e720-46d9-4583-b141-d7d39ea6815d": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Kurzus időtartama: {{ product.metafields.my_fields.kurzus_idotartama.value }}",
+            "text": "{{ product.metafields.my_fields.kurzus_idotartama.value }}",
             "text_style": "body"
           }
         },
