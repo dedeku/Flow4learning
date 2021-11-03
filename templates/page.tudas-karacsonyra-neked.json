@@ -158,6 +158,12 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1635936903ba05ef6f": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Írj nekünk a részletekért:"
+      }
     }
   },
   "order": [
@@ -165,6 +171,7 @@
     "16309173004eb6add0",
     "1635929162cf8a802c",
     "1635930224a3e4f8fb",
-    "16359302134eacfd30"
+    "16359302134eacfd30",
+    "1635936903ba05ef6f"
   ]
 }
