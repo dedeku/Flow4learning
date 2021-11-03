@@ -477,7 +477,7 @@
           "type": "button",
           "settings": {
             "button_label": "Megnézem a céges karácsonyi ajánlatot",
-            "button_link": "shopify:\/\/collections\/minikurzus"
+            "button_link": "shopify:\/\/pages\/karacsony"
           }
         }
       },
