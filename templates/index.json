@@ -44,6 +44,41 @@
         "show_text_below": true
       }
     },
+    "163592875498457ddd": {
+      "type": "image-with-text",
+      "blocks": {
+        "163592875498457ddd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163592875498457ddd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "163592875498457ddd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "hvjhvhg",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163592875498457ddd-0",
+        "163592875498457ddd-1",
+        "163592875498457ddd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1626962693d2de0207": {
       "type": "multicolumn",
       "blocks": {
@@ -603,26 +638,26 @@
     },
     "16269630002307db95": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16269630002307db95-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?",
             "heading_size": "medium"
           }
         },
         "16269630002307db95-1": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
           }
         },
         "16269630002307db95-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "button_label": "A letöltéshez kattints ide",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0576\/1581\/0736\/files\/Tanulasi_Tippek_es_Trukkok.pdf?v=1635853739",
+            "button_label": "",
+            "button_link": "",
             "button_style_secondary": true
           }
         }
@@ -668,45 +703,11 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "1635853906bd9ef4de": {
-      "type": "image-with-text",
-      "blocks": {
-        "1635853906bd9ef4de-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "TANULNI MENŐ! DE HOGYAN ÉRDEMES? Ingyenesen letölthető tippek a tanuláshoz"
-          }
-        },
-        "1635853906bd9ef4de-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, <strong>hogy hogyan teheted eredményessé a saját tanulásodat<\/strong>. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
-          }
-        },
-        "1635853906bd9ef4de-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "A letöltéshez kattints ide",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0576\/1581\/0736\/files\/Tanulasi_Tippek_es_Trukkok.pdf?v=1635853739"
-          }
-        }
-      },
-      "block_order": [
-        "1635853906bd9ef4de-0",
-        "1635853906bd9ef4de-1",
-        "1635853906bd9ef4de-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
     "image_banner",
+    "163592875498457ddd",
     "1626962693d2de0207",
     "162696284706074dbc",
     "16269627771e9fe6bd",
@@ -723,7 +724,6 @@
     "16310798590329d19b",
     "16269636332e363e1f",
     "16269630002307db95",
-    "16269636913ba50bcb",
-    "1635853906bd9ef4de"
+    "16269636913ba50bcb"
   ]
 }

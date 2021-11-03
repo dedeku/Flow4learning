@@ -36,10 +36,46 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1635929162cf8a802c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1635929162cf8a802c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kedvezményes online kurzusok cégeknek"
+          }
+        },
+        "1635929162cf8a802c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1635929162cf8a802c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635929162cf8a802c-0",
+        "1635929162cf8a802c-1",
+        "1635929162cf8a802c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow4learning_karacsony.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
-    "16309173004eb6add0"
+    "16309173004eb6add0",
+    "1635929162cf8a802c"
   ]
 }
