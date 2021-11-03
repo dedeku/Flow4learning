@@ -20,6 +20,15 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "a444bc0d-6409-46a4-974d-a8abe7b566cc": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Tudás karácsonyra Neked!",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/pages\/tudas-karacsonyra-neked"
+            }
+          },
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
@@ -30,6 +39,7 @@
           }
         },
         "block_order": [
+          "a444bc0d-6409-46a4-974d-a8abe7b566cc",
           "announcement-bar-0"
         ],
         "settings": {
