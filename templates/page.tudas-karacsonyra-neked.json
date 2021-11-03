@@ -43,20 +43,20 @@
         "1635929162cf8a802c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Kedvezményes online kurzusok cégeknek"
+            "heading": "Kedvezményes online kurzusok Neked"
           }
         },
         "1635929162cf8a802c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><br\/>Szeretnéd meglepni barátaidat, szeretteidet karácsonyra, de még nem tudod mit vegyél? Nekünk van ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad. <\/p><p>Válaszd a MINIKURZUS  AJÁNDÉKKÁRTYÁT, aminek segítségével 11 kurzusból választhatja ki a megajándékozott fél a neki tetsző tartalmat!<br\/><\/p>"
           }
         },
         "1635929162cf8a802c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Megnézem",
+            "button_link": "shopify:\/\/collections\/minikurzus"
           }
         }
       },
@@ -144,6 +144,7 @@
     },
     "16359302134eacfd30": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "collection": "ajandekkartyak",
