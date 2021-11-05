@@ -32,12 +32,6 @@
         "layout": "text_first"
       }
     },
-    "1634911338c79fc370": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Írj nekünk a részletekért:"
-      }
-    },
     "16349112885ff0d574": {
       "type": "rich-text",
       "blocks": {
@@ -101,6 +95,12 @@
         "swipe_on_mobile": false
       }
     },
+    "1634911338c79fc370": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Írj nekünk a részletekért:"
+      }
+    },
     "16349106773cf6b3c5": {
       "type": "image-banner",
       "blocks": {
@@ -153,9 +153,9 @@
   "order": [
     "main",
     "16349099934647edd1",
-    "1634911338c79fc370",
     "16349112885ff0d574",
     "163491050160340610",
+    "1634911338c79fc370",
     "16349106773cf6b3c5",
     "1634911291ea9e702d"
   ]
