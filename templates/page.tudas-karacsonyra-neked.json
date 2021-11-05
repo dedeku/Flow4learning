@@ -49,7 +49,7 @@
         "1635929162cf8a802c-1": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/>Szeretnéd meglepni barátaidat, szeretteidet karácsonyra, de még nem tudod mit vegyél? Nekünk van ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad. <\/p><p>Válaszd a MINIKURZUS  AJÁNDÉKKÁRTYÁT, aminek segítségével 11 kurzusból választhatja ki a megajándékozott fél a neki tetsző tartalmat!<br\/><\/p>"
+            "text": "<p><br\/>Szeretnéd meglepni barátaidat, szeretteidet karácsonyra, de még nem tudod mit vegyél? Nekünk van ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad. <\/p><p>Válaszd a <strong>MINIKURZUS  AJÁNDÉKKÁRTYÁT<\/strong>, aminek segítségével 11 kurzusból választhatja ki a megajándékozott fél a neki tetsző tartalmat!<br\/><\/p>"
           }
         },
         "1635929162cf8a802c-2": {
@@ -76,7 +76,7 @@
     "16361032538137b6c0": {
       "type": "featured-collection",
       "settings": {
-        "title": "Válassz az alábbi minikurzusaink közül!",
+        "title": "Válassz alábbi minikurzusaink közül!",
         "collection": "minikurzus",
         "products_to_show": 12,
         "show_view_all": true,
