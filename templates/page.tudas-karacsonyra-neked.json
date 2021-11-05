@@ -72,6 +72,22 @@
         "layout": "image_first"
       }
     },
+    "16361032538137b6c0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Válassz Karácsonyra minikurzusaink közül:",
+        "collection": "minikurzus",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1635930224a3e4f8fb": {
       "type": "featured-product",
       "blocks": {
@@ -142,43 +158,10 @@
         "enable_video_looping": false
       }
     },
-    "16359302134eacfd30": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Featured collection",
-        "collection": "ajandekkartyak",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1635936903ba05ef6f": {
       "type": "contact-form",
       "settings": {
         "heading": "Írj nekünk a részletekért:"
-      }
-    },
-    "16361032538137b6c0": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Válassz minikurzusaink közül",
-        "collection": "minikurzus",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     }
   },
@@ -186,9 +169,8 @@
     "main",
     "16309173004eb6add0",
     "1635929162cf8a802c",
+    "16361032538137b6c0",
     "1635930224a3e4f8fb",
-    "16359302134eacfd30",
-    "1635936903ba05ef6f",
-    "16361032538137b6c0"
+    "1635936903ba05ef6f"
   ]
 }
