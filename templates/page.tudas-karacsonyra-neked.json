@@ -164,6 +164,22 @@
       "settings": {
         "heading": "Írj nekünk a részletekért:"
       }
+    },
+    "16361032538137b6c0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Válassz minikurzusaink közül",
+        "collection": "minikurzus",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -172,6 +188,7 @@
     "1635929162cf8a802c",
     "1635930224a3e4f8fb",
     "16359302134eacfd30",
-    "1635936903ba05ef6f"
+    "1635936903ba05ef6f",
+    "16361032538137b6c0"
   ]
 }
