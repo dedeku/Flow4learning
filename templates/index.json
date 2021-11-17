@@ -559,25 +559,24 @@
     },
     "163592875498457ddd": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "163592875498457ddd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?"
           }
         },
         "163592875498457ddd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
           }
         },
         "163592875498457ddd-2": {
           "type": "button",
           "settings": {
-            "button_label": "hvjhvhg",
-            "button_link": ""
+            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
+            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
           }
         }
       },
@@ -588,7 +587,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "large",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
