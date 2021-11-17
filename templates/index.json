@@ -330,6 +330,90 @@
         "layout": "image_first"
       }
     },
+    "16310798590329d19b": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Tippek, trükkök a mindennapokra",
+        "blog": "tippek-trukkok-a-mindennapokra",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
+    },
+    "163592875498457ddd": {
+      "type": "image-with-text",
+      "blocks": {
+        "163592875498457ddd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TANULNI MENŐ! DE HOGYAN ÉRDEMES?"
+          }
+        },
+        "163592875498457ddd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
+          }
+        },
+        "163592875498457ddd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
+            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
+          }
+        }
+      },
+      "block_order": [
+        "163592875498457ddd-0",
+        "163592875498457ddd-1",
+        "163592875498457ddd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16269630002307db95": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16269630002307db95-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?",
+            "heading_size": "medium"
+          }
+        },
+        "16269630002307db95-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p><p><\/p><p><\/p>"
+          }
+        },
+        "16269630002307db95-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
+            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16269630002307db95-0",
+        "16269630002307db95-1",
+        "16269630002307db95-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
     "1626963112c776924e": {
       "type": "multicolumn",
       "blocks": {
@@ -372,19 +456,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "16310798590329d19b": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Tippek, trükkök a mindennapokra",
-        "blog": "tippek-trukkok-a-mindennapokra",
-        "post_limit": 3,
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
       }
     },
     "16269636332e363e1f": {
@@ -474,79 +545,9 @@
         "swipe_on_mobile": true
       }
     },
-    "163592875498457ddd": {
-      "type": "image-with-text",
-      "blocks": {
-        "163592875498457ddd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "TANULNI MENŐ! DE HOGYAN ÉRDEMES?"
-          }
-        },
-        "163592875498457ddd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p>"
-          }
-        },
-        "163592875498457ddd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
-            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
-          }
-        }
-      },
-      "block_order": [
-        "163592875498457ddd-0",
-        "163592875498457ddd-1",
-        "163592875498457ddd-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "small",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
-    "16269630002307db95": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16269630002307db95-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?",
-            "heading_size": "medium"
-          }
-        },
-        "16269630002307db95-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p><p><\/p><p><\/p>"
-          }
-        },
-        "16269630002307db95-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
-            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16269630002307db95-0",
-        "16269630002307db95-1",
-        "16269630002307db95-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
-      }
-    },
     "16270189427248061e": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16270189427248061e-2": {
           "type": "column",
@@ -615,11 +616,11 @@
     "163524516749ec085a",
     "1626963196529102f5",
     "16269638486602ba4e",
-    "1626963112c776924e",
     "16310798590329d19b",
-    "16269636332e363e1f",
     "163592875498457ddd",
     "16269630002307db95",
+    "1626963112c776924e",
+    "16269636332e363e1f",
     "16270189427248061e",
     "16269636913ba50bcb"
   ]
