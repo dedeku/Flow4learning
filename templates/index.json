@@ -173,42 +173,6 @@
         "swipe_on_mobile": false
       }
     },
-    "1626963196529102f5": {
-      "type": "image-with-text",
-      "blocks": {
-        "1626963196529102f5-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Képzések cégeknek"
-          }
-        },
-        "1626963196529102f5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vezetőként vagy hr-esként dolgozol egy cégnél? Ismerkedj meg <strong>testre szabott megoldásainkkal<\/strong>, amelyek révén munkatársaidat hatékonyan és gazdaságosan fejlesztheted azokban a témákban, amik nektek a legfontosabbak éppen. <\/p><p>Kurzusainkat <strong>a stratégiátokhoz illesztjük<\/strong>, létrehozhatunk egy saját képzési oldalt, <strong>saját tartalom<\/strong>mal, csak nektek, és oktatóvideóink <strong>látványvilágát is a ti brandeteknek <\/strong>megfelelően tudjuk kialakítani.<\/p><p><\/p>"
-          }
-        },
-        "1626963196529102f5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Még több a céges képzésekről",
-            "button_link": "shopify:\/\/pages\/kepzesek-cegeknek"
-          }
-        }
-      },
-      "block_order": [
-        "1626963196529102f5-0",
-        "1626963196529102f5-1",
-        "1626963196529102f5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/business-education.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
     "16269630444bc242c3": {
       "type": "featured-collection",
       "settings": {
@@ -223,41 +187,6 @@
         "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
-      }
-    },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető képzés"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>SAJÁTÍTSD EL A SIKERES VEZETŐK NÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
       }
     },
     "1627545463300c61dd": {
@@ -295,51 +224,75 @@
         "layout": "image_first"
       }
     },
-    "16269633762719be69": {
-      "type": "multicolumn",
+    "163524516749ec085a": {
+      "type": "image-with-text",
       "blocks": {
-        "16269633762719be69-0": {
-          "type": "column",
+        "163524516749ec085a-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bozsogi_Dia_2ec607aa-5db9-40f6-b551-4625beed4d37.jpg",
-            "title": "Bozsogi Dia",
-            "text": "",
-            "column_link": ""
+            "heading": "Sikeres vezető képzés"
           }
         },
-        "16269633762719be69-2": {
-          "type": "column",
+        "163524516749ec085a-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cseffalvi_Gabor.jpg",
-            "title": "Cséffalvay Gábor",
-            "text": "",
-            "column_link": ""
+            "text": "<p><strong>SAJÁTÍTSD EL A SIKERES VEZETŐK NÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
           }
         },
-        "16269633762719be69-1": {
-          "type": "column",
+        "163524516749ec085a-2": {
+          "type": "button",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frenyo_Andrea_e62770f8-0011-43a8-9940-aad5e3fb45d7.jpg",
-            "title": "Frenyo Andrea",
-            "text": "",
-            "column_link": ""
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
           }
         }
       },
       "block_order": [
-        "16269633762719be69-0",
-        "16269633762719be69-2",
-        "16269633762719be69-1"
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
       ],
       "settings": {
-        "title": "KIKTŐL TANULHATSZ?",
-        "image_width": "full",
-        "image_ratio": "circle",
-        "column_alignment": "center",
-        "background_style": "secondary",
-        "button_label": "Ismerd meg oktatóinkat!",
-        "button_link": "shopify:\/\/pages\/oktatoink",
-        "swipe_on_mobile": true
+        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "1626963196529102f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1626963196529102f5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Képzések cégeknek"
+          }
+        },
+        "1626963196529102f5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vezetőként vagy hr-esként dolgozol egy cégnél? Ismerkedj meg <strong>testre szabott megoldásainkkal<\/strong>, amelyek révén munkatársaidat hatékonyan és gazdaságosan fejlesztheted azokban a témákban, amik nektek a legfontosabbak éppen. <\/p><p>Kurzusainkat <strong>a stratégiátokhoz illesztjük<\/strong>, létrehozhatunk egy saját képzési oldalt, <strong>saját tartalom<\/strong>mal, csak nektek, és oktatóvideóink <strong>látványvilágát is a ti brandeteknek <\/strong>megfelelően tudjuk kialakítani.<\/p><p><\/p>"
+          }
+        },
+        "1626963196529102f5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Még több a céges képzésekről",
+            "button_link": "shopify:\/\/pages\/kepzesek-cegeknek"
+          }
+        }
+      },
+      "block_order": [
+        "1626963196529102f5-0",
+        "1626963196529102f5-1",
+        "1626963196529102f5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/business-education.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
       }
     },
     "16269638486602ba4e": {
@@ -373,7 +326,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
         "height": "adapt",
-        "color_scheme": "accent-2",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -419,42 +372,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "1626963619bc709712": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1626963619bc709712-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
-          }
-        },
-        "1626963619bc709712-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1626963619bc709712-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1626963619bc709712-0",
-        "1626963619bc709712-1",
-        "1626963619bc709712-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
       }
     },
     "16310798590329d19b": {
@@ -693,14 +610,12 @@
     "1626962693d2de0207",
     "162696284706074dbc",
     "16269627771e9fe6bd",
-    "1626963196529102f5",
     "16269630444bc242c3",
-    "163524516749ec085a",
     "1627545463300c61dd",
-    "16269633762719be69",
+    "163524516749ec085a",
+    "1626963196529102f5",
     "16269638486602ba4e",
     "1626963112c776924e",
-    "1626963619bc709712",
     "16310798590329d19b",
     "16269636332e363e1f",
     "163592875498457ddd",
