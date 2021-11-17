@@ -675,7 +675,6 @@
     },
     "16269630002307db95": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16269630002307db95-0": {
           "type": "heading",
@@ -693,7 +692,7 @@
         "16269630002307db95-2": {
           "type": "button",
           "settings": {
-            "button_label": "Küldd el nekem a \"6 lépés, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
+            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
             "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5",
             "button_style_secondary": false
           }
