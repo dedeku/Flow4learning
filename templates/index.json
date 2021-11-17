@@ -587,7 +587,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
