@@ -377,42 +377,6 @@
         "layout": "image_first"
       }
     },
-    "16269630002307db95": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16269630002307db95-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?",
-            "heading_size": "medium"
-          }
-        },
-        "16269630002307db95-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen be tudd építeni a mindennapjaidba.<\/p><p><\/p><p><\/p>"
-          }
-        },
-        "16269630002307db95-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Küldd el nekem a \"6 dolog, amit érdemes tudnod az online tanulásról\" című dokumentumot!",
-            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16269630002307db95-0",
-        "16269630002307db95-1",
-        "16269630002307db95-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
-      }
-    },
     "1626963112c776924e": {
       "type": "multicolumn",
       "blocks": {
@@ -447,7 +411,7 @@
         "1626963112c776924e-2"
       ],
       "settings": {
-        "title": "MIT MONDANAK, AKIK VELÜNK TANULNAK?",
+        "title": "Mit mondanak, akik velünk tanulnak?",
         "image_width": "half",
         "image_ratio": "adapt",
         "column_alignment": "center",
@@ -617,7 +581,6 @@
     "16269638486602ba4e",
     "16310798590329d19b",
     "163592875498457ddd",
-    "16269630002307db95",
     "1626963112c776924e",
     "16269636332e363e1f",
     "16270189427248061e",
