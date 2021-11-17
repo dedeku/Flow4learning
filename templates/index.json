@@ -264,7 +264,6 @@
       "blocks": {
         "1626963196529102f5-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Képzések cégeknek"
           }
@@ -349,7 +348,7 @@
         "163592875498457ddd-0": {
           "type": "heading",
           "settings": {
-            "heading": "TANULNI MENŐ! DE HOGYAN ÉRDEMES?"
+            "heading": "Tanulni menő! És hogyan érdemes?"
           }
         },
         "163592875498457ddd-1": {
