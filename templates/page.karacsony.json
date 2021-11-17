@@ -26,8 +26,8 @@
         "16349099934647edd1-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow4learning_karacsony_750x-kicsi.jpg",
-        "height": "large",
+        "image": "shopify:\/\/shop_images\/ez.jpg",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
