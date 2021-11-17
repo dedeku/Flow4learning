@@ -384,33 +384,6 @@
         "layout": "image_first"
       }
     },
-    "16270189427248061e": {
-      "type": "multicolumn",
-      "blocks": {
-        "16270189427248061e-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Flow_fekvo_szines.png",
-            "title": "",
-            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>",
-            "column_link": "shopify:\/\/pages\/a-flow-csoport"
-          }
-        }
-      },
-      "block_order": [
-        "16270189427248061e-2"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Ismerd meg a Flow világát!",
-        "button_link": "shopify:\/\/pages\/a-flow-csoport",
-        "swipe_on_mobile": false
-      }
-    },
     "16269633762719be69": {
       "type": "multicolumn",
       "blocks": {
@@ -708,9 +681,35 @@
         "full_width": true
       }
     },
+    "16270189427248061e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16270189427248061e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flow_fekvo_szines.png",
+            "title": "",
+            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>",
+            "column_link": "shopify:\/\/pages\/a-flow-csoport"
+          }
+        }
+      },
+      "block_order": [
+        "16270189427248061e-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Ismerd meg a Flow világát!",
+        "button_link": "shopify:\/\/pages\/a-flow-csoport",
+        "swipe_on_mobile": false
+      }
+    },
     "16269636913ba50bcb": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16269636913ba50bcb-0": {
           "type": "heading",
@@ -736,7 +735,7 @@
         "16269636913ba50bcb-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true
       }
     }
@@ -753,7 +752,6 @@
     "16269630444bc242c3",
     "163524516749ec085a",
     "1627545463300c61dd",
-    "16270189427248061e",
     "16269633762719be69",
     "16269638486602ba4e",
     "1626963112c776924e",
@@ -761,6 +759,7 @@
     "16310798590329d19b",
     "16269636332e363e1f",
     "16269630002307db95",
+    "16270189427248061e",
     "16269636913ba50bcb"
   ]
 }

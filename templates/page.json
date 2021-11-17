@@ -7,7 +7,6 @@
     },
     "16309173004eb6add0": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16309173000b9a567d-0": {
           "type": "heading",
@@ -33,7 +32,7 @@
         "16309173000b9a567d-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true
       }
     }
