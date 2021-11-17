@@ -563,7 +563,7 @@
         "163592875498457ddd-0": {
           "type": "heading",
           "settings": {
-            "heading": "TANULNI MENŐ! DE HOGY IS ÉRDEMES?"
+            "heading": "TANULNI MENŐ! DE HOGYAN ÉRDEMES?"
           }
         },
         "163592875498457ddd-1": {
@@ -588,7 +588,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/wp_kep.jpg",
         "height": "small",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
