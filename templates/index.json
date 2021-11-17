@@ -44,42 +44,6 @@
         "show_text_below": true
       }
     },
-    "163592875498457ddd": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "163592875498457ddd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "163592875498457ddd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "163592875498457ddd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "hvjhvhg",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163592875498457ddd-0",
-        "163592875498457ddd-1",
-        "163592875498457ddd-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "large",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "1626962693d2de0207": {
       "type": "multicolumn",
       "blocks": {
@@ -593,6 +557,42 @@
         "swipe_on_mobile": true
       }
     },
+    "163592875498457ddd": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "163592875498457ddd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163592875498457ddd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "163592875498457ddd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "hvjhvhg",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163592875498457ddd-0",
+        "163592875498457ddd-1",
+        "163592875498457ddd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "16269630002307db95": {
       "type": "rich-text",
       "disabled": true,
@@ -690,7 +690,6 @@
   },
   "order": [
     "image_banner",
-    "163592875498457ddd",
     "1626962693d2de0207",
     "162696284706074dbc",
     "16269627771e9fe6bd",
@@ -704,6 +703,7 @@
     "1626963619bc709712",
     "16310798590329d19b",
     "16269636332e363e1f",
+    "163592875498457ddd",
     "16269630002307db95",
     "16270189427248061e",
     "16269636913ba50bcb"
