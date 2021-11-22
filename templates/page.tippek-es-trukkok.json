@@ -1,0 +1,177 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16309173004eb6add0": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "16309173000b9a567d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tudás a postafiókodban"
+          }
+        },
+        "16309173000b9a567d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség<\/p>"
+          }
+        },
+        "16309173000b9a567d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16309173000b9a567d-0",
+        "16309173000b9a567d-1",
+        "16309173000b9a567d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1635929162cf8a802c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1635929162cf8a802c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kedvezményes online kurzusok Neked"
+          }
+        },
+        "1635929162cf8a802c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/>Szeretnéd meglepni barátaidat, szeretteidet karácsonyra, de még nem tudod, mit vegyél? Nekünk van ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad. <\/p><p>Válaszd a <a href=\"\/products\/minikurzus-ajandekkartya\" target=\"_blank\" title=\"Minikurzus ajándékkártya\"><strong>MINIKURZUS  AJÁNDÉKKÁRTYÁT<\/strong><\/a>, aminek segítségével 11 kurzusból választhatja ki a megajándékozott fél a neki tetsző tartalmat!<br\/><\/p>"
+          }
+        },
+        "1635929162cf8a802c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Megnézem a minikurzusokat",
+            "button_link": "shopify:\/\/collections\/minikurzus"
+          }
+        }
+      },
+      "block_order": [
+        "1635929162cf8a802c-0",
+        "1635929162cf8a802c-1",
+        "1635929162cf8a802c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow4learning_karacsony.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16361032538137b6c0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Válassz alábbi minikurzusaink közül!",
+        "collection": "minikurzus",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1635930224a3e4f8fb": {
+      "type": "featured-product",
+      "blocks": {
+        "1635930224a3e4f8fb-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1635930224a3e4f8fb-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1635930224a3e4f8fb-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1635930224a3e4f8fb-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1635930224a3e4f8fb-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1635930224a3e4f8fb-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1635930224a3e4f8fb-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1635930224a3e4f8fb-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1635930224a3e4f8fb-0",
+        "1635930224a3e4f8fb-1",
+        "1635930224a3e4f8fb-2",
+        "1635930224a3e4f8fb-3",
+        "1635930224a3e4f8fb-4",
+        "1635930224a3e4f8fb-5",
+        "1635930224a3e4f8fb-6",
+        "1635930224a3e4f8fb-7"
+      ],
+      "settings": {
+        "product": "minikurzus-ajandekkartya",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "1635936903ba05ef6f": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Írj nekünk a részletekért:"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16309173004eb6add0",
+    "1635929162cf8a802c",
+    "16361032538137b6c0",
+    "1635930224a3e4f8fb",
+    "1635936903ba05ef6f"
+  ]
+}
