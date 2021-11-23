@@ -43,21 +43,20 @@
         "1635929162cf8a802c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Kedvezményes online kurzusok Neked"
+            "heading": "Tanulni menő! És hogyan érdemes?"
           }
         },
         "1635929162cf8a802c-1": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/>Szeretnéd meglepni barátaidat, szeretteidet karácsonyra, de még nem tudod, mit vegyél? Nekünk van ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad. <\/p><p>Válaszd a <a href=\"\/products\/minikurzus-ajandekkartya\" target=\"_blank\" title=\"Minikurzus ajándékkártya\"><strong>MINIKURZUS  AJÁNDÉKKÁRTYÁT<\/strong><\/a>, aminek segítségével 11 kurzusból választhatja ki a megajándékozott fél a neki tetsző tartalmat!<br\/><\/p>"
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen tudd beépíteni a mindennapjaidba.<br\/><\/p>"
           }
         },
         "1635929162cf8a802c-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Megnézem a minikurzusokat",
-            "button_link": "shopify:\/\/collections\/minikurzus"
+            "button_label": "Letöltöm az E-book-ot!",
+            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
           }
         }
       },
@@ -67,7 +66,7 @@
         "1635929162cf8a802c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow4learning_karacsony.jpg",
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -75,6 +74,7 @@
     },
     "16361032538137b6c0": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Válassz alábbi minikurzusaink közül!",
         "collection": "minikurzus",
@@ -91,6 +91,7 @@
     },
     "1635930224a3e4f8fb": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "1635930224a3e4f8fb-0": {
           "type": "text",
@@ -161,6 +162,7 @@
     },
     "1635936903ba05ef6f": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "heading": "Írj nekünk a részletekért:"
       }
