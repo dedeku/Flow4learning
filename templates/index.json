@@ -91,38 +91,73 @@
         "swipe_on_mobile": false
       }
     },
-    "162696284706074dbc": {
+    "163524516749ec085a": {
       "type": "image-with-text",
       "blocks": {
-        "162696284706074dbc-0": {
+        "163524516749ec085a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Örömteli tanulás - sikeresebb magánélet és munka"
+            "heading": "Sikeres vezető képzés"
           }
         },
-        "162696284706074dbc-1": {
+        "163524516749ec085a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Tanulni, többé válni mindig fantasztikus élmény. Felejtsd el a hagyományos, magolás-alapú tanfolyamokat: <strong>a flow4learning saját fejlesztésű programjai <\/strong>segítenek abban, hogy valóban beépítsd a tanultakat az életedbe, és hatékonyan hasznosíthasd őket az életed minden területén.<\/p><p><\/p><p><strong>Mit nyújt a flow4learning?<\/strong><\/p><p>- prémium kurzusok a kommunikáció, az önismeret és a vezetés területén<\/p><p>- kényelmes, könnyen kezelhető oktatófelület <\/p><p>- online kapcsolat a kurzus oktatójával és más résztvevőkkel<\/p><p>- munkafüzetek a megszerzett tudás elmélyítéséhez és a gyakorláshoz<\/p><p>- oklevél a kurzus elvégzéséről <\/p><p>- flow4learning-tanulócsoport<\/p>"
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
           }
         },
-        "162696284706074dbc-2": {
+        "163524516749ec085a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Megnézem a képzéseket",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
           }
         }
       },
       "block_order": [
-        "162696284706074dbc-0",
-        "162696284706074dbc-1",
-        "162696284706074dbc-2"
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tamara-bellis-kyg5fvluhxw-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
         "height": "adapt",
         "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16269638486602ba4e": {
+      "type": "image-with-text",
+      "blocks": {
+        "16269638486602ba4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ajándékozz képzést kollégáidnak"
+          }
+        },
+        "16269638486602ba4e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
+          }
+        },
+        "16269638486602ba4e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a céges karácsonyi ajánlatot",
+            "button_link": "shopify:\/\/pages\/karacsony"
+          }
+        }
+      },
+      "block_order": [
+        "16269638486602ba4e-0",
+        "16269638486602ba4e-1",
+        "16269638486602ba4e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
         "layout": "image_first"
       }
     },
@@ -173,6 +208,41 @@
         "swipe_on_mobile": false
       }
     },
+    "163592875498457ddd": {
+      "type": "image-with-text",
+      "blocks": {
+        "163592875498457ddd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tanulni menő! És hogyan érdemes?"
+          }
+        },
+        "163592875498457ddd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen tudd beépíteni a mindennapjaidba.<\/p>"
+          }
+        },
+        "163592875498457ddd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Küldd el nekem a \"6 Lépés Az Eredményes Online Tanuláshoz\" című szakmai anyagot!",
+            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
+          }
+        }
+      },
+      "block_order": [
+        "163592875498457ddd-0",
+        "163592875498457ddd-1",
+        "163592875498457ddd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
     "16269630444bc242c3": {
       "type": "featured-collection",
       "settings": {
@@ -191,6 +261,7 @@
     },
     "1627545463300c61dd": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1627545463300c61dd-0": {
           "type": "heading",
@@ -224,43 +295,9 @@
         "layout": "image_first"
       }
     },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető képzés"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
     "1626963196529102f5": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626963196529102f5-0": {
           "type": "heading",
@@ -290,76 +327,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/business-education.jpg",
         "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
-    "16269638486602ba4e": {
-      "type": "image-with-text",
-      "blocks": {
-        "16269638486602ba4e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ajándékozz képzést kollégáidnak"
-          }
-        },
-        "16269638486602ba4e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
-          }
-        },
-        "16269638486602ba4e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a céges karácsonyi ajánlatot",
-            "button_link": "shopify:\/\/pages\/karacsony"
-          }
-        }
-      },
-      "block_order": [
-        "16269638486602ba4e-0",
-        "16269638486602ba4e-1",
-        "16269638486602ba4e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
-    "163592875498457ddd": {
-      "type": "image-with-text",
-      "blocks": {
-        "163592875498457ddd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tanulni menő! És hogyan érdemes?"
-          }
-        },
-        "163592875498457ddd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. Hogyan tudod magadnak jól megszervezni a tanulást? Mire van szükség ahhoz, hogy amit egy kurzuson tanulsz, azt utána használd is? Hogy ne csak végezd, hanem el is végezd a kurzusokat, és hogy a tanultakat sikeresen tudd beépíteni a mindennapjaidba.<\/p>"
-          }
-        },
-        "163592875498457ddd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Küldd el nekem a \"6 Lépés Az Eredményes Online Tanuláshoz\" című szakmai anyagot!",
-            "button_link": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
-          }
-        }
-      },
-      "block_order": [
-        "163592875498457ddd-0",
-        "163592875498457ddd-1",
-        "163592875498457ddd-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
-        "height": "small",
         "color_scheme": "accent-2",
         "layout": "image_first"
       }
@@ -509,6 +476,41 @@
         "swipe_on_mobile": true
       }
     },
+    "162696284706074dbc": {
+      "type": "image-with-text",
+      "blocks": {
+        "162696284706074dbc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Örömteli tanulás - sikeresebb magánélet és munka"
+          }
+        },
+        "162696284706074dbc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tanulni, többé válni mindig fantasztikus élmény. Felejtsd el a hagyományos, magolás-alapú tanfolyamokat: <strong>a flow4learning saját fejlesztésű programjai <\/strong>segítenek abban, hogy valóban beépítsd a tanultakat az életedbe, és hatékonyan hasznosíthasd őket az életed minden területén.<\/p><p><\/p><p><strong>Mit nyújt a flow4learning?<\/strong><\/p><p>- prémium kurzusok a kommunikáció, az önismeret és a vezetés területén<\/p><p>- kényelmes, könnyen kezelhető oktatófelület <\/p><p>- online kapcsolat a kurzus oktatójával és más résztvevőkkel<\/p><p>- munkafüzetek a megszerzett tudás elmélyítéséhez és a gyakorláshoz<\/p><p>- oklevél a kurzus elvégzéséről <\/p><p>- flow4learning-tanulócsoport<\/p>"
+          }
+        },
+        "162696284706074dbc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a képzéseket",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "162696284706074dbc-0",
+        "162696284706074dbc-1",
+        "162696284706074dbc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tamara-bellis-kyg5fvluhxw-unsplash.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
     "16270189427248061e": {
       "type": "multicolumn",
       "disabled": true,
@@ -573,17 +575,17 @@
   "order": [
     "image_banner",
     "1626962693d2de0207",
-    "162696284706074dbc",
+    "163524516749ec085a",
+    "16269638486602ba4e",
     "16269627771e9fe6bd",
+    "163592875498457ddd",
     "16269630444bc242c3",
     "1627545463300c61dd",
-    "163524516749ec085a",
     "1626963196529102f5",
-    "16269638486602ba4e",
-    "163592875498457ddd",
     "16310798590329d19b",
     "1626963112c776924e",
     "16269636332e363e1f",
+    "162696284706074dbc",
     "16270189427248061e",
     "16269636913ba50bcb"
   ]
