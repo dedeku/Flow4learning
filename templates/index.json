@@ -12,7 +12,7 @@
         "1642449317fb2e704a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek. 2 hónapos, mentorált online program, amelynek során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és live konzultációkon is részt veszel majd.<\/p>"
+            "text": "<p>Intenzív <strong>vezetőképzés<\/strong> frissen kinevezett vagy leendő vezetőknek. 2 hónapos, mentorált <strong>online program<\/strong>, amelynek során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> live konzultációk<\/strong>on is részt veszel majd.<\/p>"
           }
         },
         "1642449317fb2e704a-2": {
@@ -31,7 +31,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/SVhez.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
