@@ -22,6 +22,7 @@
         "blocks": {
           "a444bc0d-6409-46a4-974d-a8abe7b566cc": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "KARÁCSONYI AKCIÓ NEKED!",
               "color_scheme": "accent-2",
@@ -30,6 +31,7 @@
           },
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "KARÁCSONYI AKCIÓ CÉGEKNEK",
               "color_scheme": "accent-1",
