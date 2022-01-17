@@ -1,5 +1,39 @@
 {
   "sections": {
+    "164244931707a49a74": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642449317fb2e704a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "február 17-én kezdődik!"
+          }
+        },
+        "1642449317fb2e704a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1642449317fb2e704a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1642449317fb2e704a-0",
+        "1642449317fb2e704a-1",
+        "1642449317fb2e704a-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -574,6 +608,7 @@
     }
   },
   "order": [
+    "164244931707a49a74",
     "image_banner",
     "1626962693d2de0207",
     "163524516749ec085a",
