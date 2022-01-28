@@ -34,14 +34,23 @@
             "disabled": true,
             "settings": {
               "text": "KARÁCSONYI AKCIÓ CÉGEKNEK",
-              "color_scheme": "accent-1",
+              "color_scheme": "background-1",
               "link": "shopify:\/\/pages\/karacsony"
+            }
+          },
+          "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
+            "type": "announcement",
+            "settings": {
+              "text": "Learning Solutions",
+              "color_scheme": "accent-1",
+              "link": ""
             }
           }
         },
         "block_order": [
           "a444bc0d-6409-46a4-974d-a8abe7b566cc",
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "a9f19638-6dac-4e19-9379-76bec6ba3f6e"
         ],
         "settings": {
         }
