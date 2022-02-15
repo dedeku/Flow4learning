@@ -1,5 +1,40 @@
 {
   "sections": {
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető képzés - holnapután indulunk!"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tl.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
     "164244931707a49a74": {
       "type": "image-with-text",
       "disabled": true,
@@ -125,41 +160,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető képzés - február 17-én indul a következő"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/tl.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
       }
     },
     "16269638486602ba4e": {
@@ -610,10 +610,10 @@
     }
   },
   "order": [
+    "163524516749ec085a",
     "164244931707a49a74",
     "image_banner",
     "1626962693d2de0207",
-    "163524516749ec085a",
     "16269638486602ba4e",
     "16269627771e9fe6bd",
     "163592875498457ddd",
