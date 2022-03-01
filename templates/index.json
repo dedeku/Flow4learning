@@ -1,41 +1,5 @@
 {
   "sections": {
-    "164244931707a49a74": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1642449317fb2e704a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Most utoljára a tavalyi áron!"
-          }
-        },
-        "1642449317fb2e704a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Február 17-én indul intenzív <strong>vezetőképzés<\/strong>ünk frissen kinevezett vagy leendő vezetőknek. 2 hónapos, mentorált <strong>online program<\/strong>, amelynek során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> live konzultációk<\/strong>on is részt veszel majd.<\/p>"
-          }
-        },
-        "1642449317fb2e704a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Érdekelnek a részletek",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
-          }
-        }
-      },
-      "block_order": [
-        "1642449317fb2e704a-0",
-        "1642449317fb2e704a-1",
-        "1642449317fb2e704a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -127,21 +91,21 @@
             "column_link": "shopify:\/\/pages\/kovetkezo-live-programjaink"
           }
         },
-        "1626962693d2de0207-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9272_resize.jpg",
-            "title": "80.000 résztvevő",
-            "text": "<p>20 év alatt a Flow Magyarország képzésein<\/p>",
-            "column_link": ""
-          }
-        },
         "1626962693d2de0207-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/chris-montgomery-smgTvepind4-unsplash.jpg",
             "title": "Több mint 24 óra online tartalom",
             "text": "<p>munkafüzetekkel és live konzultációval<\/p>",
+            "column_link": ""
+          }
+        },
+        "1626962693d2de0207-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9272_resize.jpg",
+            "title": "80.000 résztvevő",
+            "text": "<p>20 év alatt a Flow Magyarország képzésein<\/p>",
             "column_link": ""
           }
         },
@@ -157,8 +121,8 @@
       },
       "block_order": [
         "63caf05c-5e92-4201-9ec7-9f26029fd998",
-        "1626962693d2de0207-0",
         "1626962693d2de0207-1",
+        "1626962693d2de0207-0",
         "1626962693d2de0207-2"
       ],
       "settings": {
@@ -170,42 +134,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "16269638486602ba4e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16269638486602ba4e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ajándékozz képzést kollégáidnak"
-          }
-        },
-        "16269638486602ba4e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
-          }
-        },
-        "16269638486602ba4e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a céges karácsonyi ajánlatot",
-            "button_link": "shopify:\/\/pages\/karacsony"
-          }
-        }
-      },
-      "block_order": [
-        "16269638486602ba4e-0",
-        "16269638486602ba4e-1",
-        "16269638486602ba4e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
       }
     },
     "16269627771e9fe6bd": {
@@ -253,6 +181,78 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
+      }
+    },
+    "164244931707a49a74": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1642449317fb2e704a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Most utoljára a tavalyi áron!"
+          }
+        },
+        "1642449317fb2e704a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Február 17-én indul intenzív <strong>vezetőképzés<\/strong>ünk frissen kinevezett vagy leendő vezetőknek. 2 hónapos, mentorált <strong>online program<\/strong>, amelynek során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> live konzultációk<\/strong>on is részt veszel majd.<\/p>"
+          }
+        },
+        "1642449317fb2e704a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Érdekelnek a részletek",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
+          }
+        }
+      },
+      "block_order": [
+        "1642449317fb2e704a-0",
+        "1642449317fb2e704a-1",
+        "1642449317fb2e704a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SVhez.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16269638486602ba4e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16269638486602ba4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ajándékozz képzést kollégáidnak"
+          }
+        },
+        "16269638486602ba4e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
+          }
+        },
+        "16269638486602ba4e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a céges karácsonyi ajánlatot",
+            "button_link": "shopify:\/\/pages\/karacsony"
+          }
+        }
+      },
+      "block_order": [
+        "16269638486602ba4e-0",
+        "16269638486602ba4e-1",
+        "16269638486602ba4e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
       }
     },
     "163592875498457ddd": {
@@ -620,12 +620,12 @@
     }
   },
   "order": [
-    "164244931707a49a74",
     "image_banner",
     "163524516749ec085a",
     "1626962693d2de0207",
-    "16269638486602ba4e",
     "16269627771e9fe6bd",
+    "164244931707a49a74",
+    "16269638486602ba4e",
     "163592875498457ddd",
     "16269630444bc242c3",
     "1627545463300c61dd",
