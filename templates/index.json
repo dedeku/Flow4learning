@@ -56,7 +56,7 @@
         "163524516749ec085a-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2x2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2x2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
           }
         },
         "163524516749ec085a-2": {
@@ -131,6 +131,34 @@
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16270189427248061e": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16270189427248061e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flow_fekvo_szines.png",
+            "title": "",
+            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>",
+            "column_link": "shopify:\/\/pages\/a-flow-csoport"
+          }
+        }
+      },
+      "block_order": [
+        "16270189427248061e-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -558,34 +586,6 @@
         "layout": "image_first"
       }
     },
-    "16270189427248061e": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16270189427248061e-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Flow_fekvo_szines.png",
-            "title": "",
-            "text": "<p>Tudtad? A Flow Magyarországnak több évtizedes tapasztalata van a hatékony, azonnal felhasználható tudás átadásában - legyen szó a személyes fejlődésedről vagy karriercéljaid támogatásáról.<\/p><p><br\/><\/p><p>Olvass rólunk, ismerd meg értékeinket, megközelítésünket,<\/p><p>kerülj velünk flow-ba!<\/p>",
-            "column_link": "shopify:\/\/pages\/a-flow-csoport"
-          }
-        }
-      },
-      "block_order": [
-        "16270189427248061e-2"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Ismerd meg a Flow világát!",
-        "button_link": "shopify:\/\/pages\/a-flow-csoport",
-        "swipe_on_mobile": false
-      }
-    },
     "16269636913ba50bcb": {
       "type": "newsletter",
       "disabled": true,
@@ -623,6 +623,7 @@
     "image_banner",
     "163524516749ec085a",
     "1626962693d2de0207",
+    "16270189427248061e",
     "16269627771e9fe6bd",
     "164244931707a49a74",
     "16269638486602ba4e",
@@ -634,7 +635,6 @@
     "1626963112c776924e",
     "16269636332e363e1f",
     "162696284706074dbc",
-    "16270189427248061e",
     "16269636913ba50bcb"
   ]
 }
