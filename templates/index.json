@@ -1,5 +1,40 @@
 {
   "sections": {
+    "16467323048087aced": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164673230445e31de1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "tetszett - ismételjük meg!"
+          }
+        },
+        "164673230445e31de1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Az elmúlt két hónapban olyan vezetői témákat mutattunk, amelyek a vezetői energiákról szólnak. és nagyon tetszett, live formában április 7-én<\/p>"
+          }
+        },
+        "164673230445e31de1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164673230445e31de1-0",
+        "164673230445e31de1-1",
+        "164673230445e31de1-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -620,6 +655,7 @@
     }
   },
   "order": [
+    "16467323048087aced",
     "image_banner",
     "163524516749ec085a",
     "1626962693d2de0207",
