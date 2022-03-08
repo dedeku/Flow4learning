@@ -32,6 +32,41 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/energizal.jpg",
         "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető 1. és 2. képzés"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2x2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SVhez.jpg",
+        "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "image_first"
       }
@@ -78,41 +113,6 @@
         "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető 1. és 2. képzés"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2x2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
       }
     },
     "1626962693d2de0207": {
@@ -657,8 +657,8 @@
   },
   "order": [
     "16467323048087aced",
-    "image_banner",
     "163524516749ec085a",
+    "image_banner",
     "1626962693d2de0207",
     "16270189427248061e",
     "16269627771e9fe6bd",
