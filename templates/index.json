@@ -30,6 +30,7 @@
         "164673230445e31de1-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/energizal.jpg",
         "height": "adapt",
         "color_scheme": "background-2",
         "layout": "image_first"
