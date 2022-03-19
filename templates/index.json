@@ -461,7 +461,6 @@
       "blocks": {
         "1626963112c776924e-0": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
             "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>",
@@ -488,7 +487,7 @@
           "type": "column",
           "settings": {
             "title": "Györke-Szilágyi Éva - Ügyvezető Bilingual Nonprofit Kft.",
-            "text": "<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/>A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.<br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást :)<\/p>",
+            "text": "<p>\"Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/>A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.<br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást!\"<\/p>",
             "column_link": ""
           }
         },
@@ -496,7 +495,7 @@
           "type": "column",
           "settings": {
             "title": "Riskó Zoltán - Tulajdonos, ügyvezető Gépészek Társasága Kft.",
-            "text": "<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>",
+            "text": "<p>\"Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.\"<\/p>",
             "column_link": ""
           }
         },
@@ -504,7 +503,7 @@
           "type": "column",
           "settings": {
             "title": "Gonda Orsolya - Értékesítési csoportvezető, Szallas.hu",
-            "text": "<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>",
+            "text": "<p>\"Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.\"<\/p>",
             "column_link": ""
           }
         }
