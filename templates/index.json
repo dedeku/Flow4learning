@@ -495,14 +495,6 @@
     "1626963112c776924e": {
       "type": "multicolumn",
       "blocks": {
-        "1bf83106-b11c-4c42-8cb8-34159dcc9ac2": {
-          "type": "column",
-          "settings": {
-            "title": "Györke-Szilágyi Éva - Ügyvezető Bilingual Nonprofit Kft.",
-            "text": "<p>\"Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/>A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.<br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást!\"<\/p>",
-            "column_link": ""
-          }
-        },
         "a7e8580a-4d7d-4105-a234-66fdaddf2749": {
           "type": "column",
           "settings": {
@@ -511,11 +503,11 @@
             "column_link": ""
           }
         },
-        "024a8c4c-5256-413b-9763-215d81395854": {
+        "1bf83106-b11c-4c42-8cb8-34159dcc9ac2": {
           "type": "column",
           "settings": {
-            "title": "Gonda Orsolya - Értékesítési csoportvezető, Szallas.hu",
-            "text": "<p>\"Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.\"<\/p>",
+            "title": "Györke-Szilágyi Éva - Ügyvezető Bilingual Nonprofit Kft.",
+            "text": "<p>\"Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/>A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.<br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást!\"<\/p>",
             "column_link": ""
           }
         },
@@ -524,6 +516,14 @@
           "settings": {
             "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
             "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>",
+            "column_link": ""
+          }
+        },
+        "024a8c4c-5256-413b-9763-215d81395854": {
+          "type": "column",
+          "settings": {
+            "title": "Gonda Orsolya - Értékesítési csoportvezető, Szallas.hu",
+            "text": "<p>\"Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.\"<\/p>",
             "column_link": ""
           }
         },
@@ -545,10 +545,10 @@
         }
       },
       "block_order": [
-        "1bf83106-b11c-4c42-8cb8-34159dcc9ac2",
         "a7e8580a-4d7d-4105-a234-66fdaddf2749",
-        "024a8c4c-5256-413b-9763-215d81395854",
+        "1bf83106-b11c-4c42-8cb8-34159dcc9ac2",
         "1626963112c776924e-0",
+        "024a8c4c-5256-413b-9763-215d81395854",
         "1626963112c776924e-1",
         "1626963112c776924e-2"
       ],
