@@ -7,7 +7,7 @@
         "164673230445e31de1-0": {
           "type": "heading",
           "settings": {
-            "heading": "ENERGIZÁLÓ VEZETŐ kurzus ÉLŐ konzultációkkal"
+            "heading": "ENERGIZÁLÓ VEZETŐ kurzus"
           }
         },
         "164673230445e31de1-1": {
@@ -33,7 +33,7 @@
         "image": "shopify:\/\/shop_images\/energizal-cut.jpg",
         "height": "adapt",
         "color_scheme": "accent-2",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1648034015555decc9": {
