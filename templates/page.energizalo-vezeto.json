@@ -157,22 +157,6 @@
             "text": "<p>- Mit jelent az integritás? Tudatos döntéshozatal<\/p><p>- Engedd meg a hibázást<\/p><p>- Hogyan tovább?<\/p>",
             "column_link": ""
           }
-        },
-        "6a802c40-f777-4f80-a09e-56449ad761b8": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        },
-        "9448ed5e-f82b-4468-b612-d8865878b2bd": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
         }
       },
       "block_order": [
@@ -181,9 +165,7 @@
         "aad1db0f-41d4-4a05-9b6b-2043ea9caee6",
         "05a340ce-f575-49ee-a933-188383171e89",
         "30a0171a-38b6-4782-92ad-bf1be112f67b",
-        "da810801-ca7d-4529-b037-e46b41277163",
-        "6a802c40-f777-4f80-a09e-56449ad761b8",
-        "9448ed5e-f82b-4468-b612-d8865878b2bd"
+        "da810801-ca7d-4529-b037-e46b41277163"
       ],
       "settings": {
         "title": "A kurzus legfontosabb témái",
@@ -191,9 +173,9 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "button_label": "Megnézem - jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live",
+        "swipe_on_mobile": true
       }
     }
   },
