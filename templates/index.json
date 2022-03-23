@@ -38,7 +38,6 @@
     },
     "1648034015555decc9": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1648034015f940066f-0": {
           "type": "heading",
@@ -68,12 +67,13 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/SVhez.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
     "163524516749ec085a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "163524516749ec085a-0": {
           "type": "heading",
