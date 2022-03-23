@@ -114,6 +114,13 @@
     "1648062899d625de32": {
       "type": "image-with-text",
       "blocks": {
+        "1648062899a1041cd8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live"
+          }
+        },
         "1648062899a1041cd8-0": {
           "type": "heading",
           "settings": {
@@ -125,19 +132,12 @@
           "settings": {
             "text": "<p>A folyamatos tanulást és a kérdések-dilemmák megosztását, tapasztalatok megbeszélést minden héten egyórás ÉLŐ online konzultációval támogatjuk – ezeknek a ritmusában javasoljuk a tanulást is – az adott konzultáción az addig átvett leckékről beszélgetünk, azokra reflektálunk kisebb-nagyobb csoportokban, oktatói támogatással.<\/p>"
           }
-        },
-        "1648062899a1041cd8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem - jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live"
-          }
         }
       },
       "block_order": [
+        "1648062899a1041cd8-2",
         "1648062899a1041cd8-0",
-        "1648062899a1041cd8-1",
-        "1648062899a1041cd8-2"
+        "1648062899a1041cd8-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/wp_kep.jpg",
