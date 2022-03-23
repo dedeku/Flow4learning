@@ -36,6 +36,42 @@
         "layout": "image_first"
       }
     },
+    "1648034015555decc9": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1648034015f940066f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1648034015f940066f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1648034015f940066f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1648034015f940066f-0",
+        "1648034015f940066f-1",
+        "1648034015f940066f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SVhez.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "163524516749ec085a": {
       "type": "image-with-text",
       "blocks": {
@@ -684,6 +720,7 @@
   },
   "order": [
     "16467323048087aced",
+    "1648034015555decc9",
     "163524516749ec085a",
     "image_banner",
     "1626962693d2de0207",
