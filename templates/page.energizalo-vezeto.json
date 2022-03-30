@@ -80,8 +80,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Megnézem - jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live",
         "swipe_on_mobile": false
       }
     },
