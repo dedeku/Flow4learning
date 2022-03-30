@@ -43,19 +43,19 @@
     "1648673975f56dfda8": {
       "type": "multicolumn",
       "blocks": {
-        "164867397590cdc698-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>\"Jól összeszedett anyag, jó ötletekkel, elgondolkodtató videókkal. Engem is energizált, ajánlom másoknak is!\"<\/p><p><em>Pócsi Zsuzsanna, Borsodchem, Manager Isocyanate Laboratory<\/em><\/p>",
-            "column_link": ""
-          }
-        },
         "164867397590cdc698-1": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "<p>\"Ajánlom másnak is ezt a szépen felépített, jó módszertanon alapuló képzést!”<\/p><p>Gál Loránd \/Lightware<\/p>",
+            "column_link": ""
+          }
+        },
+        "164867397590cdc698-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"Jól összeszedett anyag, jó ötletekkel, elgondolkodtató videókkal. Engem is energizált, ajánlom másoknak is!\"<\/p><p><em>Pócsi Zsuzsanna, Borsodchem, Manager Isocyanate Laboratory<\/em><\/p>",
             "column_link": ""
           }
         },
@@ -70,8 +70,8 @@
         }
       },
       "block_order": [
-        "164867397590cdc698-0",
         "164867397590cdc698-1",
+        "164867397590cdc698-0",
         "164867397590cdc698-2"
       ],
       "settings": {
