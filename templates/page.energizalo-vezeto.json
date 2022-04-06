@@ -35,7 +35,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/brooke-cagle-WHWYBmtn3_0-unsplash_1.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }

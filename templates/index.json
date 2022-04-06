@@ -1,40 +1,5 @@
 {
   "sections": {
-    "16467323048087aced": {
-      "type": "image-with-text",
-      "blocks": {
-        "164673230445e31de1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ENERGIZÁLÓ VEZETŐ kurzus indul április 20-án"
-          }
-        },
-        "164673230445e31de1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>A nagy sikerre való tekintettel újraindítjuk!<\/strong><\/p><p>Az elmúlt két hónapban olyan vezetői témákat mutattunk be nektek, amelyek a vezetői energiákról szólnak - arról, hogy hogyan ad energiát az, amikor egy vezető elismerő-támogató (appreciative) módon bánik a munkatársaival, eközben hogyan tud magára is vigyázni, és hogyan teremthet olyan környezetet, ahol mindenki flow-ba tud kerülni. Úgy tűnik, hogy nemcsak szerintünk, hanem a ti visszajelzéseitek alapján is fontos téma ez, nagyon jó visszajelzéseket kaptunk, ezért <strong>április 6-án újra elindítjuk az<\/strong> <a href=\"https:\/\/flow4learning.hu\/pages\/energizalo-vezeto\" title=\"https:\/\/flow4learning.hu\/pages\/energizalo-vezeto\"><strong>Energizáló vezető kurzus<\/strong><\/a>unkat <strong>ÉLŐ konzulátciókkal.<\/strong><\/p>"
-          }
-        },
-        "164673230445e31de1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem - jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live?_pos=2&_psq=energizáló&_ss=e&_v=1.0"
-          }
-        }
-      },
-      "block_order": [
-        "164673230445e31de1-0",
-        "164673230445e31de1-1",
-        "164673230445e31de1-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/energizal-cut_79e359f0-e079-439d-baf6-9af865a0bdf0.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "text_first"
-      }
-    },
     "1648034015555decc9": {
       "type": "image-with-text",
       "blocks": {
@@ -104,6 +69,41 @@
         "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "image_first"
+      }
+    },
+    "16467323048087aced": {
+      "type": "image-with-text",
+      "blocks": {
+        "164673230445e31de1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ENERGIZÁLÓ VEZETŐ kurzus indul április 20-án"
+          }
+        },
+        "164673230445e31de1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>A nagy sikerre való tekintettel újraindítjuk!<\/strong><\/p><p>Az elmúlt két hónapban olyan vezetői témákat mutattunk be nektek, amelyek a vezetői energiákról szólnak - arról, hogy hogyan ad energiát az, amikor egy vezető elismerő-támogató (appreciative) módon bánik a munkatársaival, eközben hogyan tud magára is vigyázni, és hogyan teremthet olyan környezetet, ahol mindenki flow-ba tud kerülni. Úgy tűnik, hogy nemcsak szerintünk, hanem a ti visszajelzéseitek alapján is fontos téma ez, nagyon jó visszajelzéseket kaptunk, ezért <strong>április 6-án újra elindítjuk az<\/strong> <a href=\"https:\/\/flow4learning.hu\/pages\/energizalo-vezeto\" title=\"https:\/\/flow4learning.hu\/pages\/energizalo-vezeto\"><strong>Energizáló vezető kurzus<\/strong><\/a>unkat <strong>ÉLŐ konzulátciókkal.<\/strong><\/p>"
+          }
+        },
+        "164673230445e31de1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live?_pos=2&_psq=energizáló&_ss=e&_v=1.0"
+          }
+        }
+      },
+      "block_order": [
+        "164673230445e31de1-0",
+        "164673230445e31de1-1",
+        "164673230445e31de1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/energizal-cut_79e359f0-e079-439d-baf6-9af865a0bdf0.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "text_first"
       }
     },
     "image_banner": {
@@ -718,9 +718,9 @@
     }
   },
   "order": [
-    "16467323048087aced",
     "1648034015555decc9",
     "163524516749ec085a",
+    "16467323048087aced",
     "image_banner",
     "1626962693d2de0207",
     "16270189427248061e",
