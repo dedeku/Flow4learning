@@ -5,6 +5,13 @@
       "settings": {
       }
     },
+    "1657534560e21399ef": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
     "16309173004eb6add0": {
       "type": "newsletter",
       "disabled": true,
@@ -36,10 +43,19 @@
         "color_scheme": "background-2",
         "full_width": true
       }
+    },
+    "1657534575a6b77424": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "eee"
+      }
     }
   },
   "order": [
     "main",
-    "16309173004eb6add0"
+    "1657534560e21399ef",
+    "16309173004eb6add0",
+    "1657534575a6b77424"
   ]
 }
