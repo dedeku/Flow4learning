@@ -9,7 +9,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": ""
+        "custom_liquid": "<div class=\"valami\">hello<\/div>"
       }
     },
     "16309173004eb6add0": {
