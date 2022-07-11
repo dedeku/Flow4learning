@@ -50,52 +50,12 @@
       "settings": {
         "custom_liquid": "eee"
       }
-    },
-    "1657534703e9527d12": {
-      "type": "multicolumn",
-      "blocks": {
-        "16575347033b3ed2bf-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>JELENTKEZZ TE IS A FLOW 2 HÓNAPOS MENTORÁLT VEZETŐKÉPZÉSÉRE!<\/p><p><strong>A képzés indulása: 2022. szeptember 15.<\/strong><\/p><p><strong>Részvételi díj:bruttó 165.100 Ft (130.000 Ft + áfa)\/fő<\/strong><\/p><p><em>(lehetőség van részletfizetésre)﻿<\/em><\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16575347033b3ed2bf-2"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "1657534726497dfaf1": {
-      "type": "talent",
-      "settings": {
-      }
-    },
-    "1657534752b1feff2d": {
-      "type": "page",
-      "settings": {
-        "page": ""
-      }
     }
   },
   "order": [
     "main",
     "1657534560e21399ef",
     "16309173004eb6add0",
-    "1657534575a6b77424",
-    "1657534703e9527d12",
-    "1657534726497dfaf1",
-    "1657534752b1feff2d"
+    "1657534575a6b77424"
   ]
 }
