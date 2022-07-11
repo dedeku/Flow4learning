@@ -50,12 +50,70 @@
       "settings": {
         "custom_liquid": "eee"
       }
+    },
+    "1657534703e9527d12": {
+      "type": "multicolumn",
+      "blocks": {
+        "16575347033b3ed2bf-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "16575347033b3ed2bf-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "16575347033b3ed2bf-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16575347033b3ed2bf-0",
+        "16575347033b3ed2bf-1",
+        "16575347033b3ed2bf-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1657534726497dfaf1": {
+      "type": "talent",
+      "settings": {
+      }
+    },
+    "1657534752b1feff2d": {
+      "type": "page",
+      "settings": {
+        "page": ""
+      }
     }
   },
   "order": [
     "main",
     "1657534560e21399ef",
     "16309173004eb6add0",
-    "1657534575a6b77424"
+    "1657534575a6b77424",
+    "1657534703e9527d12",
+    "1657534726497dfaf1",
+    "1657534752b1feff2d"
   ]
 }
