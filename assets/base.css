@@ -1820,10 +1820,12 @@ input[type='checkbox'] {
 
 
 
+/*JELENTKEZÉS OLDAL*/
 
 
-
-
+h1.main-page-title {
+    display: none;
+}
 
 section#shopify-section-template--15023211446448__main {
     background: #62aedc;
