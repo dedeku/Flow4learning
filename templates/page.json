@@ -50,12 +50,19 @@
       "settings": {
         "custom_liquid": "eee"
       }
+    },
+    "1657535789f5b948f2": {
+      "type": "contact-form",
+      "settings": {
+        "heading": ""
+      }
     }
   },
   "order": [
     "main",
     "1657534560e21399ef",
     "16309173004eb6add0",
-    "1657534575a6b77424"
+    "1657534575a6b77424",
+    "1657535789f5b948f2"
   ]
 }
