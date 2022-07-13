@@ -2428,8 +2428,7 @@ width: 75vw;
     color: #444444;
 }
 
-.rolunkMondtak:before{
-  content:'w';
+.span.rolunkJel{
 width: 64px;
   height:64px;
   background:red;
