@@ -1,172 +1,39 @@
 {
   "sections": {
-    "16577082738bd24022": {
-      "type": "rich-text",
-      "blocks": {
-        "16577082736a7a3a88-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "MI TÖRTÉNIK A JELENTKEZÉST KÖVETŐEN",
-            "heading_size": "h0"
-          }
-        },
-        "16577082736a7a3a88-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16577082736a7a3a88-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16577082736a7a3a88-0",
-        "16577082736a7a3a88-1",
-        "16577082736a7a3a88-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "1657702520f6074637": {
-      "type": "multicolumn",
-      "blocks": {
-        "1657702520df83d2d2-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_0a44c433-d4ed-4952-8b3b-dec0adf9c08e.png",
-            "title": "1. Személyes kapcsolatfelvétel",
-            "text": "<p>A megadott elérhetőségeiden keresztül a Flow egyik kollégája felveszi veled a kapcsolatot.<\/p>",
-            "column_link": ""
-          }
-        },
-        "1657702520df83d2d2-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/flow_chat_icon_afb87a15-464b-428e-a762-470dd201b6f0.png",
-            "title": "2. Részletek egyeztetése",
-            "text": "<p>A Flow munkatársával leegyeztetheted a számodra komfortos díj konstrukciót és a fizetési módot.<\/p>",
-            "column_link": ""
-          }
-        },
-        "1657702520df83d2d2-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/flow_check_icon_f2c364a7-fa96-472c-8933-be8cf4b603f7.png",
-            "title": "3. Beiratkozás véglegesítése",
-            "text": "<p>A képzésen való részvétel feltétele a részvételi díj befizetése és a FAR adatok megadása.<\/p>",
-            "column_link": ""
-          }
-        },
-        "dd24e26e-240e-418c-bca8-8f2998339d26": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/flow_lock_icon_b76ea076-14cb-4085-b6f8-b2a3502b4949.png",
-            "title": "4. Hozzáférés a képzéshez",
-            "text": "<p>Sikeres beirakozást követően, a képzés indulásának napján elérhetővé tesszük az első modul tananyagait.<\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657702520df83d2d2-0",
-        "1657702520df83d2d2-1",
-        "1657702520df83d2d2-2",
-        "dd24e26e-240e-418c-bca8-8f2998339d26"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "16577084734434e711": {
-      "type": "apps",
-      "blocks": {
-        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2": {
-          "type": "shopify:\/\/apps\/countdown-timer-bar\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
       }
     },
-    "16577084999051dc75": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "16309173004eb6add0": {
-      "type": "newsletter",
-      "disabled": true,
+    "1657730206f0eeae57": {
+      "type": "multicolumn",
       "blocks": {
-        "16309173000b9a567d-0": {
-          "type": "heading",
+        "16577302063ca00bfb-0": {
+          "type": "column",
           "settings": {
-            "heading": "Tudás a postafiókodban"
-          }
-        },
-        "16309173000b9a567d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség<\/p>"
-          }
-        },
-        "16309173000b9a567d-2": {
-          "type": "email_form",
-          "settings": {
+            "title": "",
+            "text": "<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p><p><strong>Józsa Ibolya<\/strong><\/p>",
+            "column_link": ""
           }
         }
       },
       "block_order": [
-        "16309173000b9a567d-0",
-        "16309173000b9a567d-1",
-        "16309173000b9a567d-2"
+        "16577302063ca00bfb-0"
       ],
       "settings": {
-        "color_scheme": "background-2",
-        "full_width": true
-      }
-    },
-    "1657712571abb57c10": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
   "order": [
-    "16577082738bd24022",
-    "1657702520f6074637",
-    "16577084734434e711",
     "main",
-    "16577084999051dc75",
-    "16309173004eb6add0",
-    "1657712571abb57c10"
+    "1657730206f0eeae57"
   ]
 }
