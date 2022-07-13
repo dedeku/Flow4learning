@@ -2376,4 +2376,10 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     border: 1px solid #e27314;
     background: #ffffff;
 }
-
+.rich-text__blocks h2{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+color: #0aaede;
+}
