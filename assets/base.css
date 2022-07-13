@@ -2391,3 +2391,6 @@ color: #0aaede;
 #shopify-section-template--15023211446448__16577082738bd24022  .rich-text--full-width .rich-text__blocks {
     width: 100%;
 }
+#shopify-section-template--15023211446448__16577082738bd24022 .rich-text__blocks {
+    max-width: 100%;
+}
