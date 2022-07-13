@@ -2354,10 +2354,10 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
 }
   
 #etsCfBoxSMInIRae91 h3.ets_cf_title{
-      text-align: center;
-    color: #ff7300;
-    text-transform: uppercase;
-    font-weight: bold;
-    line-height: 2.5em;
-    font-size: 26px;
+      text-align: center!important;
+    color: #ff7300!important;
+    text-transform: uppercase!important;
+    font-weight: bold!important;
+    line-height: 2.5em!important;
+    font-size: 26px!important;
 }
