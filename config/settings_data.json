@@ -43,6 +43,7 @@
           },
           "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Fejlesztési megoldások - KOMMUNIKÁCIÓ - ÖNISMERET - VEZETÉS",
               "color_scheme": "background-2",
@@ -62,7 +63,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
+          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2022_horizontal_200.png",
           "logo_width": 200,
           "logo_position": "middle-left",
           "menu": "main-menu",
