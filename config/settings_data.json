@@ -1,9 +1,9 @@
 {
   "current": {
-    "colors_solid_button_labels": "#444444",
+    "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#813f94",
     "colors_accent_2": "#a4c50e",
-    "colors_text": "#444444",
+    "colors_text": "#182238",
     "colors_outline_button_labels": "#a4c50e",
     "colors_background_1": "#e8e8e8",
     "colors_background_2": "#182238",
@@ -63,7 +63,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2022_horizontal_200.png",
+          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
           "logo_width": 200,
           "logo_position": "middle-left",
           "menu": "main-menu",
