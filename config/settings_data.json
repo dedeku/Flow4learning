@@ -120,21 +120,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "1347510106265755124": {
-        "type": "shopify:\/\/apps\/essential-countdown-timer\/blocks\/app_embed\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6279071938380501511": {
-        "type": "shopify:\/\/apps\/form-builder-contact-form\/blocks\/app-embed\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Flow": {
