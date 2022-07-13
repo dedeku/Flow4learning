@@ -2414,11 +2414,12 @@ h1{
     background: #7eaeda!important;
     color: #ffffff;
     margin: 0;
-       padding: 20px;
+  padding: 20px;
 }
 
 
 #shopify-section-template--15699906691248__1657737936413209cc .rich-text__blocks h2 {
+  background:#7eaeda;
     font-weight: 700!important;
     text-transform: uppercase;
     font-size: 40px;
