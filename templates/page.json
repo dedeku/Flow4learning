@@ -86,8 +86,8 @@
         "dd24e26e-240e-418c-bca8-8f2998339d26"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
+        "title": "",
+        "image_width": "half",
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
