@@ -2426,6 +2426,12 @@ width: 75vw;
     background: #fafafa;
     padding: 20px;
     color: #444444;
+}
+
+.rolunkMondtak:before{
+width: 64px;
+  height:64px;
+  background:red;
   
 }
 .rolunkMondtak .alairas{
