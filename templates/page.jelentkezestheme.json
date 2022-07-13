@@ -1,5 +1,21 @@
 {
   "sections": {
+    "1657742966f8707c17": {
+      "type": "apps",
+      "blocks": {
+        "925e893a-7756-47e5-b4b1-5e303f130032": {
+          "type": "shopify:\/\/apps\/countdown-timer-bar\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "925e893a-7756-47e5-b4b1-5e303f130032"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -28,6 +44,7 @@
     }
   },
   "order": [
+    "1657742966f8707c17",
     "main",
     "165773057610a905e8",
     "165773107458610a06",
