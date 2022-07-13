@@ -2398,6 +2398,11 @@ color: #0aaede;
 .flip-clock-dividerht{
  margin:0 10px!important; 
 }
+.jelentkezesElsoSzekcio h1 span{
+      font-size: 39px;
+    font-weight: 700;
+
+}
 h1{
   line-height: 1!important;
 }
