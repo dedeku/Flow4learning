@@ -2341,3 +2341,14 @@ details-disclosure > details {
     line-height: 2.5em!important;
     font-size: 26px!important;
 }
+ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.deferred-media__poster-button), .media model-viewer {
+    display: block;
+    max-width: 100%;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    height: 60%;
+    width: 100%;
+}
+  
+}
