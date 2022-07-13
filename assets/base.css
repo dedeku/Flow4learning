@@ -1822,7 +1822,7 @@ input[type='checkbox'] {
 
 /*JELENTKEZÉS OLDAL*/
 
-
+/*
 h1.main-page-title {
     display: none;
 }
@@ -1832,10 +1832,7 @@ section#shopify-section-template--15023211446448__main, section#shopify-section-
     padding: 50px 0;
 }
 
-/*section#shopify-section-template--15023211446448__1657535789f5b948f2 .spaced-section{
-  
-margin: 0rem auto;
-}*/
+
 .spaced-section:last-child {
     margin-bottom: 0rem;
 }
@@ -1849,7 +1846,7 @@ section#shopify-section-template--15023211446448__1657535789f5b948f2 form#Contac
     background: #fafafa;
     padding: 20px 40px;
 }
-
+*/
 
 
 
