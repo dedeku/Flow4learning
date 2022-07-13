@@ -2444,6 +2444,9 @@ span.rolunkJel {
 }
 span.rolunkJel:before{
   content:' " ' ;
+   color: #ffffff;
+    font-size: 32px;
+    line-height: 32px;
 }
 .rolunkMondtak .alairas{
   font-weight:bold;
