@@ -10,10 +10,17 @@
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<\/div>"
       }
+    },
+    "165773107458610a06": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "padding: 20px;"
+      }
     }
   },
   "order": [
     "main",
-    "165773057610a905e8"
+    "165773057610a905e8",
+    "165773107458610a06"
   ]
 }
