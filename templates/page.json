@@ -1,8 +1,78 @@
 {
   "sections": {
+    "16577082738bd24022": {
+      "type": "rich-text",
+      "blocks": {
+        "16577082736a7a3a88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MI TÖRTÉNIK A JELENTKEZÉST KÖVETŐEN",
+            "heading_size": "h0"
+          }
+        },
+        "16577082736a7a3a88-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16577082736a7a3a88-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16577082736a7a3a88-0",
+        "16577082736a7a3a88-1",
+        "16577082736a7a3a88-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
+      }
+    },
+    "16577084734434e711": {
+      "type": "apps",
+      "blocks": {
+        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2": {
+          "type": "shopify:\/\/apps\/countdown-timer-bar\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16577084999051dc75": {
+      "type": "apps",
+      "blocks": {
+        "47ccd335-d73d-4250-8dbb-438dc9396193": {
+          "type": "shopify:\/\/apps\/essential-countdown-timer\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        }
+      },
+      "block_order": [
+        "47ccd335-d73d-4250-8dbb-438dc9396193"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "16309173004eb6add0": {
@@ -102,7 +172,10 @@
     }
   },
   "order": [
+    "16577082738bd24022",
     "main",
+    "16577084734434e711",
+    "16577084999051dc75",
     "16309173004eb6add0",
     "1657535789f5b948f2",
     "1657702520f6074637"
