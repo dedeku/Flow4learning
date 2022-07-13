@@ -2430,23 +2430,27 @@ width: 75vw;
 }
 
 span.rolunkJel {
-    color: #ffffff;
-    font-size: 32px;
-    line-height: 32px;
+color: #000;
     position: absolute;
     z-index: 999;
     width: 64px;
     height: 64px;
-    background: red;
+    text-align: center;
+    background: #fafafa;
     top: -35px;
     margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid black;
     left: calc(50% - 32px);
 }
 span.rolunkJel:before{
-  content:' " ' ;
-   color: #ffffff;
-    font-size: 32px;
-    line-height: 32px;
+ content: ' " ';
+    color: #444444;
+    font-size: 100px;
+    line-height: 110px;
+    margin: 0 auto;
+    border-radius: 50%;
+    font-family: auto;
 }
 .rolunkMondtak .alairas{
   font-weight:bold;
