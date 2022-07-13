@@ -2429,13 +2429,21 @@ width: 75vw;
     color: #444444;
 }
 
-span.rolunkJel{
-  position:absolute;
-  z-index:999;
-width: 64px;
-  height:64px;
-  background:red;
-  
+span.rolunkJel {
+    color: #ffffff;
+    font-size: 32px;
+    line-height: 32px;
+    position: absolute;
+    z-index: 999;
+    width: 64px;
+    height: 64px;
+    background: red;
+    top: -35px;
+    margin: 0 auto;
+    left: calc(50% - 32px);
+}
+span.rolunkJel:before{
+  content:"hello";
 }
 .rolunkMondtak .alairas{
   font-weight:bold;
