@@ -1,0 +1,47 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "165773057610a905e8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
+      }
+    },
+    "165773107458610a06": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
+      }
+    },
+    "16577315886d4118c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
+      }
+    },
+    "1657731671dc82d271": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂<\/p>\n<p class=\"alairas\">Györke-Szilágyi Éva<\/p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.<\/p>\n<\/div>"
+      }
+    },
+    "165773172903b9c8f4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165773057610a905e8",
+    "165773107458610a06",
+    "16577315886d4118c0",
+    "1657731671dc82d271",
+    "165773172903b9c8f4"
+  ]
+}
