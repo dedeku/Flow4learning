@@ -57,6 +57,7 @@
         "1657702520df83d2d2-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_chat_icon_afb87a15-464b-428e-a762-470dd201b6f0.png",
             "title": "2. Részletek egyeztetése",
             "text": "<p>A Flow munkatársával leegyeztetheted a számodra komfortos díj konstrukciót és a fizetési módot.<\/p>",
             "column_link": ""
