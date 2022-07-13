@@ -67,6 +67,7 @@
         "1657702520df83d2d2-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_check_icon_f2c364a7-fa96-472c-8933-be8cf4b603f7.png",
             "title": "3. Beiratkozás véglegesítése",
             "text": "<p>A képzésen való részvétel feltétele a részvételi díj befizetése és a FAR adatok megadása.<\/p>",
             "column_link": ""
