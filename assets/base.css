@@ -2354,7 +2354,7 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     height: 60%;
     width: auto;
 }
-  
+
 .ets_cf_header h3.ets_cf_title{
       text-align: center!important;
     color: #ff7300!important;
@@ -2363,9 +2363,9 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     line-height: 2.5em!important;
     font-size: 26px!important;
 }
-/*#shopify-section-template--15699864780976__main{
+#shopify-section-template--15699864780976__main{
   background: #0aaede!important;
-}*/
+}
 #shopify-section-template--15023211446448__main .ets_cf_box {
     margin: 30px auto;
     max-width: 100%;
