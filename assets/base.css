@@ -2429,6 +2429,7 @@ width: 75vw;
 }
 
 .rolunkMondtak:before{
+  content:'';
 width: 64px;
   height:64px;
   background:red;
