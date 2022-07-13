@@ -76,6 +76,7 @@
         "dd24e26e-240e-418c-bca8-8f2998339d26": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_lock_icon_b76ea076-14cb-4085-b6f8-b2a3502b4949.png",
             "title": "4. Hozzáférés a képzéshez",
             "text": "<p>Sikeres beirakozást követően, a képzés indulásának napján elérhetővé tesszük az első modul tananyagait.<\/p>",
             "column_link": ""
