@@ -2398,3 +2398,6 @@ color: #0aaede;
 .flip-clock-dividerht{
  margin:0 10px!important; 
 }
+h2{
+  line-height: 1;
+}
