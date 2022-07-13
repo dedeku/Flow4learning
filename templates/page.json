@@ -16,11 +16,18 @@
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
       }
+    },
+    "16577315886d4118c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\">\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
+      }
     }
   },
   "order": [
     "main",
     "165773057610a905e8",
-    "165773107458610a06"
+    "165773107458610a06",
+    "16577315886d4118c0"
   ]
 }
