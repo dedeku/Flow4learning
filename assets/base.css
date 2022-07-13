@@ -2333,3 +2333,12 @@ details-disclosure > details {
 #epb_message_one{
   width:100%!important;
 }
+#etsCfBoxt4wQdfsVNu .ets_cf_title{
+  text-align: center;
+    color: #ff7300;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 2.5em;
+    font-size: 26px;
+}
+}
