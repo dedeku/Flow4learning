@@ -22,12 +22,19 @@
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
       }
+    },
+    "1657731671dc82d271": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\">\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂<\/p>\n<p class=\"alairas\">Györke-Szilágyi Éva<\/p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.<\/p>\n<\/div>"
+      }
     }
   },
   "order": [
     "main",
     "165773057610a905e8",
     "165773107458610a06",
-    "16577315886d4118c0"
+    "16577315886d4118c0",
+    "1657731671dc82d271"
   ]
 }
