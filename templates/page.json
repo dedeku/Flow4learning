@@ -5,58 +5,6 @@
       "settings": {
       }
     },
-    "1657730206f0eeae57": {
-      "type": "multicolumn",
-      "blocks": {
-        "16577302063ca00bfb-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p><p><strong>Józsa Ibolya<\/strong><\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16577302063ca00bfb-0"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "1657730377091d7146": {
-      "type": "multicolumn",
-      "blocks": {
-        "16577303772930cb21-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p><p>&lt;br&gt;<\/p><p><strong>Farkas Fanni<\/strong><\/p><p>Employer Branding Offizzer, Brandfizz<\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16577303772930cb21-0"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "circle",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "165773057610a905e8": {
       "type": "custom-liquid",
       "settings": {
@@ -66,8 +14,6 @@
   },
   "order": [
     "main",
-    "1657730206f0eeae57",
-    "1657730377091d7146",
     "165773057610a905e8"
   ]
 }
