@@ -2441,7 +2441,7 @@ span.rolunkJel {
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid black;
-    left: calc(50% - 32px);
+    left: calc(50% - 25px);
 }
 span.rolunkJel:before{
  content:  "”";
