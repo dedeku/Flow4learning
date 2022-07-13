@@ -2401,7 +2401,10 @@ color: #0aaede;
 h1{
   line-height: 1!important;
 }
-#shopify-section-template--15023211446448__165773057610a905e8{
+
+/*Rolunk mondták*/
+
+#shopify-section-template--15023211446448__165773057610a905e8, #shopify-section-template--15023211446448__165773107458610a06{
       width: 100%;
     background: #7eaeda;
     color: #ffffff;
