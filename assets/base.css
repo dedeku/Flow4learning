@@ -2371,5 +2371,9 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     border-radius: 20px 20px 20px 20px;
     overflow: hidden;
 }
-
+#etsCfBoxCTAX4VydVJ .ets_cf_form_control {
+    border-radius: 10px;
+    border: 1px solid #e27314;
+    background: #ffffff;
+}
 
