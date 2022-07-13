@@ -2400,7 +2400,7 @@ color: #0aaede;
 }
 .jelentkezesElsoSzekcio h1 span{
       font-size: 39px;
-    font-weight: 700;
+    font-weight: 700!important;
 
 }
 h1{
