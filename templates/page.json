@@ -49,6 +49,7 @@
         "1657702520df83d2d2-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_envelope_icon_0a44c433-d4ed-4952-8b3b-dec0adf9c08e.png",
             "title": "1. Személyes kapcsolatfelvétel",
             "text": "<p>A megadott elérhetőségeiden keresztül a Flow egyik kollégája felveszi veled a kapcsolatot.<\/p>",
             "column_link": ""
