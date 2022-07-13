@@ -2323,7 +2323,7 @@ details-disclosure > details {
     box-sizing: border-box;
     border: none;
     position: absolute;
-    background-color: rgba(255, 109, 55, 1);
+    background-color: rgba(255, 109, 55, 1)!important;
     color: rgb(255, 255, 255);
     font-size: 19.2px;
     line-height: 32px;
