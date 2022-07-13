@@ -242,6 +242,23 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1657712571abb57c10": {
+      "type": "apps",
+      "blocks": {
+        "548a622b-cea0-400e-92e8-d266de1b2e3e": {
+          "type": "shopify:\/\/apps\/form-builder-contact-form\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"ODU3Nzk=\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "548a622b-cea0-400e-92e8-d266de1b2e3e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -253,6 +270,7 @@
     "16309173004eb6add0",
     "1657711642f400ce07",
     "16577117447fb4750a",
-    "1657535789f5b948f2"
+    "1657535789f5b948f2",
+    "1657712571abb57c10"
   ]
 }
