@@ -2293,7 +2293,7 @@ details-disclosure > details {
     overflow: auto;
   }
 }
-
+/*SAJAT FEJLESZTES*/
 .badge {
   border: 1px solid transparent;
   border-radius: 4rem;
@@ -2308,9 +2308,25 @@ details-disclosure > details {
   color: rgb(var(--color-foreground));
   word-break: break-word;
 }
-
 .gradient {
   background: var(--color-background);
   background: var(--gradient-background);
   background-attachment: fixed;
+}
+#epb_bar{
+      text-align: center;
+    margin: 0px;
+    padding: 100px 0;
+    left: 0px;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    position: absolute;
+    background-color: rgba(255, 109, 55, 1);
+    color: rgb(255, 255, 255);
+    font-size: 19.2px;
+    line-height: 32px;
+    font-family: Helvetica;
+
 }
