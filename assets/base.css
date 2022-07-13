@@ -2409,8 +2409,14 @@ h1{
 
 /*Rolunk mondták*/
 
-#shopify-section-template--15699906691248__165773057610a905e8, 
-#shopify-section-template--15023211446448__165773107458610a06, 
+#shopify-section-template--15699906691248__165773057610a905e8{
+    width: 100%;
+    background: #7eaeda!important;
+    color: #ffffff;
+    margin: 0;
+       padding: 20px;
+}
+#shopify-section-template--15023211446448__165773107458610a06 
 #shopify-section-template--15023211446448__16577315886d4118c0, 
 #shopify-section-template--15023211446448__1657731671dc82d271,
 #shopify-section-template--15023211446448__165773172903b9c8f4{
