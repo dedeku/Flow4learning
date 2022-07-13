@@ -42,22 +42,6 @@
       "settings": {
       }
     },
-    "16577084734434e711": {
-      "type": "apps",
-      "blocks": {
-        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2": {
-          "type": "shopify:\/\/apps\/countdown-timer-bar\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "16577084999051dc75": {
       "type": "apps",
       "blocks": {
@@ -111,6 +95,22 @@
       "type": "contact-form",
       "settings": {
         "heading": ""
+      }
+    },
+    "16577084734434e711": {
+      "type": "apps",
+      "blocks": {
+        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2": {
+          "type": "shopify:\/\/apps\/countdown-timer-bar\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "4e406f03-73e9-4c34-91e0-bc1eb6643cf2"
+      ],
+      "settings": {
+        "include_margins": false
       }
     },
     "1657702520f6074637": {
@@ -174,10 +174,10 @@
   "order": [
     "16577082738bd24022",
     "main",
-    "16577084734434e711",
     "16577084999051dc75",
     "16309173004eb6add0",
     "1657535789f5b948f2",
+    "16577084734434e711",
     "1657702520f6074637"
   ]
 }
