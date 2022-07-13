@@ -2443,7 +2443,7 @@ span.rolunkJel {
     left: calc(50% - 32px);
 }
 span.rolunkJel:before{
-  content:"hello";
+  content:' " ' ;
 }
 .rolunkMondtak .alairas{
   font-weight:bold;
