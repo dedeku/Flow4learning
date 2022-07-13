@@ -5,6 +5,43 @@
       "settings": {
       }
     },
+    "1657737936413209cc": {
+      "type": "rich-text",
+      "blocks": {
+        "1657737936f69be5ac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "RÉSZTVEVŐINK MONDTÁK",
+            "heading_size": "h0"
+          }
+        },
+        "1657737936f69be5ac-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1657737936f69be5ac-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657737936f69be5ac-0",
+        "1657737936f69be5ac-1",
+        "1657737936f69be5ac-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "165773057610a905e8": {
       "type": "custom-liquid",
       "settings": {
@@ -38,6 +75,7 @@
   },
   "order": [
     "main",
+    "1657737936413209cc",
     "165773057610a905e8",
     "165773107458610a06",
     "16577315886d4118c0",
