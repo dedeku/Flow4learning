@@ -2444,7 +2444,7 @@ color: #000;
     left: calc(50% - 32px);
 }
 span.rolunkJel:before{
- content:  /U+201D;
+ content:  "U+201D";
     color: #444444;
     font-size: 100px;
     line-height: 110px;
