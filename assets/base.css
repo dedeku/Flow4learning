@@ -2384,5 +2384,5 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
 color: #0aaede;
 }
 .rich-text__blocks {
-    max-width: 90rem;
+    max-width: 90rem!important;
 }
