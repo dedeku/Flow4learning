@@ -245,17 +245,6 @@
     },
     "1657712571abb57c10": {
       "type": "apps",
-      "blocks": {
-        "548a622b-cea0-400e-92e8-d266de1b2e3e": {
-          "type": "shopify:\/\/apps\/form-builder-contact-form\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
-          "settings": {
-            "shortcode": "{formbuilder:ODU3Nzk=}"
-          }
-        }
-      },
-      "block_order": [
-        "548a622b-cea0-400e-92e8-d266de1b2e3e"
-      ],
       "settings": {
         "include_margins": true
       }
