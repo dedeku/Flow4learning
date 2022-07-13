@@ -2409,12 +2409,21 @@ h1{
 
 /*Rolunk mondták*/
 
-#shopify-section-template--15699906691248__165773057610a905e8{
+#shopify-section-template--15699906691248__1657737936413209cc{
     width: 100%;
     background: #7eaeda!important;
     color: #ffffff;
     margin: 0;
        padding: 20px;
+}
+
+
+#shopify-section-template--15699906691248__1657737936413209cc .rich-text__blocks h2 {
+    font-weight: 700!important;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
 }
 #shopify-section-template--15023211446448__165773107458610a06 
 #shopify-section-template--15023211446448__16577315886d4118c0, 
