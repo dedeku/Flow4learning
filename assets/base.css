@@ -2371,9 +2371,22 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     line-height: 2.5em!important;
     font-size: 26px!important;
 }
+
+
+
+/*Jelentkezés szekció*/
 #shopify-section-template--15699864780976__main{
   background: #0aaede!important;
 }
+ #shopify-section-template--15699864780976__main h1{
+  font-size: 39px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+}
+
+
 #shopify-section-template--15023211446448__main .ets_cf_box {
     margin: 30px auto;
     max-width: 100%;
@@ -2432,7 +2445,6 @@ section#shopify-section-template--15699906691248__main h1{
     color: #ffffff;
     text-align: center;
 }
-
 #shopify-section-template--15699906691248__1657737936413209cc{
     width: 100%;
    background: #0aaede!important;
