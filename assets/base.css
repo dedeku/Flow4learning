@@ -2397,7 +2397,7 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     background-color: #ffffff;
     padding: 30px;
     width: 800px;
-    display: flex;
+    display: flex!important;
 }
 
 
