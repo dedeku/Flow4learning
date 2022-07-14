@@ -110,6 +110,12 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1657798244261178a7": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"simesy-faq-widget\" data-widget-id=\"62d00077ff10065b42df7860\"><\/div>"
+      }
     }
   },
   "order": [
@@ -118,6 +124,7 @@
     "16577961307bb572a4",
     "165779626538ab47fd",
     "1657796408112d2eb9",
-    "1657797139b232d01b"
+    "1657797139b232d01b",
+    "1657798244261178a7"
   ]
 }
