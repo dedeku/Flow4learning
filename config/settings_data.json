@@ -44,6 +44,7 @@
           },
           "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Fejlesztési megoldások - KOMMUNIKÁCIÓ - ÖNISMERET - VEZETÉS",
               "color_scheme": "background-2",
