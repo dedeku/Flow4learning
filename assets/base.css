@@ -2645,6 +2645,8 @@ span.rolunkJel:before{
   .so-tab input[type=radio]:checked + label::after {
     transform: rotateX(180deg);
   }
+
+/*ACCORDION*/
 #shopify-section-template--15699915407536__16578005015a43b98a label{
       padding: 10px 10px;
 }
@@ -2655,4 +2657,6 @@ span.rolunkJel:before{
     margin: 5px;
     color: #ffffff;
 }
-
+#shopify-section-template--15699915407536__16578005015a43b98a{
+display:none!important
+}
