@@ -2293,6 +2293,9 @@ details-disclosure > details {
   }
 }
 /*SAJAT FEJLESZTES*/
+section {
+    padding: 50px 0;
+}
 .badge {
   border: 1px solid transparent;
   border-radius: 4rem;
