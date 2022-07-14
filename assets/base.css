@@ -2425,6 +2425,13 @@ section#shopify-section-template--15699906691248__main {
     background: #0aaede!important;
 }
 
+section#shopify-section-template--15699906691248__main h1{
+  font-size: 39px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+}
 
 #shopify-section-template--15699906691248__1657737936413209cc{
     width: 100%;
