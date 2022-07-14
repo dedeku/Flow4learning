@@ -8,13 +8,6 @@
     "1657737936413209cc": {
       "type": "rich-text",
       "blocks": {
-        "1657737936f69be5ac-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "RÉSZTVEVŐINK MONDTÁK",
-            "heading_size": "h0"
-          }
-        },
         "1657737936f69be5ac-1": {
           "type": "text",
           "disabled": true,
@@ -33,7 +26,6 @@
         }
       },
       "block_order": [
-        "1657737936f69be5ac-0",
         "1657737936f69be5ac-1",
         "1657737936f69be5ac-2"
       ],
