@@ -1,5 +1,55 @@
 {
   "sections": {
+    "165773057610a905e8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
+      }
+    },
+    "1657785793057c5546": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657785793098a86e8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "1657785793098a86e8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "1657785793098a86e8-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657785793098a86e8-0",
+        "1657785793098a86e8-1",
+        "1657785793098a86e8-2"
+      ],
+      "settings": {
+        "title": "MI TÖRTÉNIK A JELENTKEZÉST KÖVETŐEN?",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1657742966f8707c17": {
       "type": "apps",
       "blocks": {
@@ -21,13 +71,6 @@
       "settings": {
       }
     },
-    "165773057610a905e8": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
-      }
-    },
     "165773107458610a06": {
       "type": "custom-liquid",
       "disabled": true,
@@ -44,9 +87,10 @@
     }
   },
   "order": [
+    "165773057610a905e8",
+    "1657785793057c5546",
     "1657742966f8707c17",
     "main",
-    "165773057610a905e8",
     "165773107458610a06",
     "16577315886d4118c0"
   ]
