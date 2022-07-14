@@ -20,7 +20,42 @@
     "165779626538ab47fd": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"vezeto1\">\n<h2><span>HOGYAN MOTIVÁLJAK MÁSOKAT?<\/span><\/h2>\n<h4>Testreszabható motivációs eszközök a munkatársak ösztönzéséhez<\/h4>\n<p>A modul végére megtanulod könnyedén felismerni, hogy egy adott munkatársadnak mi a motivációs szükséglete, és hogyan érdemes kommunikálnod vele ahhoz, hogy a lehető legmotiváltabban végezze a feladatát.<\/p>\n<ul>\n<li>Konfliktuskezelési térkép – Hol vagy most és hova tartasz?<\/li>\n<li>Viselkedésképernyő modell – Kié a probléma?<\/li>\n<li>Konstruktív konfrontálás – Amikor nekem van problémám<\/li>\n<li>Értő figyelem – Amikor a másiknak van problémája<\/li>\n<li>Pozitív ÉN-üzenet – Amikor nincs probléma<\/li>\n<li>Eszközváltás modell – Hogyan működik ez a való életben?<\/li>\n<\/ul>\n<\/div>"
+        "custom_liquid": "<div class=\"vezeto1\">\n<h2><span>HOGYAN MOTIVÁLJAK MÁSOKAT?<\/span><\/h2>\n<h4>Testreszabható motivációs eszközök a munkatársak ösztönzéséhez<\/h4>\n<p>A modul végére megtanulod könnyedén felismerni, hogy egy adott munkatársadnak mi a motivációs szükséglete, és hogyan érdemes kommunikálnod vele ahhoz, hogy a lehető legmotiváltabban végezze a feladatát.<\/p>\n<ul>\n<li><span style=\"font-size: 14px\">Hogyan kerülhetünk flow-ba?<\/span><\/li>\n<li>Mire kell ehhez odafigyelnünk a mindennapjainkban?<\/li>\n<li>Hogyan ismerhetem fel a saját magam és mások elsődleges motivációs szükségletét?<\/li>\n<li>Hogyan reagáljak az eltérő szükségletekre, és hogyan építsek rájuk?<\/li>\n<li>Hogyan tudok olyan környezetet teremteni, ahol a munkatársaim minél többet vannak flow-ban, ami egyértelműen növeli a teljesítményüket?<\/li>\n<\/ul>\n<\/div>"
+      }
+    },
+    "1657796408112d2eb9": {
+      "type": "image-with-text",
+      "blocks": {
+        "165779640768ecdd4c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sóváry Dóra"
+          }
+        },
+        "165779640768ecdd4c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>pszichológus, &lt;br&gt;vezetőfejlesztő tréner<\/p>"
+          }
+        },
+        "165779640768ecdd4c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165779640768ecdd4c-0",
+        "165779640768ecdd4c-1",
+        "165779640768ecdd4c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sovar_Dora.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     }
   },
@@ -28,6 +63,7 @@
     "main",
     "165773057610a905e8",
     "16577961307bb572a4",
-    "165779626538ab47fd"
+    "165779626538ab47fd",
+    "1657796408112d2eb9"
   ]
 }
