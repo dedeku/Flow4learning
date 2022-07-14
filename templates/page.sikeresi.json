@@ -11,33 +11,16 @@
         "custom_liquid": "<div class=\"vezeto1\">\n<h2><span>VEZETŐI SZEREP ÉS ÖNISMERET<\/span><\/h2>\n<h4>Akcióterv a sikeres vezetővé váláshoz<\/h4>\n<p>A modul végére kidolgozol egy konkrét akciótervet, ami segít feltérképezni, hogy hol tartasz jelenleg vezetői karrieredben, hova szeretnél eljutni, és mit kell ahhoz megtenned, hogy ez megvalósuljon.<\/p>\n<ul>\n<li>Vezetés funkció és szintjei<\/li>\n<li>Leadership pipeline megtervezése<\/li>\n<li>Quinn módszer – Vezetői szerep meghatározása<\/li>\n<li>Vezetői erőforrástérkép elkészítése<\/li>\n<li>Akcióterv kidolgozása<\/li>\n<li>Akcióterv megvalósítása<\/li>\n<\/ul>\n<\/div>"
       }
     },
-    "165773107458610a06": {
+    "16577961307bb572a4": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
-      }
-    },
-    "16577315886d4118c0": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
-      }
-    },
-    "1657731671dc82d271": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂<\/p>\n<p class=\"alairas\">Györke-Szilágyi Éva<\/p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"vezeto1\">\n<h2><span>KONFLIKTUSKEZELÉS HATÉKONYAN<\/span><\/h2>\n<h4>Módszerek a konfliktushelyzetek felismeréséhez és megoldásához<\/h4>\n<p>Olyan módszereket sajátítasz el a konfliktushelyzetek felismeréséhez és feloldásához (pl. Gordon-módszer), amelyek segítségével a felmerülő problémákat és konfliktusokat rövid időn belül, konstruktívan és eredményesen tudod megoldani úgy, hogy közben a kapcsolataid sem sérülnek.<\/p>\n<ul>\n<li>Konfliktuskezelési térkép – Hol vagy most és hova tartasz?<\/li>\n<li>Viselkedésképernyő modell – Kié a probléma?<\/li>\n<li>Konstruktív konfrontálás – Amikor nekem van problémám<\/li>\n<li>Értő figyelem – Amikor a másiknak van problémája<\/li>\n<li>Pozitív ÉN-üzenet – Amikor nincs probléma<\/li>\n<li>Eszközváltás modell – Hogyan működik ez a való életben?<\/li>\n<\/ul>\n<\/div>"
       }
     }
   },
   "order": [
     "main",
     "165773057610a905e8",
-    "165773107458610a06",
-    "16577315886d4118c0",
-    "1657731671dc82d271"
+    "16577961307bb572a4"
   ]
 }
