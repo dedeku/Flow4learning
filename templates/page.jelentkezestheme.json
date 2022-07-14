@@ -1,18 +1,12 @@
 {
   "sections": {
-    "165773057610a905e8": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
-      }
-    },
     "1657785793057c5546": {
       "type": "multicolumn",
       "blocks": {
         "1657785793098a86e8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_0a44c433-d4ed-4952-8b3b-dec0adf9c08e.png",
+            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
             "title": "1. Személyes kapcsolatfelvétel",
             "text": "<p>A megadott elérhetőségeiden keresztül a Flow egyik kollégája felveszi veled a kapcsolatot.<\/p>",
             "column_link": ""
@@ -100,7 +94,6 @@
     }
   },
   "order": [
-    "165773057610a905e8",
     "1657785793057c5546",
     "1657742966f8707c17",
     "main",
