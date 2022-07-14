@@ -2399,7 +2399,10 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     width: 800px;
     display: flex!important;
 }
-
+ #shopify-section-template--15699864780976__main .ets_cf_box {
+    width: 800px;
+    display: flex;
+}
 
 
 #shopify-section-template--15023211446448__main .ets_cf_box {
