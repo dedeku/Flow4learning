@@ -35,13 +35,13 @@
         "165779640768ecdd4c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>pszichológus, &lt;br&gt;vezetőfejlesztő tréner<\/p>"
+            "text": "<p>pszichológus, <\/p><p>vezetőfejlesztő tréner<\/p>"
           }
         },
         "165779640768ecdd4c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
