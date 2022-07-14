@@ -2442,7 +2442,9 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     width: 100px;
 }
 
-
+#shopify-section-template--15699864780976__1657785793057c5546 .multicolumn .media>img {
+  object-fit: contain;
+}
 
 #shopify-section-template--15699864780976__1657785793057c5546 .title-wrapper-with-link {
     justify-content: center;
