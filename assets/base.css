@@ -2378,6 +2378,8 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
 #shopify-section-template--15699864780976__main{
   background: #0aaede!important;
 }
+
+
  #shopify-section-template--15699864780976__main h1{
   font-size: 39px;
     font-weight: bold;
@@ -2385,12 +2387,11 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     color: #ffffff;
     text-align: center;
 }
- #shopify-section-template--15699864780976__main .page-width--narrow{
-max-width: 1200px;
+ #shopify-section-template--15699864780976__main .page-width--narrow {
+    max-width: 1200px;
     width: 75vw;
     padding: 0;
-   
- }
+}
 
 
 
