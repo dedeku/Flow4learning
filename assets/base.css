@@ -2649,6 +2649,10 @@ span.rolunkJel:before{
       padding: 10px 10px;
 }
 #shopify-section-template--15699915407536__16578005015a43b98a label span{
-  
+      background: #ff6d37!important;
+    padding: 5px 20px;
+    border-radius: 25px;
+    margin: 5px;
+    color: #ffffff;
 }
 
