@@ -2569,7 +2569,7 @@ span.rolunkJel:before{
     background: #ffffff;
     padding: 20px;
 }
-#shopify-section-template--15699915407536__165773057610a905e8 h2 span{
+#shopify-section-template--15699915407536__165773057610a905e8 h2 span,#shopify-section-template--15699915407536__16577961307bb572a4 h2 span{
   color: #ff6d37!important;
   font-weight: 700;
     text-transform: uppercase;
@@ -2577,7 +2577,7 @@ span.rolunkJel:before{
     line-height: 1.4em;
     text-align: left;
 }
-#shopify-section-template--15699915407536__165773057610a905e8 h4{
+#shopify-section-template--15699915407536__165773057610a905e8 h4, #shopify-section-template--15699915407536__16577961307bb572a4 h4{
       font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
     font-weight: 300;
     font-size: 23px;
