@@ -2327,12 +2327,18 @@ details-disclosure > details {
     font-size: 19.2px;
     line-height: 32px;
     font-family: Helvetica;
-
 }
 #epb_message_one{
   width:100%!important;
     font-size: 26px;
   line-height:52px;
+}
+
+.spaced-section:last-child {
+    margin-bottom: 0rem;
+}
+.element-margin, .spaced-section {
+    margin-top: 0rem;
 }
 
 #etsCfBoxt4wQdfsVNu .ets_cf_title{
