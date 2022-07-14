@@ -116,6 +116,27 @@
       "settings": {
         "custom_liquid": "<div class=\"simesy-faq-widget\" data-widget-id=\"62d00077ff10065b42df7860\"><\/div>"
       }
+    },
+    "165779887305e6b09b": {
+      "type": "talent",
+      "settings": {
+      }
+    },
+    "1657798891b779e80b": {
+      "type": "revy-contents",
+      "blocks": {
+        "1657798891a6b0b0f9-0": {
+          "type": "html",
+          "settings": {
+            "revy-content-section": "<div class=\"simesy-faq-widget\" data-widget-id=\"62d00077ff10065b42df7860\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "1657798891a6b0b0f9-0"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -125,6 +146,8 @@
     "165779626538ab47fd",
     "1657796408112d2eb9",
     "1657797139b232d01b",
-    "1657798244261178a7"
+    "1657798244261178a7",
+    "165779887305e6b09b",
+    "1657798891b779e80b"
   ]
 }
