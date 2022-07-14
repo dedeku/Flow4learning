@@ -28,23 +28,6 @@
       "settings": {
         "custom_liquid": ""
       }
-    },
-    "1657799108a35446c9": {
-      "type": "apps",
-      "blocks": {
-        "4e195bc4-2e34-423a-87c3-8f6ee08a21b9": {
-          "type": "shopify:\/\/apps\/faq-accordion-faq-page\/blocks\/simesy-faq\/467857aa-e495-4e93-917b-0cc9234489fd",
-          "settings": {
-            "id": "62d00077ff10065b42df7860"
-          }
-        }
-      },
-      "block_order": [
-        "4e195bc4-2e34-423a-87c3-8f6ee08a21b9"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -52,7 +35,6 @@
     "165773057610a905e8",
     "16577961307bb572a4",
     "165779626538ab47fd",
-    "1657798244261178a7",
-    "1657799108a35446c9"
+    "1657798244261178a7"
   ]
 }
