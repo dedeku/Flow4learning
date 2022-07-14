@@ -12,6 +12,7 @@
         "1657785793098a86e8-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_envelope_icon_0a44c433-d4ed-4952-8b3b-dec0adf9c08e.png",
             "title": "1. Személyes kapcsolatfelvétel",
             "text": "<p>A megadott elérhetőségeiden keresztül a Flow egyik kollégája felveszi veled a kapcsolatot.<\/p>",
             "column_link": ""
@@ -20,6 +21,7 @@
         "1657785793098a86e8-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_chat_icon_afb87a15-464b-428e-a762-470dd201b6f0.png",
             "title": "2. Részletek egyeztetése",
             "text": "<p>A Flow munkatársával leegyeztetheted a számodra komfortos díj konstrukciót és a fizetési módot.<\/p>",
             "column_link": ""
@@ -28,6 +30,7 @@
         "1657785793098a86e8-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flow_check_icon_f2c364a7-fa96-472c-8933-be8cf4b603f7.png",
             "title": "3. Beiratkozás véglegesítése",
             "text": "<p>A képzésen való részvétel feltétele a részvételi díj befizetése és a FAR adatok megadása.<\/p>",
             "column_link": ""
