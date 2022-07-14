@@ -2407,8 +2407,10 @@ ul#Slider-template--15023211446448__1657702520f6074637 .media>*:not(.zoom,.defer
     overflow: hidden;
     box-shadow: 6px 6px 18px 0px rgb(0 0 0 / 30%);
 }
+ #shopify-section-template--15699864780976__main #etsCfBoxxWPx7Ys46r .ets_cf_form_control {
+    border-radius: 10px;
+    border: 1px solid #d96e13;
 }
-
 
 #shopify-section-template--15023211446448__main .ets_cf_box {
     margin: 30px auto;
