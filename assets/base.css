@@ -2583,9 +2583,9 @@ span.rolunkJel:before{
     font-size: 23px;
     color: #a0a0a0!important;
 }
-#shopify-section-template--15699915407536__165773057610a905e8 .image-with-text__text p , #shopify-section-template--15699915407536__16577961307bb572a4 .image-with-text__text p , #shopify-section-template--15699915407536__165779626538ab47fd .image-with-text__text p {
-    margin-top: 0;
-    margin-bottom: 0rem;
-    line-height: 22px;
-}
 
+#shopify-section-template--15699915407536__1657796408112d2eb9 .image-with-text__text p {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 22px; 
+}
