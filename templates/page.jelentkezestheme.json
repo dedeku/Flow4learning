@@ -28,8 +28,8 @@
         "1657785793098a86e8-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "3. Beiratkozás véglegesítése",
+            "text": "<p>A képzésen való részvétel feltétele a részvételi díj befizetése és a FAR adatok megadása.<\/p>",
             "column_link": ""
           }
         },
@@ -37,8 +37,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/flow_lock_icon_b76ea076-14cb-4085-b6f8-b2a3502b4949.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "4. Hozzáférés a képzéshez",
+            "text": "<p>Sikeres beirakozást követően, a képzés indulásának napján elérhetővé tesszük az első modul tananyagait.<\/p>",
             "column_link": ""
           }
         }
