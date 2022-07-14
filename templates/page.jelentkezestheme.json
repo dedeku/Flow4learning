@@ -12,16 +12,16 @@
         "1657785793098a86e8-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "1. Személyes kapcsolatfelvétel",
+            "text": "<p>A megadott elérhetőségeiden keresztül a Flow egyik kollégája felveszi veled a kapcsolatot.<\/p>",
             "column_link": ""
           }
         },
         "1657785793098a86e8-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "2. Részletek egyeztetése",
+            "text": "<p>A Flow munkatársával leegyeztetheted a számodra komfortos díj konstrukciót és a fizetési módot.<\/p>",
             "column_link": ""
           }
         },
@@ -32,17 +32,27 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "column_link": ""
           }
+        },
+        "263e73c8-12d9-47ff-a61a-41bb384629d4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flow_lock_icon_b76ea076-14cb-4085-b6f8-b2a3502b4949.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
         }
       },
       "block_order": [
         "1657785793098a86e8-0",
         "1657785793098a86e8-1",
-        "1657785793098a86e8-2"
+        "1657785793098a86e8-2",
+        "263e73c8-12d9-47ff-a61a-41bb384629d4"
       ],
       "settings": {
         "title": "MI TÖRTÉNIK A JELENTKEZÉST KÖVETŐEN?",
-        "image_width": "full",
-        "image_ratio": "portrait",
+        "image_width": "half",
+        "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
