@@ -2578,7 +2578,8 @@ span.rolunkJel:before{
     text-align: left;
 }
 #shopify-section-template--15699915407536__165773057610a905e8 h4{
-    font-weight: normal;
+      font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 300;
     font-size: 23px;
     color: #a0a0a0!important;
 }
