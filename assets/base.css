@@ -2571,5 +2571,10 @@ span.rolunkJel:before{
 }
 #shopify-section-template--15699915407536__165773057610a905e8 h2 span{
   color: #ff6d37!important;
+  font-weight: 700;
+    text-transform: uppercase;
+    font-size: 30px;
+    line-height: 1.4em;
+    text-align: left;
 }
 
