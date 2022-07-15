@@ -2675,3 +2675,6 @@ display:none!important
     padding: 0;
     margin-top: -80px;
 }
+section:nth-child(1){
+  padding-top:50px;
+}
