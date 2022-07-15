@@ -2597,16 +2597,20 @@ span.rolunkJel:before{
     justify-content: space-around;
     align-items: center;
 }
-.eloadoFoto img {
-    border-radius: 50%;
-    width: 100px;
-}
+
 .eloadoFotoTartalom{
   display: flex;
 align-items: center;
 }
 
+.eloadoFoto{
+  margin-right: 20px;
+}
 
+.eloadoFoto img {
+    border-radius: 50%;
+    width: 100px;
+}
 
 /*HARMONIKA*/
 
