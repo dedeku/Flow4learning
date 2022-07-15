@@ -2601,7 +2601,7 @@ span.rolunkJel:before{
 .eloadoFotoTartalom{
     display: flex;
     align-items: center;
-    margin-right: 30px;
+    margin: 0 30px;
 }
 
 .eloadoFoto{
