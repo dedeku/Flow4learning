@@ -2598,10 +2598,10 @@ span.rolunkJel:before{
     align-items: center;
   margin: 20px 0;
 }
-
 .eloadoFotoTartalom{
-  display: flex;
-align-items: center;
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
 }
 
 .eloadoFoto{
