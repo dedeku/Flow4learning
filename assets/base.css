@@ -2592,6 +2592,14 @@ span.rolunkJel:before{
 #shopify-section-template--15699915407536__165779626538ab47fd{
   padding-bottom:0!important;
 }
+
+[id^="shopify-section-template--15699915407536"] .page-width--narrow {
+    max-width: 75vw;
+    padding: 0;
+}
+
+
+
 .eloadoFotoKontener {
     display: flex;
     justify-content: space-around;
