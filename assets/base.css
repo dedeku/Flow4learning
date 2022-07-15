@@ -2597,8 +2597,10 @@ span.rolunkJel:before{
     justify-content: space-around;
     align-items: center;
 }
-
-
+.eloadoFoto img {
+    border-radius: 50%;
+    width: 100px;
+}
 /*HARMONIKA*/
 
   .so-tab {
