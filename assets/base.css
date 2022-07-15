@@ -2666,6 +2666,6 @@ padding-top:0!important;
 display:none!important
 }
 
-section#[id*="shopify-section-template--15699915407536"]{
+[id^="shopify-section-template--15699915407536"]{
   background:red!important;
 }
