@@ -2670,7 +2670,7 @@ display:none!important
   padding:0!important;
 }
 
-section .page-width--narrow {
+[id^="shopify-section-template--15699915407536"] .page-width--narrow {
     max-width: 72.6rem;
     padding: 0;
     margin-top: -80px;
