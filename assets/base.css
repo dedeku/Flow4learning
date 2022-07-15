@@ -2601,6 +2601,14 @@ span.rolunkJel:before{
     border-radius: 50%;
     width: 100px;
 }
+.eloadoFotoTartalom{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
 /*HARMONIKA*/
 
   .so-tab {
