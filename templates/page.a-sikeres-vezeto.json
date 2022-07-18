@@ -9,7 +9,7 @@
     "16581654493f81e703": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<video autoplay muted loop id=\"flowVideo\">\n  <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n  Your browser does not support HTML5 video.\n<\/video>\n<div class=\"videoContentLayer\">\nhello<\/div>"
+        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop poster=\"cake.jpg\">\n    <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"header\">\n    <h1>Blueberry Cheesecake<\/h1>\n    <button>Recipe here<\/button>\n  <\/div>\n<\/div>"
       }
     }
   },
