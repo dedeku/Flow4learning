@@ -9,7 +9,7 @@
     "16581654493f81e703": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/h1>\n<h4>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek<\/h4>\n    <button>Recipe here<\/button>\n  <\/div>\n<\/div>"
+        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/h1>\n<p>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek<\/p>\n    <button>Recipe here<\/button>\n  <\/div>\n<\/div>"
       }
     }
   },
