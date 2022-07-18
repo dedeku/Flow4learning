@@ -2569,7 +2569,7 @@ span.rolunkJel:before{
     background: #ffffff;
     padding: 20px;
 }
-#shopify-section-template--15699915407536__165773057610a905e8 h2 span,#shopify-section-template--15699915407536__16577961307bb572a4 h2 span, #shopify-section-template--15699915407536__165779626538ab47fd h2 span{
+/*#shopify-section-template--15699915407536__165773057610a905e8 h2 span,#shopify-section-template--15699915407536__16577961307bb572a4 h2 span, #shopify-section-template--15699915407536__165779626538ab47fd h2 span,*/ [id^="shopify-section-template--15699915407536"] h2 span{
   color: #ff6d37!important;
   font-weight: 700;
     text-transform: uppercase;
@@ -2577,7 +2577,7 @@ span.rolunkJel:before{
     line-height: 1.4em;
     text-align: left;
 }
-#shopify-section-template--15699915407536__165773057610a905e8 h4, #shopify-section-template--15699915407536__16577961307bb572a4 h4, #shopify-section-template--15699915407536__165779626538ab47fd h4{
+#shopify-section-template--15699915407536__165773057610a905e8 h4, #shopify-section-template--15699915407536__16577961307bb572a4 h4, #shopify-section-template--15699915407536__165779626538ab47fd h4, [id^="shopify-section-template--15699915407536"] h4{
       font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
     font-weight: 300;
     font-size: 23px;
@@ -2593,7 +2593,7 @@ span.rolunkJel:before{
   padding-bottom:0!important;
 }
 
-[id^="shopify-section-template--15699915407536"] .page-width--narrow {
+[id^="shopify-section-template--15699915407536"] .page-width--narrow, {
     max-width: 1100px;
     padding: 0;
 }
@@ -2698,7 +2698,7 @@ section#shopify-section-template--15699915407536__16578005015a43b98a{
 padding-top:0!important;
 }
 
-#shopify-section-template--15699915407536__16578005015a43b98a label, #shopify-section-template--15699915407536__1658140732bb6b3f80 label, #shopify-section-template--15699915407536__1658142526fd9738fb label{
+/*#shopify-section-template--15699915407536__16578005015a43b98a label, #shopify-section-template--15699915407536__1658140732bb6b3f80 label, #shopify-section-template--15699915407536__1658142526fd9738fb label */ [id^="shopify-section-template--15699915407536"] label{
 background: #ff6d37!important;
     padding: 5px 20px;
     border-radius: 25px;
@@ -2709,7 +2709,7 @@ background: #ff6d37!important;
     float: right;
   padding:10px;
 }
-#shopify-section-template--15699915407536__16578005015a43b98a h2.page-title, #shopify-section-template--15699915407536__1658140732bb6b3f80  h2.page-title, #shopify-section-template--15699915407536__1658142526fd9738fb h2.page-title {
+/*#shopify-section-template--15699915407536__16578005015a43b98a h2.page-title, #shopify-section-template--15699915407536__1658140732bb6b3f80  h2.page-title, #shopify-section-template--15699915407536__1658142526fd9738fb h2.page-title */  [id^="shopify-section-template--15699915407536"] h2.page-title{
 display:none!important;
 }
 .fluid-width-video-wrapper{
