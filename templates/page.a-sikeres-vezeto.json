@@ -112,6 +112,7 @@
       "type": "video",
       "settings": {
         "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/flow_video_hatter.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=FXi0_9F8mn8&t=75s",
         "description": "",
         "full_width": false
