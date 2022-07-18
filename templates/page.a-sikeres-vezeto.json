@@ -72,7 +72,7 @@
       "settings": {
         "title": "",
         "image_width": "third",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
