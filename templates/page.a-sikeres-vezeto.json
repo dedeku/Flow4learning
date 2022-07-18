@@ -105,7 +105,7 @@
     "1658173608b3bcf81c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe loading=\"lazy\" title=\"Flow vezetőképzése frissen kinevezett vagy leendő vezetőknek\" src=\"https:\/\/www.youtube.com\/embed\/FXi0_9F8mn8?autoplay=1&amp;amp;feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" name=\"fitvid0\"><\/iframe>\n\n\n\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#shopify-section-template--15710762533040__165816904697061436\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\">Jelentkezem a képzésre<\/a>\n <\/div>"
+        "custom_liquid": "<iframe loading=\"lazy\" title=\"Flow vezetőképzése frissen kinevezett vagy leendő vezetőknek\" src=\"https:\/\/www.youtube.com\/embed\/FXi0_9F8mn8?autoplay=1&amp;amp;feature=oembed\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" name=\"fitvid0\"><\/iframe>\n\n\n\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#shopify-section-template--15710762533040__165816904697061436\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\">Jelentkezem a képzésre<\/a>\n <\/div>"
       }
     }
   },
