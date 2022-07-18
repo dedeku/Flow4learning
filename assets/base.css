@@ -2613,9 +2613,9 @@ display: flex;
     text-decoration: none;
 }
 #shopify-section-template--15710762533040__16581654493f81e703 a.kekGomb:hover{
-background: #fafafa;
-    color: #00afe4;
-    border: 1px solid #00afe4;
+background-color: #fafafa;
+    color: #00afe4!important;
+    border: 1px solid #00afe4!important;
 
 }
 
