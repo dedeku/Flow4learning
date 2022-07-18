@@ -2622,7 +2622,6 @@ display: flex;
 background-color: #fafafa;
     color: #00afe4!important;
     border: 1px solid #00afe4!important;
-
 }
 
 
@@ -2641,8 +2640,19 @@ background-color: #fafafa;
 background-color: #fafafa;
     color: #ff7300!important;
     border: 1px solid #ff7300!important;
-
 }
+
+
+#shopify-section-template--15710762533040__165816904697061436 .grid__item {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    width: calc(20% - 0.75rem);
+    max-width: 50%;
+  
+}
+
+
+
 
 #shopify-section-template--15699915407536__main h1.main-page-title.page-title.h0, #shopify-section-template--15710212653232__main h1.main-page-title.page-title.h0{
   display:none!important;
