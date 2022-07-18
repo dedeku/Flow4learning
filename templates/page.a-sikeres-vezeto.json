@@ -11,10 +11,17 @@
       "settings": {
         "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/h1>\n<p>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek<\/p>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"\">Jelentkezem a képzésre<\/a><\/div>\n  <\/div>\n<\/div>"
       }
+    },
+    "165816904697061436": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2>VEZETŐNEK LENNI NEM CSAK SZAKMAILAG, HANEM EMBERILEG IS KIHÍVÁS<\/h2>\n<p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerülnek magasabb pozícióba, és nem okvetlenül vezetői kompetenciáik alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják ezeket a szituációkat az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p>\n<p><b>Ha velünk tartasz, 2 hónap alatt felvértezünk azokkal a nélkülözhetetlen kommunikációs és egyéb vezetői kompetenciákkal, amelyek elsajátítása a saját bőrödön megtapasztalva évekbe telhet. Mentorált képzési programunk eredményeképpen…<\/b><\/p>"
+      }
     }
   },
   "order": [
     "main",
-    "16581654493f81e703"
+    "16581654493f81e703",
+    "165816904697061436"
   ]
 }
