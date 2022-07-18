@@ -2623,6 +2623,11 @@ span.rolunkJel:before{
     border-radius: 50%;
     width: 70px!important;
 }
+
+.balEloado{
+      flex: 1 0 45%;
+}
+
 /*.so-tab .eloadoFotoTartalom {
     display: flex;
     align-items: flex-start;
