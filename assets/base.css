@@ -2702,8 +2702,8 @@ padding-top:0!important;
     margin: 5px;
     color: #ffffff;
 }
-#shopify-section-template--15699915407536__16578005015a43b98a h2{
-
+#shopify-section-template--15699915407536__16578005015a43b98a h2.page-title{
+display:none!important;
 }
 .fluid-width-video-wrapper{
   padding-top:52%;
