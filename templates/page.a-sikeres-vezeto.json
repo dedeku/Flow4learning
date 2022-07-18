@@ -24,7 +24,7 @@
         "165816943008e4e465-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
+            "image": "shopify:\/\/shop_images\/flow_tudatos_kommunikacio_ikon.png",
             "title": "",
             "text": "<p><strong>Tudatosabban és hatásosabban fogsz kommunikálni<\/strong><\/p>",
             "column_link": ""
@@ -33,7 +33,7 @@
         "09d73ab9-af48-430d-a6ed-42685d5a9be3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
+            "image": "shopify:\/\/shop_images\/flow_jobb_kapcsolat_ikon.png",
             "title": "",
             "text": "<p><strong>Jobb kapcsolatod alakul ki a munkatársaiddal<\/strong><\/p>",
             "column_link": ""
@@ -42,7 +42,7 @@
         "165816943008e4e465-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
+            "image": "shopify:\/\/shop_images\/flow_hatekony_konfliktuskezeles_ikon.png",
             "title": "",
             "text": "<p><strong>Hatékonyabban fogod kezelni a konfliktusokat<\/strong><\/p>",
             "column_link": ""
@@ -71,7 +71,7 @@
         "165817057140b08f8a-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
+            "image": "shopify:\/\/shop_images\/flow_motivalt_munkatars_ikon.png",
             "title": "",
             "text": "<p><strong>Motiváltabb munkatársak vesznek majd körül<\/strong><\/p>",
             "column_link": ""
@@ -80,7 +80,7 @@
         "165817057140b08f8a-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
+            "image": "shopify:\/\/shop_images\/flow_kimagaslo_eredmeny_ikon.png",
             "title": "",
             "text": "<p><strong>Kimagasló eredményekre leszel képes<\/strong><\/p>",
             "column_link": ""
