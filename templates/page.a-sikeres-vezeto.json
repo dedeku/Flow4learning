@@ -101,6 +101,12 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1658173608b3bcf81c": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/h1>\n<p>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek<\/p>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#shopify-section-template--15710762533040__165816904697061436\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\">Jelentkezem a képzésre<\/a><\/div>\n  <\/div>\n<\/div>"
+      }
     }
   },
   "order": [
@@ -108,6 +114,7 @@
     "16581654493f81e703",
     "165816904697061436",
     "1658169430f4e61546",
-    "1658170571822e5e0b"
+    "1658170571822e5e0b",
+    "1658173608b3bcf81c"
   ]
 }
