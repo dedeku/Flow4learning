@@ -2705,7 +2705,12 @@ padding-top:0!important;
 #shopify-section-template--15699915407536__16578005015a43b98a h2{
 
 }
-
+.fluid-width-video-wrapper{
+  padding-top:52%;
+      width: 100%;
+    position: relative;
+    padding: 0;
+}
 [id^="shopify-section-template--15699915407536"]{
   padding:0;
 }
