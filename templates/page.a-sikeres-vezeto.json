@@ -47,35 +47,17 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "column_link": ""
           }
-        },
-        "c2f3aa6f-3e26-4096-8044-b88663fbf9a8": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        },
-        "983237fb-c669-4476-86d2-c5092125376f": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
         }
       },
       "block_order": [
         "165816943008e4e465-0",
         "09d73ab9-af48-430d-a6ed-42685d5a9be3",
-        "165816943008e4e465-1",
-        "c2f3aa6f-3e26-4096-8044-b88663fbf9a8",
-        "983237fb-c669-4476-86d2-c5092125376f"
+        "165816943008e4e465-1"
       ],
       "settings": {
         "title": "",
-        "image_width": "third",
-        "image_ratio": "portrait",
+        "image_width": "half",
+        "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -115,7 +97,7 @@
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
