@@ -2621,7 +2621,7 @@ span.rolunkJel:before{
 
 .eloadoFoto img {
     border-radius: 50%;
-    width: 70px;
+    width: 70px!important;
 }
 
 
