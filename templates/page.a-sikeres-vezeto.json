@@ -81,7 +81,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/flow_envelope_icon_100.png",
-            "title": "Column",
+            "title": "",
             "text": "<p><strong>Kimagasló eredményekre leszel képes<\/strong><\/p>",
             "column_link": ""
           }
