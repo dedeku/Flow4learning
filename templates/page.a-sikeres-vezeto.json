@@ -65,16 +65,6 @@
         "swipe_on_mobile": false
       }
     },
-    "16581747412afcff2f": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "cover_image": "shopify:\/\/shop_images\/flow_video_hatter.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=FXi0_9F8mn8&t=75s",
-        "description": "",
-        "full_width": false
-      }
-    },
     "1658170571822e5e0b": {
       "type": "multicolumn",
       "blocks": {
@@ -112,6 +102,16 @@
         "swipe_on_mobile": false
       }
     },
+    "16581747412afcff2f": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/flow_video_hatter.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=FXi0_9F8mn8&t=75s",
+        "description": "",
+        "full_width": false
+      }
+    },
     "1658173608b3bcf81c": {
       "type": "custom-liquid",
       "settings": {
@@ -124,8 +124,8 @@
     "16581654493f81e703",
     "165816904697061436",
     "1658169430f4e61546",
-    "16581747412afcff2f",
     "1658170571822e5e0b",
+    "16581747412afcff2f",
     "1658173608b3bcf81c"
   ]
 }
