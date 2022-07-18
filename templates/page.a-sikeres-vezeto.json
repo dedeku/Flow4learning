@@ -17,11 +17,74 @@
       "settings": {
         "custom_liquid": "<h2>VEZETŐNEK LENNI NEM CSAK SZAKMAILAG, HANEM EMBERILEG IS KIHÍVÁS<\/h2>\n<p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerülnek magasabb pozícióba, és nem okvetlenül vezetői kompetenciáik alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják ezeket a szituációkat az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p>\n<p><b>Ha velünk tartasz, 2 hónap alatt felvértezünk azokkal a nélkülözhetetlen kommunikációs és egyéb vezetői kompetenciákkal, amelyek elsajátítása a saját bőrödön megtapasztalva évekbe telhet. Mentorált képzési programunk eredményeképpen…<\/b><\/p>"
       }
+    },
+    "1658169430f4e61546": {
+      "type": "multicolumn",
+      "blocks": {
+        "165816943008e4e465-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "165816943008e4e465-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "165816943008e4e465-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "39b33480-f3e2-4684-95de-89a162c84730": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "81e12514-602c-4c40-9721-f5b2fbddae3a": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165816943008e4e465-0",
+        "165816943008e4e465-1",
+        "165816943008e4e465-2",
+        "39b33480-f3e2-4684-95de-89a162c84730",
+        "81e12514-602c-4c40-9721-f5b2fbddae3a"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
     "main",
     "16581654493f81e703",
-    "165816904697061436"
+    "165816904697061436",
+    "1658169430f4e61546"
   ]
 }
