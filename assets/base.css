@@ -2569,7 +2569,6 @@ span.rolunkJel:before{
   width: 100%;
 }
 #shopify-section-template--15710762533040__16581654493f81e703 .video-wrapper {
-  border: 2px solid #000;
   width: 100vw;
   height: 100vh;
   position: relative;
@@ -2581,8 +2580,9 @@ span.rolunkJel:before{
 }
 #shopify-section-template--15710762533040__16581654493f81e703 .videoHeader{
   position: relative;
-  color: white;
-  text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+   font-size: 49px;
+   color: #ffffff!important;
+}
 }
 
 
