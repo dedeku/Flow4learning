@@ -2703,12 +2703,11 @@ padding-top:0!important;
     background: #ff6d37!important;
     border-radius: 25px;
     margin: 5px;
-    position: absolute;
     color: #fff;
     width: 126px;
     text-align: center;
     float: right;
-    right: 0;
+    right: 126;
     padding: 10px;
 }
 /*#shopify-section-template--15699915407536__16578005015a43b98a h2.page-title, #shopify-section-template--15699915407536__1658140732bb6b3f80  h2.page-title, #shopify-section-template--15699915407536__1658142526fd9738fb h2.page-title */  
