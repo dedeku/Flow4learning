@@ -2642,6 +2642,7 @@ column-gap: 10%;
     position: relative;
     width: 100%;
     margin: 25px 0;
+    overflow:hidden;
   }
 .so-tab iframe {
     height: 46.5vh;
