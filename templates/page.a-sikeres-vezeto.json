@@ -4,9 +4,26 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16581652273f69f413": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true
+      }
+    },
+    "16581654493f81e703": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<video autoplay muted loop id=\"flowVideo\">\n  <source src=\"https:\/\/sikeresvezeto.webuni.hu\/wp-content\/uploads\/2020\/05\/flow_gif_hosszabb.mp4\" type=\"video\/mp4\">\n  Your browser does not support HTML5 video.\n<\/video>"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16581652273f69f413",
+    "16581654493f81e703"
   ]
 }
