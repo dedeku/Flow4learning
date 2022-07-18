@@ -2631,7 +2631,12 @@ background-color: #fafafa;
     padding: 10px 30px;
     text-decoration: none; 
 }
+#shopify-section-template--15710762533040__16581654493f81e703 a.narancsGomb:hover{
+background-color: #fafafa;
+    color: #ff7300!important;
+    border: 1px solid #ff7300!important;
 
+}
 
 #shopify-section-template--15699915407536__main h1.main-page-title.page-title.h0, #shopify-section-template--15710212653232__main h1.main-page-title.page-title.h0{
   display:none!important;
