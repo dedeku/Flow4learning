@@ -2692,9 +2692,7 @@ span.rolunkJel:before{
 section#shopify-section-template--15699915407536__16578005015a43b98a{
 padding-top:0!important;
 }
-#shopify-section-template--15699915407536__16578005015a43b98a label{
-      padding: 10px 10px;
-}
+
 #shopify-section-template--15699915407536__16578005015a43b98a label{
 background: #ff6d37!important;
     padding: 5px 20px;
@@ -2704,6 +2702,7 @@ background: #ff6d37!important;
     width: 126px;
     text-align: center;
     float: right;
+  padding:10px;
 }
 #shopify-section-template--15699915407536__16578005015a43b98a h2.page-title{
 display:none!important;
