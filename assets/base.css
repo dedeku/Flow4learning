@@ -2559,20 +2559,35 @@ span.rolunkJel:before{
 
 
 /*SIKERES VEZETŐ*/
-#shopify-section-template--15710762533040__16581654493f81e703 video{
-  right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
+
+#shopify-section-template--15710762533040__16581654493f81e703 video {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
 }
-#shopify-section-template--15710762533040__16581654493f81e703 .videoContentLayer{
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    background: #0000005c;
-    position: absolute;
+#shopify-section-template--15710762533040__16581654493f81e703 .video-wrapper {
+  border: 2px solid #000;
+  width: 400px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+#shopify-section-template--15710762533040__16581654493f81e703 .videoHeader{
+  position: relative;
+  color: white;
+  text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+}
+
+
+
+
 
 
 
