@@ -2668,7 +2668,7 @@ span.rolunkJel:before{
   /* Icon */
   .so-tab label::after {
     position: absolute;
-    right: 0;
+    right: 10px;
     top: 0;
     display: block;
     -webkit-transition: all .35s;
