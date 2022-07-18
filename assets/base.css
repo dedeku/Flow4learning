@@ -2623,12 +2623,12 @@ span.rolunkJel:before{
     border-radius: 50%;
     width: 70px!important;
 }
-.so-tab .eloadoFotoTartalom {
+/*.so-tab .eloadoFotoTartalom {
     display: flex;
     align-items: flex-start;
     margin: 0 30px;
     flex-direction: column;
-}
+}*/
 
 
 /*HARMONIKA*/
