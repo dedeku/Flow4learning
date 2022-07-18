@@ -2585,6 +2585,9 @@ span.rolunkJel:before{
     font-size: 23px;
     color: #a0a0a0!important;
 }
+[id^="shopify-section-template--15699915407536"] h3, [id^="shopify-section-template--15710212653232"] h3{
+    text-transform: uppercase;
+}
 
 #shopify-section-template--15699915407536__1657796408112d2eb9 .image-with-text__text p {
     margin-top: 0;
