@@ -2596,8 +2596,8 @@ span.rolunkJel:before{
 }
 
 [id^="shopify-section-template--15699915407536"] .page-width--narrow, [id^="shopify-section-template--15710212653232"] .page-width--narrow {
-    /*max-width: 1100px;
-    padding: 0;*/
+max-width: 1200px;
+    padding: 40px;
 }
 
 [id^="shopify-section-template--15699915407536"]  .fluid-width-video-wrapper, [id^="shopify-section-template--15710212653232"] .fluid-width-video-wrapper{
