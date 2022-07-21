@@ -115,7 +115,7 @@
     "1658173608b3bcf81c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h1>CSATLAKOZZ TE IS, ÉS KÉSZÜLJ FEL <br>A VEZETŐI SZEREPRE!<\/h1>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#hogyanEpulFel\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form\">Jelentkezem a képzésre<\/a><\/div>\n <\/div>"
+        "custom_liquid": "<h1>CSATLAKOZZ TE IS, ÉS KÉSZÜLJ FEL <br>A VEZETŐI SZEREPRE!<\/h1>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form\">Jelentkezem a képzésre<\/a><\/div>\n <\/div>"
       }
     },
     "1658175740311bb670": {
