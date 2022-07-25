@@ -5,7 +5,7 @@
             {% if singlePage.metafields.global.instructor %}
                 {% assign pageInstructorId = singlePage.metafields.global.instructor | downcase %}
                 {% if instructorIDs contains pageInstructorId %}
-      <div class="profile-card {{ instructorIDs }}">
+      <div class="profile-card {{ pageinstructorID }}">
         {%- if singlePage.metafields.global.instructorpic != blank and singlePage.metafields.global.instructorpic.type == "file_reference"-%}
         <img src="{{ singlePage.metafields.global.instructorpic | img_url: '500x500' }}" alt="image1" class="profile-icon" />
         <div class="profile-name">{{ singlePage.title | escape }}</div>
