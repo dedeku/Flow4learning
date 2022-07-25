@@ -1,5 +1,5 @@
 <div class="instructors" style="width: 100%">
-    <div class="profile-container">
+    <div class="profile-container prod">
         {% assign instructorIDs =  product.metafields.units.instructorID.value | split: "&" %}
         {% for singlePage in pages %}
             {% if singlePage.metafields.global.instructor %}
