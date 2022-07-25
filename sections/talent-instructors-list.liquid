@@ -2,7 +2,7 @@
 <section id="instructor-list">
     <div class="profile-container">
     {% for singlePage in pages %}
-        {%- if singlePage.metafields.global.instructor != blank  -%}
+        {%- if singlePage.metafields.global.instructorID != blank  -%}
             <div class="profile-card">
                 {%- if singlePage.metafields.global.instructorpic != blank and singlePage.metafields.global.instructorpic.type == "file_reference" -%}
                     <img src="{{ singlePage.metafields.global.instructorpic | img_url: '500x500' }}" alt="{{ singlePage.title | escape }}" class="profile-icon" />
