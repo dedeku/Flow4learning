@@ -278,47 +278,39 @@
         "layout": "image_first"
       }
     },
-    "1658853766607222dd": {
-      "type": "image-banner",
+    "1658853875a0001d9a": {
+      "type": "rich-text",
       "blocks": {
-        "1658853766a554702e-0": {
+        "165885387585b10a36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
+            "heading": "A kurzus menete: így néz ki a 4 hét, aminek során segítünk a haladásban",
+            "heading_size": "h1"
           }
         },
-        "1658853766a554702e-1": {
+        "165885387585b10a36-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "<p>A kurzus 4 hétig tart, közben a heti tananyagot (videók, leckék, kvízek, e-learning anyagok) egyénileg, saját időbeosztásodban tudod feldolgozni.<\/p><p><\/p><p>A folyamatos tanulást és a kérdések-dilemmák megosztását, tapasztalatok megbeszélést <strong>minden héten egyórás ÉLŐ online konzultáció<\/strong>val támogatjuk. A konzultáción a heti anyagról beszélgetünk, azokra dolgozzuk fel kisebb-nagyobb csoportokban, oktatói támogatással.<\/p><p><\/p><p>Résztvevőink visszajelzései alapján a leghasznosabb a példák megbeszélése, így erre ebben a kurzusban még nagyobb hangsúlyt helyezünk. Oktatóink is megosztanak sok-sok példát és esetet, és a résztvevők saját eseteit is megbeszéljük, feldolgozzuk a közös időnkben. <\/p>"
           }
         },
-        "1658853766a554702e-2": {
-          "type": "buttons",
+        "165885387585b10a36-2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Megnézem - jelenrkezem",
-            "button_link_1": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "1658853766a554702e-0",
-        "1658853766a554702e-1",
-        "1658853766a554702e-2"
+        "165885387585b10a36-0",
+        "165885387585b10a36-1",
+        "165885387585b10a36-2"
       ],
       "settings": {
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "full_width": true
       }
     }
   },
@@ -331,6 +323,6 @@
     "1648062899d625de32",
     "16309173004eb6add0",
     "1658851054ecbd3b2e",
-    "1658853766607222dd"
+    "1658853875a0001d9a"
   ]
 }
