@@ -2915,3 +2915,12 @@ display:none!important;
 #shopify-section-template--15023210987696__main .grid {
     flex-direction: row-reverse;
 }
+
+
+#shopify-section-template--15023210987696__main .product:not(.product--no-media):not(.featured-product) .product__media-wrapper {
+    max-width: 45%;
+    width: calc(45% - 0.5rem);
+}
+
+
+
