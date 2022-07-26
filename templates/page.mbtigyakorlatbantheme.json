@@ -346,6 +346,50 @@
         "color_scheme": "background-2",
         "layout": "text_first"
       }
+    },
+    "165885694149cedba7": {
+      "type": "image-banner",
+      "blocks": {
+        "16588569411d013ce4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16588569411d013ce4-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16588569411d013ce4-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16588569411d013ce4-0",
+        "16588569411d013ce4-1",
+        "16588569411d013ce4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_9f817497-24b0-45f6-9ed1-878d604cc1bc.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -358,6 +402,7 @@
     "16309173004eb6add0",
     "1658851054ecbd3b2e",
     "1658853875a0001d9a",
-    "1658856617b76eb3c6"
+    "1658856617b76eb3c6",
+    "165885694149cedba7"
   ]
 }
