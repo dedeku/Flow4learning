@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1648051958f8387609": {
+      "type": "image-with-text",
+      "blocks": {
+        "1648051957538f0c97-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ebben a képzésben aktív szereplő leszel"
+          }
+        },
+        "1648051957538f0c97-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A kurzus moduljait úgy építettük fel, hogy a <strong>modellek, koncepciók, példák<\/strong> bemutatásán túl neked is legyen feladatod: <strong>teret adunk a gyakorlásra, elgondolkodtató kérdéseket teszünk fel<\/strong>, és mindent megteszünk annak érdekében, hogy próbálgasd menet közben, amiről éppen tanulsz. Nem hisszük, hogy a fejedbe tölthetjük a tudást, abban hiszünk, hogy mindenki lefordítja a tanultakat a saját mindennapi <strong>gyakorlat<\/strong>ára – és ebben támogatunk téged a képzés során.<\/p>"
+          }
+        },
+        "1648051957538f0c97-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live"
+          }
+        }
+      },
+      "block_order": [
+        "1648051957538f0c97-0",
+        "1648051957538f0c97-1",
+        "1648051957538f0c97-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-04-06_at_14.33.01.png",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1648673975f56dfda8": {
+      "type": "multicolumn",
+      "blocks": {
+        "164867397590cdc698-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"Ajánlom másnak is ezt a szépen felépített, jó módszertanon alapuló képzést!”<\/p><p>Gál Loránd \/Lightware<\/p>",
+            "column_link": ""
+          }
+        },
+        "164867397590cdc698-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"Jól összeszedett anyag, jó ötletekkel, elgondolkodtató videókkal. Engem is energizált, ajánlom másoknak is!\"<\/p><p><em>Pócsi Zsuzsanna, Borsodchem, Manager Isocyanate Laboratory<\/em><\/p>",
+            "column_link": ""
+          }
+        },
+        "164867397590cdc698-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ajanlas.jpg",
+            "title": "",
+            "text": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164867397590cdc698-1",
+        "164867397590cdc698-0",
+        "164867397590cdc698-2"
+      ],
+      "settings": {
+        "title": "Résztvevőink a képzésről",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Megnézem - jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live",
+        "swipe_on_mobile": false
+      }
+    },
+    "16480631085c1e5935": {
+      "type": "multicolumn",
+      "blocks": {
+        "16480631088bc3d0fa-1": {
+          "type": "column",
+          "settings": {
+            "title": "ENERGIZÁLD A CSAPATODAT",
+            "text": "<p>- Mi az appreciative megközelítés?<\/p><p>- Nézzünk rá appreciatíven magunkra<\/p><p>- Mit jelent a pozitív erő a vezetésben?<\/p><p>- Mi az appreciative leadership?<\/p>",
+            "column_link": ""
+          }
+        },
+        "16480631088bc3d0fa-2": {
+          "type": "column",
+          "settings": {
+            "title": "VEZESS POZITÍV KÉRDÉSEKKEL",
+            "text": "<p>- A pozitívan befolyásoló kérdések<\/p><p>- Kérdezz többet, és állíts kevesebbet<\/p>",
+            "column_link": ""
+          }
+        },
+        "aad1db0f-41d4-4a05-9b6b-2043ea9caee6": {
+          "type": "column",
+          "settings": {
+            "title": "VOND BE AZ EMBEREKET",
+            "text": "<p>- Mi a bevonás?<\/p><p>- Biztonságos tér létrehozása<\/p>",
+            "column_link": ""
+          }
+        },
+        "05a340ce-f575-49ee-a933-188383171e89": {
+          "type": "column",
+          "settings": {
+            "title": "A POZITÍV MEGVILÁGÍTÁS MŰVÉSZETE",
+            "text": "<p>- Személyes szint: belső beszéd<\/p><p>- Megerősítő check-in a csapatmegbeszélésen<\/p>",
+            "column_link": ""
+          }
+        },
+        "30a0171a-38b6-4782-92ad-bf1be112f67b": {
+          "type": "column",
+          "settings": {
+            "title": "INSPIRÁLD AZ EMBEREKET",
+            "text": "<p>- Mit jelent inspirálónak lenni?<\/p><p>- Válaszd a pozitivitást és értékeld az embereket<\/p>",
+            "column_link": ""
+          }
+        },
+        "da810801-ca7d-4529-b037-e46b41277163": {
+          "type": "column",
+          "settings": {
+            "title": "ADJ ÉRTELMET A DÖNTÉSEKNEK",
+            "text": "<p>- Mit jelent az integritás? Tudatos döntéshozatal<\/p><p>- Engedd meg a hibázást<\/p><p>- Hogyan tovább?<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16480631088bc3d0fa-1",
+        "16480631088bc3d0fa-2",
+        "aad1db0f-41d4-4a05-9b6b-2043ea9caee6",
+        "05a340ce-f575-49ee-a933-188383171e89",
+        "30a0171a-38b6-4782-92ad-bf1be112f67b",
+        "da810801-ca7d-4529-b037-e46b41277163"
+      ],
+      "settings": {
+        "title": "A kurzus legfontosabb témái",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Megnézem - jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live",
+        "swipe_on_mobile": true
+      }
+    },
+    "1648062899d625de32": {
+      "type": "image-with-text",
+      "blocks": {
+        "1648062899a1041cd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Segítünk a haladásban"
+          }
+        },
+        "1648062899a1041cd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A folyamatos tanulást és a kérdések-dilemmák megosztását, tapasztalatok megbeszélést <strong>minden héten egyórás ÉLŐ online konzultáció<\/strong>val támogatjuk – ezeknek a ritmusában javasoljuk a tanulást is – az adott konzultáción az addig átvett leckékről beszélgetünk, azokra reflektálunk kisebb-nagyobb csoportokban, oktatói támogatással.<\/p>"
+          }
+        },
+        "1648062899a1041cd8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/energizalo-vezeto-live"
+          }
+        }
+      },
+      "block_order": [
+        "1648062899a1041cd8-0",
+        "1648062899a1041cd8-1",
+        "1648062899a1041cd8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wp_kep.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16309173004eb6add0": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "16309173000b9a567d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tudás a postafiókodban"
+          }
+        },
+        "16309173000b9a567d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség<\/p>"
+          }
+        },
+        "16309173000b9a567d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16309173000b9a567d-0",
+        "16309173000b9a567d-1",
+        "16309173000b9a567d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1648051958f8387609",
+    "1648673975f56dfda8",
+    "16480631085c1e5935",
+    "1648062899d625de32",
+    "16309173004eb6add0"
+  ]
+}
