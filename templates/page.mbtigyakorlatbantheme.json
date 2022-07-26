@@ -342,8 +342,9 @@
         "16588566170e8c2f3d-2"
       ],
       "settings": {
-        "height": "small",
-        "color_scheme": "background-2",
+        "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_550px.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
         "layout": "text_first"
       }
     }
