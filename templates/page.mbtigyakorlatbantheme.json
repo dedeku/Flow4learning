@@ -127,7 +127,7 @@
         "9374ea60-a42d-4ae2-bca3-d614541662f2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_SZEMELYISEGMODELL_ALAPJAI.jpg",
+            "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_SZEMELYISEGMODELL_ALAPJAI_220px.jpg",
             "title": "",
             "text": "",
             "column_link": ""
@@ -167,7 +167,7 @@
       "settings": {
         "title": "A kurzus témái",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Megnézem - jelentkezem",
