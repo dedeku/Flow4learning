@@ -342,8 +342,8 @@
         "16588566170e8c2f3d-2"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "height": "small",
+        "color_scheme": "background-2",
         "layout": "text_first"
       }
     }
