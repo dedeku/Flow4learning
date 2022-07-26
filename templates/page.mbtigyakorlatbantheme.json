@@ -127,15 +127,15 @@
         "16480631088bc3d0fa-1": {
           "type": "column",
           "settings": {
-            "title": "ENERGIZÁLD A CSAPATODAT",
-            "text": "<p>- Mi az appreciative megközelítés?<\/p><p>- Nézzünk rá appreciatíven magunkra<\/p><p>- Mit jelent a pozitív erő a vezetésben?<\/p><p>- Mi az appreciative leadership?<\/p>",
+            "title": "AZ MBTI SZEMÉLYISÉGMODELL ALAPJAI",
+            "text": "",
             "column_link": ""
           }
         },
         "16480631088bc3d0fa-2": {
           "type": "column",
           "settings": {
-            "title": "VEZESS POZITÍV KÉRDÉSEKKEL",
+            "title": "MILYEN A TE SZEMÉLYISÉGTÍPUSOD?",
             "text": "<p>- A pozitívan befolyásoló kérdések<\/p><p>- Kérdezz többet, és állíts kevesebbet<\/p>",
             "column_link": ""
           }
@@ -143,32 +143,8 @@
         "aad1db0f-41d4-4a05-9b6b-2043ea9caee6": {
           "type": "column",
           "settings": {
-            "title": "VOND BE AZ EMBEREKET",
+            "title": "TIPPEK ÉS TRÜKKÖK A HATÉKONY KOMMUNIKÁCIÓHOZ",
             "text": "<p>- Mi a bevonás?<\/p><p>- Biztonságos tér létrehozása<\/p>",
-            "column_link": ""
-          }
-        },
-        "05a340ce-f575-49ee-a933-188383171e89": {
-          "type": "column",
-          "settings": {
-            "title": "A POZITÍV MEGVILÁGÍTÁS MŰVÉSZETE",
-            "text": "<p>- Személyes szint: belső beszéd<\/p><p>- Megerősítő check-in a csapatmegbeszélésen<\/p>",
-            "column_link": ""
-          }
-        },
-        "30a0171a-38b6-4782-92ad-bf1be112f67b": {
-          "type": "column",
-          "settings": {
-            "title": "INSPIRÁLD AZ EMBEREKET",
-            "text": "<p>- Mit jelent inspirálónak lenni?<\/p><p>- Válaszd a pozitivitást és értékeld az embereket<\/p>",
-            "column_link": ""
-          }
-        },
-        "da810801-ca7d-4529-b037-e46b41277163": {
-          "type": "column",
-          "settings": {
-            "title": "ADJ ÉRTELMET A DÖNTÉSEKNEK",
-            "text": "<p>- Mit jelent az integritás? Tudatos döntéshozatal<\/p><p>- Engedd meg a hibázást<\/p><p>- Hogyan tovább?<\/p>",
             "column_link": ""
           }
         }
@@ -176,14 +152,11 @@
       "block_order": [
         "16480631088bc3d0fa-1",
         "16480631088bc3d0fa-2",
-        "aad1db0f-41d4-4a05-9b6b-2043ea9caee6",
-        "05a340ce-f575-49ee-a933-188383171e89",
-        "30a0171a-38b6-4782-92ad-bf1be112f67b",
-        "da810801-ca7d-4529-b037-e46b41277163"
+        "aad1db0f-41d4-4a05-9b6b-2043ea9caee6"
       ],
       "settings": {
-        "title": "A kurzus legfontosabb témái",
-        "image_width": "full",
+        "title": "A kurzus témái",
+        "image_width": "third",
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
