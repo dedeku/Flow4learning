@@ -128,7 +128,7 @@
           "type": "column",
           "settings": {
             "title": "AZ MBTI SZEMÉLYISÉGMODELL ALAPJAI",
-            "text": "",
+            "text": "<p>- Hogyan energizálódunk? Hogyan gyűjtünk információt? Hogyan hozunk döntéseket? Hogyan éljük az életünket?<br\/>-\tPéldák, esetek<br\/>-\tHogyan jelenik ez meg a mindennapokban?<br\/><\/p>",
             "column_link": ""
           }
         },
@@ -136,7 +136,7 @@
           "type": "column",
           "settings": {
             "title": "MILYEN A TE SZEMÉLYISÉGTÍPUSOD?",
-            "text": "<p>- A pozitívan befolyásoló kérdések<\/p><p>- Kérdezz többet, és állíts kevesebbet<\/p>",
+            "text": "<p>- Önismeret és önmagad elhelyezése<br\/>- Hozd ki a legtöbbet magadból!<br\/><\/p>",
             "column_link": ""
           }
         },
@@ -144,7 +144,7 @@
           "type": "column",
           "settings": {
             "title": "TIPPEK ÉS TRÜKKÖK A HATÉKONY KOMMUNIKÁCIÓHOZ",
-            "text": "<p>- Mi a bevonás?<\/p><p>- Biztonságos tér létrehozása<\/p>",
+            "text": "<p>- Hatékony kommunikáció a munkahelyen<br\/>- Hatékony kommunikáció a magánéletben<br\/>- Hozd ki a legtöbbet a kapcsolataidból!<br\/><\/p>",
             "column_link": ""
           }
         }
