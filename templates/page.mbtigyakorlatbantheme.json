@@ -170,7 +170,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "Megnézem - jelentkezem",
         "button_link": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live",
         "swipe_on_mobile": true
@@ -312,6 +312,12 @@
         "color_scheme": "inverse",
         "full_width": true
       }
+    },
+    "16588541951d7f701f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Mit kapsz a pénzedért?\n\t2 órányi videós tananyagot, amihez 1 éven keresztül bármikor hozzáférhetsz és amit akárhányszor újranézhetsz\n\t5×1 órás LIVE konzultációt a kurzus oktatóival\n\tHozzáférést a fórumhoz, ahol az oktatók válaszolnak a kérdéseidre, illetve olvashatod mások tapasztalatait is\n\t23 oldalas munkafüzetet gyakorlatokkal (online és offline is tölthető)\n\tSzemélyre szabható akciótervet saját magad és a kapcsolataid fejlesztésére\n\tSzemélyes figyelmet – a kurzus során figyelünk rád, kísérünk és támogatunk, hogy tudd tartani az ütemtervet"
+      }
     }
   },
   "order": [
@@ -323,6 +329,7 @@
     "1648062899d625de32",
     "16309173004eb6add0",
     "1658851054ecbd3b2e",
-    "1658853875a0001d9a"
+    "1658853875a0001d9a",
+    "16588541951d7f701f"
   ]
 }
