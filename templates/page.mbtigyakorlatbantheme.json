@@ -78,6 +78,7 @@
     },
     "1648673975f56dfda8": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "164867397590cdc698-1": {
           "type": "column",
@@ -276,6 +277,49 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "1658853766607222dd": {
+      "type": "image-banner",
+      "blocks": {
+        "1658853766a554702e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1658853766a554702e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1658853766a554702e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Megnézem - jelenrkezem",
+            "button_link_1": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1658853766a554702e-0",
+        "1658853766a554702e-1",
+        "1658853766a554702e-2"
+      ],
+      "settings": {
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -286,6 +330,7 @@
     "16480631085c1e5935",
     "1648062899d625de32",
     "16309173004eb6add0",
-    "1658851054ecbd3b2e"
+    "1658851054ecbd3b2e",
+    "1658853766607222dd"
   ]
 }
