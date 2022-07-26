@@ -2910,3 +2910,8 @@ display:none!important;
 }
 
 
+/*product*/
+
+#shopify-section-template--15023210987696__main .grid {
+    flex-direction: row-reverse;
+}
