@@ -313,45 +313,38 @@
         "full_width": true
       }
     },
-    "16588541951d7f701f": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "Mit kapsz a pénzedért?\n\t2 órányi videós tananyagot, amihez 1 éven keresztül bármikor hozzáférhetsz és amit akárhányszor újranézhetsz\n\t5×1 órás LIVE konzultációt a kurzus oktatóival\n\tHozzáférést a fórumhoz, ahol az oktatók válaszolnak a kérdéseidre, illetve olvashatod mások tapasztalatait is\n\t23 oldalas munkafüzetet gyakorlatokkal (online és offline is tölthető)\n\tSzemélyre szabható akciótervet saját magad és a kapcsolataid fejlesztésére\n\tSzemélyes figyelmet – a kurzus során figyelünk rád, kísérünk és támogatunk, hogy tudd tartani az ütemtervet"
-      }
-    },
-    "16588550521877f967": {
-      "type": "rich-text",
+    "1658856617b76eb3c6": {
+      "type": "image-with-text",
       "blocks": {
-        "16588550527383a23c-0": {
+        "16588566170e8c2f3d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Mit kapsz a pénzedért?"
           }
         },
-        "16588550527383a23c-1": {
+        "16588566170e8c2f3d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>- Szeretnéd jobban megismerni magad<br\/>- Szeretnéd jobban érteni az embereket<br\/>- Mindig is érdekelt a pszichológia<br\/>- Néha meglep, hogy egyes emberek másképp működnek, mint te, és szeretnéd érteni, mi állhat emögött (pl. határidők kezelése, döntések meghozatala, stb.)<br\/><br\/>-Szeretnéd tudatosabban kihasználni a<br\/>benned rejlő erőforrásokat<br\/><br\/>-Szeretnéd a kapcsolataidat hatékonyabbá<br\/>tenni<br\/><br\/><\/p>"
+            "text": "<p>- 2 órányi videós tananyagot, amihez 1 éven keresztül bármikor hozzáférhetsz és amit akárhányszor újranézhetsz<\/p><p><br\/>- 5×1 órás LIVE konzultációt a kurzus oktatóival<\/p><p><br\/>- Hozzáférést a fórumhoz, ahol az oktatók válaszolnak a kérdéseidre, illetve olvashatod mások tapasztalatait is<\/p><p><br\/>- 23 oldalas munkafüzetet gyakorlatokkal (online és offline is tölthető)<\/p><p><br\/>- Személyre szabható akciótervet saját magad és a kapcsolataid fejlesztésére<\/p><p><br\/>- Személyes figyelmet – a kurzus során figyelünk rád, kísérünk és támogatunk, hogy tudd tartani az ütemtervet<br\/><\/p>"
           }
         },
-        "16588550527383a23c-2": {
+        "16588566170e8c2f3d-2": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "16588550527383a23c-0",
-        "16588550527383a23c-1",
-        "16588550527383a23c-2"
+        "16588566170e8c2f3d-0",
+        "16588566170e8c2f3d-1",
+        "16588566170e8c2f3d-2"
       ],
       "settings": {
+        "height": "adapt",
         "color_scheme": "background-1",
-        "full_width": true
+        "layout": "text_first"
       }
     }
   },
@@ -365,7 +358,6 @@
     "16309173004eb6add0",
     "1658851054ecbd3b2e",
     "1658853875a0001d9a",
-    "16588541951d7f701f",
-    "16588550521877f967"
+    "1658856617b76eb3c6"
   ]
 }
