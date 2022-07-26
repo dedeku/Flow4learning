@@ -260,7 +260,7 @@
         "1658851053823df083-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Megnézem - jelentkezem",
             "button_link": ""
           }
         }
@@ -271,6 +271,7 @@
         "1658851053823df083-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Flow_Consulting_ha_mindig_is_erdekelt_a_pszichologia.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
