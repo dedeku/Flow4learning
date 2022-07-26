@@ -331,8 +331,8 @@
         "16588566170e8c2f3d-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live"
           }
         }
       },
@@ -342,7 +342,7 @@
         "16588566170e8c2f3d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_550px.jpg",
+        "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_550px_94d696fa-31fc-4aff-9d24-7477b39315de.jpg",
         "height": "large",
         "color_scheme": "background-1",
         "layout": "text_first"
