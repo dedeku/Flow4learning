@@ -17,7 +17,7 @@
         "1648051957538f0c97-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A kurzust úgy építettük fel, hogy a <strong>modellek és példák<\/strong> bemutatásán túl neked is legyen feladatod: <strong>teret adunk a gyakorlásra, elgondolkodtató kérdéseket teszünk fel<\/strong>, és mindent megteszünk annak érdekében, hogy kipróbáld menet közben, amiről éppen tanulsz. Nem hisszük, hogy a fejedbe tölthetjük a tudást, abban hiszünk, hogy mindenki lefordítja a tanultakat a saját mindennapi <strong>gyakorlat<\/strong>ára – és ebben támogatunk téged a képzés során.<\/p>"
+            "text": "<p>A kurzust úgy építettük fel, hogy a <strong>modellek és példák<\/strong> bemutatásán túl neked is legyen feladatod: <strong>teret adunk a gyakorlásra, elgondolkodtató kérdéseket teszünk fel<\/strong>, és mindent megteszünk annak érdekében, hogy kipróbáld menet közben, amiről éppen tanulsz. Nem hisszük, hogy a fejedbe tölthetjük a tudást, abban hiszünk, hogy mindenki lefordítja a tanultakat a saját mindennapi <strong>gyakorlat<\/strong>ára – és ebben támogatunk téged a képzés során.<\/p><p><\/p><p>Nekünk az a fontos, hogy tényleg beépítsd a mindennapokba, amit tőlünk tanulsz – hogy alkalmazd és aprópénzre váltsd a tanulságokat. Abban segítünk, hogy a mindennapokban eredményesebb és sikeresebb legyél, legyen szó munkáról vagy magánéletről. <\/p>"
           }
         },
         "1648051957538f0c97-2": {
@@ -38,6 +38,42 @@
         "height": "large",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "1658847053e7fd9418": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "165884705335e802f8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "165884705335e802f8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165884705335e802f8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165884705335e802f8-0",
+        "165884705335e802f8-1",
+        "165884705335e802f8-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "1648673975f56dfda8": {
@@ -227,6 +263,7 @@
   "order": [
     "main",
     "1648051958f8387609",
+    "1658847053e7fd9418",
     "1648673975f56dfda8",
     "16480631085c1e5935",
     "1648062899d625de32",
