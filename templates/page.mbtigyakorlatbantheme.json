@@ -124,6 +124,15 @@
     "16480631085c1e5935": {
       "type": "multicolumn",
       "blocks": {
+        "9374ea60-a42d-4ae2-bca3-d614541662f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_SZEMELYISEGMODELL_ALAPJAI.jpg",
+            "title": "",
+            "text": "",
+            "column_link": ""
+          }
+        },
         "16480631088bc3d0fa-1": {
           "type": "column",
           "settings": {
@@ -150,6 +159,7 @@
         }
       },
       "block_order": [
+        "9374ea60-a42d-4ae2-bca3-d614541662f2",
         "16480631088bc3d0fa-1",
         "16480631088bc3d0fa-2",
         "aad1db0f-41d4-4a05-9b6b-2043ea9caee6"
