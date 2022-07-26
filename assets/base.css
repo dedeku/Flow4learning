@@ -2922,5 +2922,12 @@ display:none!important;
     width: calc(45% - 0.5rem);
 }
 
+#shopify-section-template--15023210987696__main .product__info-wrapper {
+    padding-left: 0;
+    padding-right: 3rem;
+    max-width: 55%;
+    width: calc(55% - 0.5rem);
+}
+
 
 
