@@ -145,8 +145,8 @@
         "16480631088bc3d0fa-2": {
           "type": "column",
           "settings": {
-            "title": "MILYEN A TE SZEMÉLYISÉGTÍPUSOD?",
-            "text": "<p>- Önismeret és önmagad elhelyezése<br\/>- Hozd ki a legtöbbet magadból!<br\/><\/p>",
+            "title": "2. A TE SZEMÉLYISÉGTÍPUSOD",
+            "text": "<p>- Önismeret és önmagad elhelyezése az MBTI modell segítségével<br\/>- Hozd ki a legtöbbet magadból a személyiségtípusod ismeretében!<br\/><\/p>",
             "column_link": ""
           }
         },
