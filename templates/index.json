@@ -31,7 +31,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/mbti2.jpg",
         "height": "adapt",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "layout": "text_first"
       }
     },
