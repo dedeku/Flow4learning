@@ -1,5 +1,40 @@
 {
   "sections": {
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MBTI a gyakorlatban - augusztus 31-től"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehet sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\" title=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\"><strong>MBTI a gyakorlatban<\/strong><\/a><\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mbti2.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
     "1648034015555decc9": {
       "type": "image-with-text",
       "blocks": {
@@ -30,42 +65,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "MBTI a gyakorlatban - augusztus 31-től"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehet sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\" title=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\"><strong>MBTI a gyakorlatban<\/strong><\/a><\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a részleteket",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_SZEMELYISEGMODELL_ALAPJAI.jpg",
         "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "image_first"
@@ -719,8 +718,8 @@
     }
   },
   "order": [
-    "1648034015555decc9",
     "163524516749ec085a",
+    "1648034015555decc9",
     "16467323048087aced",
     "image_banner",
     "1626962693d2de0207",
