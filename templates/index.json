@@ -32,7 +32,7 @@
         "image": "shopify:\/\/shop_images\/mbti2.jpg",
         "height": "adapt",
         "color_scheme": "accent-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1648034015555decc9": {
