@@ -12,7 +12,7 @@
         "163524516749ec085a-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehet sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\" title=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\"><strong>MBTI a gyakorlatban<\/strong><\/a><\/p>"
+            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehetsz sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\" title=\"https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live\"><strong>MBTI a gyakorlatban<\/strong><\/a><\/p>"
           }
         },
         "163524516749ec085a-2": {
@@ -31,7 +31,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/mbti2.jpg",
         "height": "adapt",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "layout": "text_first"
       }
     },
