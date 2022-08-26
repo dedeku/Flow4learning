@@ -3013,7 +3013,12 @@ display:none!important;
 #shopify-section-template--15710762533040__16581747412afcff2f{
   padding: 10px 0;
 }
-  
+
+
+ #shopify-section-template--15710762533040__16581747412afcff2f .video-section.page-width {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 }
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
