@@ -2960,13 +2960,42 @@ display:none!important;
   .small-hide {
     display: none !important;
   }
-  #shopify-section-template--15710762533040__16581654493f81e703 .videoHeader {
+#shopify-section-template--15710762533040__16581654493f81e703 .videoHeader {
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     height: 100vh;
+    width: 100%;
 }
+  
+#shopify-section-template--15710762533040__16581654493f81e703 .videoHeader h1 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff!important;
+    line-height: 30px!important;
+    padding: 0 5px;
+}
+#shopify-section-template--15710762533040__16581654493f81e703 .videoHeader p {
+    position: relative;
+    font-size: 22px;
+    line-height: 22px;
+    color: #fff!important;
+}
+  #shopify-section-template--15710762533040__16581654493f81e703 .vezetoGombok {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    gap: 15px;
+    align-items: center;
+}
+#shopify-section-template--15710762533040__16581654493f81e703 a.kekGomb {
+    font-size: 14px;
+}
+ #shopify-section-template--15710762533040__16581654493f81e703 a.narancsGomb {
+    font-size: 14px;
+} 
 }
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
