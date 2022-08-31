@@ -54,7 +54,7 @@
             "location": "center",
             "duration": 5,
             "height": 600,
-            "heightMode": "responsive",
+            "heightMode": "fixed",
             "makeSlidesLinks": true,
             "image_1": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_550px_94d696fa-31fc-4aff-9d24-7477b39315de.jpg",
             "title_1": "Első ajánlás...",
