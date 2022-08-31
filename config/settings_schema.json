@@ -217,8 +217,8 @@
       {
         "type": "text",
         "id": "social_linkedin_link",
-        "label": "Linked In",
-        "info": "https:\/\/linkedin.com\/shopify"
+        "label": "t:settings_schema.social-media.settings.social_linkedin_link.label",
+        "info": "t:settings_schema.social-media.settings.social_linkedin_link.info"
       },
       {
         "type": "text",
