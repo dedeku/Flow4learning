@@ -39,6 +39,46 @@
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
       }
+    },
+    "166197127064367bec": {
+      "type": "apps",
+      "blocks": {
+        "e83294b5-045a-4980-92ab-24cd11f6fac4": {
+          "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
+          "settings": {
+            "style": "5",
+            "primaryColor": "#FFFFFF",
+            "titleFont": "libre_franklin_n7",
+            "subTitleFont": "libre_franklin_n4",
+            "buttonsFont": "libre_franklin_n6",
+            "location": "center",
+            "duration": 5,
+            "height": 600,
+            "heightMode": "fixed",
+            "makeSlidesLinks": true,
+            "image_1": "shopify:\/\/shop_images\/Flow_Consulting_AZ_MBTI_kurzus_menete_550px_94d696fa-31fc-4aff-9d24-7477b39315de.jpg",
+            "title_1": "Első ajánlás...",
+            "subTitle_1": "<p>Valami - Lorem ipsum dolor sit amet...<\/p>",
+            "button_1": "Kérd ezt :)",
+            "buttonLink_1": "shopify:\/\/products\/harmoniaban-a-szemelyisegtipusokkal-donteshozatal",
+            "image_2": "shopify:\/\/shop_images\/Flow_Consulting_ha_mindig_is_erdekelt_a_pszichologia.jpg",
+            "title_2": "Második ajánlás...",
+            "subTitle_2": "<p>Valami - Lorem ipsum dolor sit amet...<\/p>",
+            "button_2": "Kérd ezt :)",
+            "buttonLink_2": "shopify:\/\/collections\/all",
+            "title_3": "Discover Our New Collection",
+            "subTitle_3": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
+            "button_3": "Shop Now",
+            "buttonLink_3": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "e83294b5-045a-4980-92ab-24cd11f6fac4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -47,6 +87,7 @@
     "165773107458610a06",
     "16577315886d4118c0",
     "1657731671dc82d271",
-    "165773172903b9c8f4"
+    "165773172903b9c8f4",
+    "166197127064367bec"
   ]
 }
