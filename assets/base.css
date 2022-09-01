@@ -2955,8 +2955,8 @@ display:none!important;
 
 
 .list-social__item .icon {
-    height: 2.8rem;
-    width: 2.8rem;
+    height: 2.8rem!important;
+    width: 2.8rem!important;
 }
 
 @media screen and (max-width: 749px) {
