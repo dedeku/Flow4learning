@@ -2959,6 +2959,10 @@ display:none!important;
     width: 2.8rem!important;
 }
 
+.list-social__item  path:hover {
+    fill: #fafafa;
+}
+
 @media screen and (max-width: 749px) {
   .small-hide {
     display: none !important;
