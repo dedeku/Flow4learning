@@ -150,9 +150,9 @@
             {%- endif -%}
           {%- if settings.social_linkedin_link != blank -%}
             <li class="list-social__item">
-              <a href="{{ settings.social_linkedin_link }}" class="link list-social__link" aria-describedby="a11y-external-message" >
+              <a href="{{ settings.social_linkedin_link }}" class="link link--text list-social__link" aria-describedby="a11y-external-message" >
             {%- render ' icon-linkedin' -%}
-            <span class="visually-hidden">{{ 'LinkedIn' | t }}</span>
+            <span class="visually-hidden">{{ 'general.social.links.LinkedIn' | t }}</span>
               </a>
             </li>
             {%- endif -%}
