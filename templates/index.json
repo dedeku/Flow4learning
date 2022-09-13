@@ -636,6 +636,15 @@
             "text": "",
             "column_link": ""
           }
+        },
+        "df452405-7054-4bb2-b773-c1374ff3eda2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/market.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
         }
       },
       "block_order": [
@@ -645,7 +654,8 @@
         "2af1dbf6-7015-4a22-9c65-3f702d384ea1",
         "16269636332e363e1f-2",
         "1678b7ac-c33e-4e12-819b-b658afd2a272",
-        "b288d4af-aeff-47cd-ab1f-c04735cf315a"
+        "b288d4af-aeff-47cd-ab1f-c04735cf315a",
+        "df452405-7054-4bb2-b773-c1374ff3eda2"
       ],
       "settings": {
         "title": "Akik tőlünk tanultak",
