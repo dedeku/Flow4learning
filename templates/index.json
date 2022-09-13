@@ -483,7 +483,7 @@
           "type": "column",
           "settings": {
             "title": "Györke-Szilágyi Éva - Ügyvezető Bilingual Nonprofit Kft.",
-            "text": "<p>\"Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/><br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást!\"<\/p>",
+            "text": "<p>\"Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.<br\/>Köszönöm! Nagy érdeklődéssel várom a következő felvonást!\"<\/p>",
             "column_link": ""
           }
         },
@@ -492,6 +492,14 @@
           "settings": {
             "title": "Veres Tamás - HR Operations vezető Raiffeisen Bank Zrt.",
             "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>",
+            "column_link": ""
+          }
+        },
+        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a": {
+          "type": "column",
+          "settings": {
+            "title": "Résztvevő a Sikeres Vezető kurzusról",
+            "text": "<p>\"A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\"<\/p>",
             "column_link": ""
           }
         },
@@ -518,24 +526,16 @@
             "text": "<p>\"Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>",
             "column_link": ""
           }
-        },
-        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a": {
-          "type": "column",
-          "settings": {
-            "title": "Résztvevő a Sikeres Vezető kurzusról",
-            "text": "<p>\"A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\"<\/p>",
-            "column_link": ""
-          }
         }
       },
       "block_order": [
         "a7e8580a-4d7d-4105-a234-66fdaddf2749",
         "1bf83106-b11c-4c42-8cb8-34159dcc9ac2",
         "1626963112c776924e-0",
+        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a",
         "024a8c4c-5256-413b-9763-215d81395854",
         "1626963112c776924e-1",
-        "1626963112c776924e-2",
-        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a"
+        "1626963112c776924e-2"
       ],
       "settings": {
         "title": "Mit mondanak, akik velünk tanulnak?",
