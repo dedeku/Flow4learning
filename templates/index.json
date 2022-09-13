@@ -1,41 +1,5 @@
 {
   "sections": {
-    "163524516749ec085a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "163524516749ec085a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "MBTI a gyakorlatban - augusztus 31-től"
-          }
-        },
-        "163524516749ec085a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehetsz sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/mbti-a-gyakorlatban\" title=\"https:\/\/flow4learning.hu\/pages\/mbti-a-gyakorlatban\"><strong>MBTI a gyakorlatban: harmóniában a személyiségtípusokkal<\/strong><\/a><\/p>"
-          }
-        },
-        "163524516749ec085a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem - jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live"
-          }
-        }
-      },
-      "block_order": [
-        "163524516749ec085a-0",
-        "163524516749ec085a-1",
-        "163524516749ec085a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mbti2.jpg",
-        "height": "adapt",
-        "color_scheme": "background-2",
-        "layout": "text_first"
-      }
-    },
     "1663056278376a6777": {
       "type": "multicolumn",
       "blocks": {
@@ -44,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/SVhez.jpg",
             "title": "Sikeres vezető - Út a sikerhez kurzus indul szeptember 15-én",
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerül magasabb pozícióba, és nem okvetlenül vezetői kompetenciái alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják a mindennapi helyzeteket az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p><\/p><p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerül magasabb pozícióba, és nem okvetlenül vezetői kompetenciái alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják a mindennapi helyzeteket az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p><p><\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
             "column_link": ""
           }
         },
@@ -81,42 +45,6 @@
         "button_label": "Megnézem, jelentkezem",
         "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form",
         "swipe_on_mobile": false
-      }
-    },
-    "1648034015555decc9": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1648034015f940066f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető kurzus indul szeptember 15-én"
-          }
-        },
-        "1648034015f940066f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
-          }
-        },
-        "1648034015f940066f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem - jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes"
-          }
-        }
-      },
-      "block_order": [
-        "1648034015f940066f-0",
-        "1648034015f940066f-1",
-        "1648034015f940066f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
       }
     },
     "16467323048087aced": {
@@ -784,12 +712,82 @@
         "color_scheme": "background-2",
         "full_width": true
       }
+    },
+    "163524516749ec085a": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "163524516749ec085a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MBTI a gyakorlatban - augusztus 31-től"
+          }
+        },
+        "163524516749ec085a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hozz ki többet magadból és a kapcsolataidból!<\/strong><\/p><p>4 hetes intenzív képzés <strong>ÉLŐ konzultációkkal<\/strong>, amelyben sokat tanulhasz magadról és arról, hogy hogyan lehetsz sikeres a kapcsolataidban.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/mbti-a-gyakorlatban\" title=\"https:\/\/flow4learning.hu\/pages\/mbti-a-gyakorlatban\"><strong>MBTI a gyakorlatban: harmóniában a személyiségtípusokkal<\/strong><\/a><\/p>"
+          }
+        },
+        "163524516749ec085a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/products\/mbti-a-gyakorlatban-harmoniaban-a-szemelyisegtipusokkal-live"
+          }
+        }
+      },
+      "block_order": [
+        "163524516749ec085a-0",
+        "163524516749ec085a-1",
+        "163524516749ec085a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mbti2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "text_first"
+      }
+    },
+    "1648034015555decc9": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1648034015f940066f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető kurzus indul szeptember 15-én"
+          }
+        },
+        "1648034015f940066f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
+          }
+        },
+        "1648034015f940066f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem - jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes"
+          }
+        }
+      },
+      "block_order": [
+        "1648034015f940066f-0",
+        "1648034015f940066f-1",
+        "1648034015f940066f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SVhez.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
-    "163524516749ec085a",
     "1663056278376a6777",
-    "1648034015555decc9",
     "16467323048087aced",
     "image_banner",
     "1626962693d2de0207",
@@ -805,6 +803,8 @@
     "1626963112c776924e",
     "16269636332e363e1f",
     "162696284706074dbc",
-    "16269636913ba50bcb"
+    "16269636913ba50bcb",
+    "163524516749ec085a",
+    "1648034015555decc9"
   ]
 }
