@@ -739,13 +739,14 @@
     },
     "1663056278376a6777": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1663056278e3e0d784-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/SVhez.jpg",
             "title": "Sikeres vezető - Út a sikerhez kurzus indul szeptember 15-én",
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerül magasabb pozícióba, és nem okvetlenül vezetői kompetenciái alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják a mindennapi helyzeteket az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
             "column_link": ""
           }
         },
