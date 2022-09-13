@@ -513,7 +513,7 @@
         "1626963112c776924e-0": {
           "type": "column",
           "settings": {
-            "title": "Veres Tamás Bertalan - RBHU\/Raiffeisen Bank Zrt.",
+            "title": "Veres Tamás - HR Operations vezető, Raiffeisen Bank Zrt.",
             "text": "<p>\"Szuper ár-érték arányú képzés volt, ami úgy volt nagyon tanulságos, hogy közben inkább maradt érdekfeszítő szórakozás, amely abszolút felkeltette az érdeklődésemet, hogy tovább is elmélyedjek a témában!\"<\/p>",
             "column_link": ""
           }
@@ -715,6 +715,50 @@
         "color_scheme": "background-2",
         "full_width": true
       }
+    },
+    "1663056278376a6777": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663056278e3e0d784-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "1663056278e3e0d784-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "1663056278e3e0d784-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663056278e3e0d784-0",
+        "1663056278e3e0d784-1",
+        "1663056278e3e0d784-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -735,6 +779,7 @@
     "1626963112c776924e",
     "16269636332e363e1f",
     "162696284706074dbc",
-    "16269636913ba50bcb"
+    "16269636913ba50bcb",
+    "1663056278376a6777"
   ]
 }
