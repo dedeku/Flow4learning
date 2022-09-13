@@ -541,6 +541,14 @@
             "text": "<p>\"Könnyed, gyorsan elsajátítható, mégis fontos tudás\/ tapasztalat, nemcsak az üzleti, de a hétköznapi életben is.”<\/p>",
             "column_link": ""
           }
+        },
+        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a": {
+          "type": "column",
+          "settings": {
+            "title": "Résztvevő a Sikeres Vezető kurzuson",
+            "text": "<p>\"A tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\"<\/p>",
+            "column_link": ""
+          }
         }
       },
       "block_order": [
@@ -549,7 +557,8 @@
         "1626963112c776924e-0",
         "024a8c4c-5256-413b-9763-215d81395854",
         "1626963112c776924e-1",
-        "1626963112c776924e-2"
+        "1626963112c776924e-2",
+        "dc1ce3f0-c8a5-4a85-8536-b5fb59f85d4a"
       ],
       "settings": {
         "title": "Mit mondanak, akik velünk tanulnak?",
