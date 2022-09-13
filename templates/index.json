@@ -753,6 +753,7 @@
         "1663056278e3e0d784-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/kihivasok.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "column_link": ""
