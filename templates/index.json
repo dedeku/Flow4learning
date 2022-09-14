@@ -563,7 +563,7 @@
         "16269636332e363e1f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CIB.png",
+            "image": "shopify:\/\/shop_images\/cib_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
@@ -572,7 +572,7 @@
         "16269636332e363e1f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Egis.png",
+            "image": "shopify:\/\/shop_images\/egis_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
@@ -581,7 +581,7 @@
         "c2d6e71a-3635-49d9-9103-2c2442bed9e2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Wallis.png",
+            "image": "shopify:\/\/shop_images\/wallis_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
@@ -590,7 +590,7 @@
         "2af1dbf6-7015-4a22-9c65-3f702d384ea1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mol.png",
+            "image": "shopify:\/\/shop_images\/mol_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
@@ -599,7 +599,7 @@
         "16269636332e363e1f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Linde.png",
+            "image": "shopify:\/\/shop_images\/linde_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
@@ -626,7 +626,7 @@
         "df452405-7054-4bb2-b773-c1374ff3eda2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/market_logo.jpg",
+            "image": "shopify:\/\/shop_images\/market_logo.png",
             "title": "",
             "text": "",
             "column_link": ""
