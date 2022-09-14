@@ -3054,7 +3054,8 @@ display:none!important;
 .collage-video__modal-toggle {
     background-color: #733f92!important;
     border: 1rem solid #733f92, 1rem solid #fafafa!important;
-    border-radius: 50%;
+    border-radius: 10%;
+  width:200pxx;
     color: #fafafa!important;
     display: flex;
     align-items: center;
