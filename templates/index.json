@@ -793,6 +793,12 @@
         "color_scheme": "accent-1",
         "layout": "image_first"
       }
+    },
+    "16631546700ec99936": {
+      "type": "page",
+      "settings": {
+        "page": "partner-logo"
+      }
     }
   },
   "order": [
@@ -814,6 +820,7 @@
     "162696284706074dbc",
     "16269636913ba50bcb",
     "163524516749ec085a",
-    "1648034015555decc9"
+    "1648034015555decc9",
+    "16631546700ec99936"
   ]
 }
