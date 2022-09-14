@@ -3052,10 +3052,10 @@ display:none!important;
   }
 }
 .collage-video__modal-toggle {
-    background-color: #733f92;
-    border: 1rem solid #733f92,1);
+    background-color: #733f92!important;
+    border: 1rem solid #733f92,1)!important;
     border-radius: 50%;
-    color: #fafafa;
+    color: #fafafa!important;
     display: flex;
     align-items: center;
     justify-content: center;
