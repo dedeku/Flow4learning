@@ -3051,6 +3051,9 @@ display:none!important;
     display: none !important;
   }
 }
+.collage-video__modal-toggle:before {
+content:"Hello";
+}
 .collage-video__modal-toggle {
     background-color: #733f92!important;
     border: 1rem solid #733f92, 1rem solid #fafafa!important;
