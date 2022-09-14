@@ -3077,9 +3077,12 @@ display:none!important;
 #Slider-template--15023211020464__1626963112c776924e .multicolumn-card__info p  {
     font-size: 1.3rem;
 }
-
-
-
 #Slider-template--15023211020464__1626963112c776924e .multicolumn-card__info h3 {
     min-height: 10vh!important;
+}
+
+#shopify-section-template--15023211020464__16631546700ec99936 .page-width--narrow{
+max-width: var(--page-width);
+    margin: 0 auto;
+    padding: 0 5rem;
 }
