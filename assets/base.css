@@ -3051,3 +3051,20 @@ display:none!important;
     display: none !important;
   }
 }
+.collage-video__modal-toggle {
+    background-color: #733f92;
+    border: 1rem solid #733f92,1);
+    border-radius: 50%;
+    color: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: fixed;
+    padding: 1.2rem;
+    z-index: 2;
+    top: 2rem;
+    right: 0.5rem;
+    width: 4rem;
+    margin: 0 0 0 auto;
+}
