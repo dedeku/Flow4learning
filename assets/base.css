@@ -3052,7 +3052,9 @@ display:none!important;
   }
 }
 .collage-video__modal-toggle:before {
-content:"Bezár";
+content:"X";
+  font-weight:bold;
+  font-size:16px;
 }
 .collage-video__modal-toggle {
     background-color: #733f92!important;
