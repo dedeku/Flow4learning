@@ -3098,5 +3098,7 @@ hab-slider[data-style="3"] hab-slide a.hab-slide-button, hab-slider[data-style="
   background-color: #aec52e!important;
 }
 hab-slider hab-controls hab-prev, hab-slider hab-controls hab-next{
+  width: 45px!important;
+    height: 90px!important;
   background-color: #2196f3!important;
 }
