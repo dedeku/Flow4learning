@@ -7,7 +7,7 @@
           "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
           "settings": {
             "style": "4",
-            "primaryColor": "#FFFFFF",
+            "primaryColor": "#ffffff",
             "titleFont": "libre_franklin_n7",
             "subTitleFont": "libre_franklin_n4",
             "buttonsFont": "libre_franklin_n6",
@@ -28,7 +28,7 @@
             "buttonLink_2": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal",
             "image_3": "shopify:\/\/shop_images\/wp_kep.jpg",
             "title_3": "Tanulni menő! És hogyan érdemes?",
-            "subTitle_3": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat.<\/p>",
+            "subTitle_3": "<p>A feliratkozás után letölthető dokumentum ahhoz ad ötleteket, hogy hogyan teheted eredményessé a saját tanulásodat. <\/p>",
             "button_3": "Megrendelem",
             "buttonLink_3": "https:\/\/flowmagyarorszag.activehosted.com\/f\/5"
           }
