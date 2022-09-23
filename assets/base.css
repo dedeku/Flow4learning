@@ -3089,3 +3089,8 @@ max-width: var(--page-width);
 hab-slider[data-style="3"] hab-slide hab-slide-title, hab-slider[data-style="5"] hab-slide hab-slide-title, hab-slider[data-style="4"] hab-slide hab-slide-title{
       background: rgba(var(--hab-primary-color-rgb), 0.8)!important;
 }
+
+hab-slider[data-style="3"] hab-slide hab-slide-subtitle, hab-slider[data-style="5"] hab-slide hab-slide-subtitle, hab-slider[data-style="4"] hab-slide hab-slide-subtitle{
+background: rgba(var(--hab-primary-color-rgb), 0.8)!important;
+  
+}
