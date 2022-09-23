@@ -15,7 +15,7 @@
             "duration": 5,
             "height": 600,
             "heightMode": "fixed",
-            "makeSlidesLinks": true,
+            "makeSlidesLinks": false,
             "image_1": "shopify:\/\/shop_images\/SV_full.jpg",
             "title_1": "Sikeres vezető - Út a sikerhez kurzus",
             "subTitle_1": "<p>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/p>",
