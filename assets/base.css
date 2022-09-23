@@ -3097,3 +3097,6 @@ background: rgba(var(--hab-primary-color-rgb), 0.8)!important;
 hab-slider[data-style="3"] hab-slide a.hab-slide-button, hab-slider[data-style="5"] hab-slide a.hab-slide-button, hab-slider[data-style="4"] hab-slide a.hab-slide-button{
   background-color: #aec52e!important;
 }
+hab-slider hab-controls hab-prev, hab-slider hab-controls hab-next{
+  background-color: #2196f3!important;
+}
