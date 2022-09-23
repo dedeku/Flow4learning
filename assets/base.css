@@ -3087,5 +3087,5 @@ max-width: var(--page-width);
     padding: 0 5rem;
 }
 hab-slider[data-style="3"] hab-slide hab-slide-title, hab-slider[data-style="5"] hab-slide hab-slide-title, hab-slider[data-style="4"] hab-slide hab-slide-title{
-      background: rgba(var(--hab-primary-color-rgb), 0.8);
+      background: rgba(var(--hab-primary-color-rgb), 0.8)!important;
 }
