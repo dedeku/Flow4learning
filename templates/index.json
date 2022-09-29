@@ -88,6 +88,53 @@
         "swipe_on_mobile": false
       }
     },
+    "16644415951137665e": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16644415946914782f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Most, ha október 20-ig, akkor 260-ért mindkét kurzus<\/p>",
+            "column_link": ""
+          }
+        },
+        "16644415946914782f-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "16644415946914782f-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644415946914782f-0",
+        "16644415946914782f-1",
+        "16644415946914782f-2"
+      ],
+      "settings": {
+        "title": "Kettő az egyben",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -846,6 +893,7 @@
   "order": [
     "16639139936737ba10",
     "1663056278376a6777",
+    "16644415951137665e",
     "image_banner",
     "1626962693d2de0207",
     "16270189427248061e",
