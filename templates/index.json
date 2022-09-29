@@ -44,21 +44,21 @@
     "1663056278376a6777": {
       "type": "multicolumn",
       "blocks": {
-        "1663056278e3e0d784-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SV_full.jpg",
-            "title": "Sikeres vezető - Út a sikerhez kurzus indul szeptember 15-én",
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p><em>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/em><\/p><p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerül magasabb pozícióba, és nem okvetlenül vezetői kompetenciái alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és <strong>hogyan tudják a mindennapi helyzeteket az érintett munkatársakkal megfelelően kezelni, kommunikálni<\/strong>.<\/p><p><\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
-            "column_link": ""
-          }
-        },
         "1663056278e3e0d784-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/kihivasok.jpg",
             "title": "Sikeres vezető - Megküzdés a kihívásokkal kurzus indul október 5-én",
             "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p><em>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett és\/vagy tapasztalt vezetőknek<\/em><\/p><p>A vezetőktől a mindennapokban a teljesítményt kérik számon, ezért ők is erre koncentrálnak, és munkatársaikat is erre biztatják. Nem mindig jut elég idejük és figyelmük arra, <strong>hogy fenntartsák saját maguk és a csapat energiáját<\/strong>, hogy gondoskodjanak a szakmai-üzleti-emberi dimenziók <strong>egyensúly<\/strong>áról.<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>",
+            "column_link": ""
+          }
+        },
+        "1663056278e3e0d784-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SV_full.jpg",
+            "title": "Sikeres vezető - Út a sikerhez kurzus indul november 10-én",
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p><em>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/em><\/p><p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerül magasabb pozícióba, és nem okvetlenül vezetői kompetenciái alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és <strong>hogyan tudják a mindennapi helyzeteket az érintett munkatársakkal megfelelően kezelni, kommunikálni<\/strong>.<\/p><p><\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető - Út a sikerhez<\/strong><\/a><\/p>",
             "column_link": ""
           }
         },
@@ -73,8 +73,8 @@
         }
       },
       "block_order": [
-        "1663056278e3e0d784-0",
         "1663056278e3e0d784-1",
+        "1663056278e3e0d784-0",
         "1663056278e3e0d784-2"
       ],
       "settings": {
