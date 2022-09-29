@@ -94,9 +94,10 @@
       "blocks": {
         "16644415946914782f-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
-            "title": "Column",
-            "text": "<p>Most, ha október 20-ig, akkor 260-ért mindkét kurzus<\/p>",
+            "title": "kedvezményes áron",
+            "text": "<p>Ha most, október 20-áig jelentkezel, akkor a két kurzuson együtt kedvezményes áron vehetsz részt.<\/p>",
             "column_link": ""
           }
         },
@@ -125,7 +126,7 @@
         "16644415946914782f-2"
       ],
       "settings": {
-        "title": "Kettő az egyben",
+        "title": "Kettő az egyben - kedvezményes áron",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
