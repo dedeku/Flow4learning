@@ -89,12 +89,19 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1664622305839870d2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "1635238238d23eae49",
-    "1631261799d90ca0e9"
+    "1631261799d90ca0e9",
+    "1664622305839870d2"
   ]
 }
