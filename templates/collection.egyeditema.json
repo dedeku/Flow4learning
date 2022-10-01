@@ -1,0 +1,99 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "1635238238d23eae49": {
+      "type": "image-with-text",
+      "blocks": {
+        "1635238238d23eae49-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sikeres vezető képzés"
+          }
+        },
+        "1635238238d23eae49-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>2x2 hónapos intenzív vezetőképzés frissen kinevezett vagy leendő vezetőknek<\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" target=\"_blank\" title=\"https:\/\/sikeresvezeto.flow4learning.hu\/#sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
+          }
+        },
+        "1635238238d23eae49-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem a részleteket",
+            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu\/"
+          }
+        }
+      },
+      "block_order": [
+        "1635238238d23eae49-0",
+        "1635238238d23eae49-1",
+        "1635238238d23eae49-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/three-business-women.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
+      }
+    },
+    "1631261799d90ca0e9": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "1631261799d90ca0e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tudás a postafiókodban"
+          }
+        },
+        "1631261799d90ca0e9-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
+          }
+        },
+        "1631261799d90ca0e9-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1631261799d90ca0e9-0",
+        "1631261799d90ca0e9-1",
+        "1631261799d90ca0e9-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "1635238238d23eae49",
+    "1631261799d90ca0e9"
+  ]
+}
