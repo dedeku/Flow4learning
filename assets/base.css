@@ -3108,3 +3108,6 @@ hab-slider hab-controls hab-prev, hab-slider hab-controls hab-next{
     align-items: center;
     justify-content: center;
 }
+hab-slide {
+    justify-content: flex-end!important;
+}
