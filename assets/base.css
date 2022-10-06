@@ -3128,6 +3128,6 @@ hab-slide {
 #etsCfBox0ACxRhg0Sj .ets_cf_title {
     color: #ff7300!important;
 }
-#etsCfBox0ACxRhg0Sj .ets_cf_desc, #etsCfBox0ACxRhg0Sj .ets_cf_desc p {
+#etsCfBox0ACxRhg0Sj .ets_cf_desc, #etsCfBox0ACxRhg0Sj .ets_cf_desc p, #etsCfBox0ACxRhg0Sj .ets_cf_desc span {
     color: #444444!important;
 }
