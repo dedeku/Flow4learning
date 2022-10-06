@@ -3111,3 +3111,11 @@ hab-slider hab-controls hab-prev, hab-slider hab-controls hab-next{
 hab-slide {
     justify-content: flex-end!important;
 }
+@media screen and (min-width: 990px)
+.card:hover .media.media--hover-effect>img:first-child:only-child, .card-wrapper:hover .media.media--hover-effect>img:first-child:only-child {
+    transform: none!important;
+}
+@media screen and (min-width: 990px)
+.card .media.media--hover-effect>img:only-child, .card-wrapper .media.media--hover-effect>img:only-child {
+    transition: none!important;
+}
