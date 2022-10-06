@@ -90,11 +90,9 @@
     },
     "16644415951137665e": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "16644415946914782f-0": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "Kettő az egyben - kedvezményes áron",
             "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanukd meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még arégi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
@@ -131,8 +129,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Megnézem, jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form",
         "swipe_on_mobile": false
       }
     },
