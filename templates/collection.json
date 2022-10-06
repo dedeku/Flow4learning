@@ -24,6 +24,7 @@
     },
     "1635238238d23eae49": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1635238238d23eae49-0": {
           "type": "heading",
@@ -88,12 +89,19 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "4194b248-2fd2-49c0-8f46-754dfcbe19d1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "1635238238d23eae49",
-    "1631261799d90ca0e9"
+    "1631261799d90ca0e9",
+    "4194b248-2fd2-49c0-8f46-754dfcbe19d1"
   ]
 }
