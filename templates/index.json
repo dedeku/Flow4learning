@@ -12,7 +12,7 @@
             "subTitleFont": "libre_franklin_n4",
             "buttonsFont": "libre_franklin_n6",
             "location": "center",
-            "duration": 50000,
+            "duration": 5,
             "height": 600,
             "heightMode": "fixed",
             "makeSlidesLinks": false,
