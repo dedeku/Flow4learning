@@ -3103,3 +3103,8 @@ hab-slider hab-controls hab-prev, hab-slider hab-controls hab-next{
     height: 90px!important;
   background-color: #2196f3!important;
 }
+
+.title-wrapper-with-link {
+    align-items: center;
+    justify-content: center;
+}
