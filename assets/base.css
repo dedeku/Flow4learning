@@ -3120,3 +3120,7 @@ hab-slide {
 .card .media.media--hover-effect>img:only-child, .card-wrapper .media.media--hover-effect>img:only-child {
     transition: none!important;
 }}
+
+.jelentkezesElsoSzekcio h1, .jelentkezesElsoSzekcio h2, .jelentkezesElsoSzekcio h3, .jelentkezesElsoSzekcio h4, .jelentkezesElsoSzekcio p, .jelentkezesElsoSzekcio span {
+    color: #fafafa!important;
+}
