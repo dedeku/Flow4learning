@@ -66,8 +66,8 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "column_link": ""
           }
         }
@@ -96,8 +96,8 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "title": "kedvezményes áron",
-            "text": "<p>Ha most, október 20-áig jelentkezel, akkor a két kurzuson együtt kedvezményes áron vehetsz részt.<\/p>",
+            "title": "Kettő az egyben - kedvezményes áron",
+            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanukd meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még arégi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
             "column_link": ""
           }
         },
