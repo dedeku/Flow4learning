@@ -920,6 +920,7 @@
         "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/szazalek.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
