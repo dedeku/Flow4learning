@@ -123,54 +123,6 @@
         "layout": "image_first"
       }
     },
-    "16644415951137665e": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16644415946914782f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/szazalek.jpg",
-            "title": "",
-            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanuld meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
-            "column_link": ""
-          }
-        },
-        "16644415946914782f-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        },
-        "16644415946914782f-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16644415946914782f-0",
-        "16644415946914782f-1",
-        "16644415946914782f-2"
-      ],
-      "settings": {
-        "title": "Kettő az egyben - kedvezményes áron",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Megnézem, jelentkezem",
-        "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form",
-        "swipe_on_mobile": false
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -919,6 +871,54 @@
         "layout": "image_first"
       }
     },
+    "16644415951137665e": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16644415946914782f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/szazalek.jpg",
+            "title": "",
+            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanuld meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
+            "column_link": ""
+          }
+        },
+        "16644415946914782f-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        },
+        "16644415946914782f-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644415946914782f-0",
+        "16644415946914782f-1",
+        "16644415946914782f-2"
+      ],
+      "settings": {
+        "title": "Kettő az egyben - kedvezményes áron",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Megnézem, jelentkezem",
+        "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form",
+        "swipe_on_mobile": false
+      }
+    },
     "16631546700ec99936": {
       "type": "page",
       "settings": {
@@ -930,7 +930,6 @@
     "16639139936737ba10",
     "1663056278376a6777",
     "846a2ab9-48e2-437b-b748-7d4768abd94f",
-    "16644415951137665e",
     "image_banner",
     "1626962693d2de0207",
     "16270189427248061e",
@@ -949,6 +948,7 @@
     "16269636913ba50bcb",
     "163524516749ec085a",
     "1648034015555decc9",
+    "16644415951137665e",
     "16631546700ec99936"
   ]
 }
