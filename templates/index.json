@@ -90,10 +90,12 @@
     },
     "16644415951137665e": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16644415946914782f-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/szazalek.jpg",
             "title": "",
             "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanuld meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
             "column_link": ""
@@ -887,6 +889,41 @@
       "settings": {
         "page": "partner-logo"
       }
+    },
+    "846a2ab9-48e2-437b-b748-7d4768abd94f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kettő az egyben - kedvezményes áron"
+          }
+        },
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanuld meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>"
+          }
+        },
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0",
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1",
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -911,6 +948,7 @@
     "16269636913ba50bcb",
     "163524516749ec085a",
     "1648034015555decc9",
-    "16631546700ec99936"
+    "16631546700ec99936",
+    "846a2ab9-48e2-437b-b748-7d4768abd94f"
   ]
 }
