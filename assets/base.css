@@ -3142,7 +3142,8 @@ section#shopify-section-template--15023211020464__1d7e5a95-4f4a-4e91-87d5-3968af
 }
 
 #szamlaloBox .multicolumn-card {
-    background: rgb(var(--color-background))!important;
+  background: rgb(var(--color-background))!important;
+  height: 100%;
 }
 
 #szamlaloBox .rte a {
