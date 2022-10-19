@@ -3131,3 +3131,8 @@ hab-slide {
 #etsCfBox0ACxRhg0Sj .ets_cf_desc, #etsCfBox0ACxRhg0Sj .ets_cf_desc p, #etsCfBox0ACxRhg0Sj span.ets_cf_acpt_title {
     color: #444444!important;
 }
+
+#szamlaloBox /*slider-component.slider-mobile-gutter*/ {
+    max-width: var(--page-width);
+    margin: 0 auto;
+}
