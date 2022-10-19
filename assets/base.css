@@ -3133,9 +3133,9 @@ hab-slide {
 }
 
 
-section#shopify-section-template--15023211020464__1d7e5a95-4f4a-4e91-87d5-3968af9bf1fc {
+/*section#shopify-section-template--15023211020464__1d7e5a95-4f4a-4e91-87d5-3968af9bf1fc {
     background-color: rgba(var(--color-foreground),.04);
-}
+}*/
 #szamlaloBox /*slider-component.slider-mobile-gutter*/ {
     max-width: var(--page-width);
     margin: 0 auto;
