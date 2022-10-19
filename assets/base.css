@@ -3141,8 +3141,8 @@ section#shopify-section-template--15023211020464__1d7e5a95-4f4a-4e91-87d5-3968af
     margin: 0 auto;
 }
 
-#szamlaloBox li.multicolumn-list__item.grid__item.center {
-    background: #fafafa;
+#szamlaloBox .multicolumn.background-secondary .multicolumn-card {
+    background: rgb(var(--color-background));
 }
 
 #szamlaloBox .rte a {
