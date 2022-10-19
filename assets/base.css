@@ -3149,3 +3149,8 @@ hab-slide {
 #szamlaloBox .rte a {
     text-decoration: none;
 }
+
+ #szamlaloBox .multicolumn-card__info h3 span {
+            color: #7cb7e0;
+            font-size: 20px;
+        }
