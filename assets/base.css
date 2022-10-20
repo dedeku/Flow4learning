@@ -3164,3 +3164,10 @@ section#shopify-section-template--15984578724016__50677900-c1d0-4962-b678-061c5f
 section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f3b048d{
     padding: 0px 0;
 }
+
+@media screen and (min-width: 750px)
+{
+section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f3b048d .banner__box {
+    max-width: 100rem;
+}
+}
