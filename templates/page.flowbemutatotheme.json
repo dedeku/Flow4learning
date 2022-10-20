@@ -129,6 +129,11 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "8d16210a-bd89-48c5-8d3a-456c3cea8280": {
+      "type": "talent",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -140,6 +145,7 @@
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
-    "79f9b634-f418-48f7-b010-dfd8aa79491a"
+    "79f9b634-f418-48f7-b010-dfd8aa79491a",
+    "8d16210a-bd89-48c5-8d3a-456c3cea8280"
   ]
 }
