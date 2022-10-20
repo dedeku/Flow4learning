@@ -88,6 +88,7 @@
     },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "flow4learning-bemutato"
       }
@@ -139,7 +140,7 @@
     "93605579-ec9f-422a-8c35-9f9b0a1dde93": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "",
         "video_url": "https:\/\/www.youtube.com\/watch?v=oFq8QhGOKxU",
         "description": "",
         "full_width": true
