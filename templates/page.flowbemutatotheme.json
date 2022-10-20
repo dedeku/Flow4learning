@@ -141,6 +141,7 @@
       "type": "video",
       "settings": {
         "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/flow_video_koszonto.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=oFq8QhGOKxU",
         "description": "",
         "full_width": true
