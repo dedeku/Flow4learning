@@ -132,7 +132,17 @@
     },
     "8d16210a-bd89-48c5-8d3a-456c3cea8280": {
       "type": "talent",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "93605579-ec9f-422a-8c35-9f9b0a1dde93": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=oFq8QhGOKxU",
+        "description": "",
+        "full_width": true
       }
     }
   },
@@ -146,6 +156,7 @@
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
-    "8d16210a-bd89-48c5-8d3a-456c3cea8280"
+    "8d16210a-bd89-48c5-8d3a-456c3cea8280",
+    "93605579-ec9f-422a-8c35-9f9b0a1dde93"
   ]
 }
