@@ -90,6 +90,43 @@
       "settings": {
         "page": "a-digitalis-eszkozok-hasznalata"
       }
+    },
+    "79f9b634-f418-48f7-b010-dfd8aa79491a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Amikor mi állítunk össze képzési programot, mindenképpen széles eszközválasztékkal dolgozunk, és építünk ezekre a digitális eszközökre. A te igényeidre szabjuk a megoldásokat, legyen az személyes, online, vagy blended program. Ha te adod a tematikát és mi a tartalmat, ha te adod a tartalmat és ahhoz szeretnél digitális megoldásokat, vagy ha megvan a programod, és csak egy-egy részéhez kérsz ötleteket-támogatást – mindegyik megoldásban tudunk segíteni.<\/p>"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -100,6 +137,7 @@
     "1657731671dc82d271",
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
-    "4e3ebcc5-8998-422e-9a60-db5000241b0f"
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f",
+    "79f9b634-f418-48f7-b010-dfd8aa79491a"
   ]
 }
