@@ -84,6 +84,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
+      "type": "page",
+      "settings": {
+        "page": ""
+      }
     }
   },
   "order": [
@@ -93,6 +99,7 @@
     "16577315886d4118c0",
     "1657731671dc82d271",
     "165773172903b9c8f4",
-    "50677900-c1d0-4962-b678-061c5f3b048d"
+    "50677900-c1d0-4962-b678-061c5f3b048d",
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f"
   ]
 }
