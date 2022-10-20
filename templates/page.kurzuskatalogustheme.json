@@ -75,7 +75,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_Barmilyen_kepzesi_programot_tervezel.jpg",
+        "image": "shopify:\/\/shop_images\/flow_katalogus.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -105,7 +105,7 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Folyamatosan bővülő kurzuskatalógusunkban jelenleg 7 nagy kurzus és 1 minikurzus elérhető kommunikáció, vezetés és önismeret témakörökben. Nagy kurzusaink 6-8 óra alatt, minikurzusaink 1-2 óra alatt elvégezhető online tanfolyamok.<\/p><p><\/p><p>A tananyagok videós leckéket, e-learning modulokat, kvízeket, feladatlapokat tartalmaznak, ezen felül minden képzésünk mellé online és nyomtatható munkafüzetet biztosítunk.<\/p>"
+            "text": "<p>Folyamatosan bővülő kurzuskatalógusunkban jelenleg 7 nagy kurzus és 1 minikurzus elérhető kommunikáció, vezetés és önismeret témakörökben. Nagy kurzusaink 6-8 óra alatt, minikurzusaink 1-2 óra alatt elvégezhető online tanfolyamok.<\/p><p><\/p><p>A tananyagok videós leckéket, e learning modulokat, kvízeket, feladatlapokat tartalmaznak, ezen felül minden képzésünk mellé online és nyomtatható munkafüzetet biztosítunk.<\/p><p><\/p><p>A programok felhasználóit minden lehetséges módon támogatjuk a tanulásban, ezt a terhet levesszük partnereink válláról. Nagyon fontosnak tartjuk, hogy a visszajelzések alapján folyamatosan fejlesszük kurzusainkat.<\/p>"
           }
         },
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
@@ -123,47 +123,10 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
+        "image": "shopify:\/\/shop_images\/flow_katalogus_f16e7cbf-2f3f-46f5-a395-aa96700d2c14.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
-      }
-    },
-    "3eb33c36-078b-40a3-bbd2-93e47d63af40": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A programok felhasználóit minden lehetséges módon támogatjuk a tanulásban, ezt a terhet levesszük partnereink válláról. Nagyon fontosnak tartjuk, hogy a visszajelzések alapján folyamatosan fejlesszük kurzusainkat.<\/p>"
-          }
-        },
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-0",
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-1",
-        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     }
   },
@@ -176,7 +139,6 @@
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
-    "79f9b634-f418-48f7-b010-dfd8aa79491a",
-    "3eb33c36-078b-40a3-bbd2-93e47d63af40"
+    "79f9b634-f418-48f7-b010-dfd8aa79491a"
   ]
 }
