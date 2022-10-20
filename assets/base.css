@@ -3154,3 +3154,6 @@ hab-slide {
             color: #7cb7e0;
             font-size: 20px;
         }
+.list-menu--inline {
+    justify-content: center;
+}
