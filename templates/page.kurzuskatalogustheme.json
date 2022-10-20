@@ -43,19 +43,18 @@
     },
     "50677900-c1d0-4962-b678-061c5f3b048d": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-0": {
           "type": "heading",
           "settings": {
-            "heading": "Testreszabott megoldások",
+            "heading": "Céges kurzusok",
             "heading_size": "large"
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
           "type": "text",
           "settings": {
-            "text": "Bármilyen képzési programot tervezel, érdemes átgondolni, hogy mitől lesz igazán dinamikus és eredményes."
+            "text": "Kurzusainkat belső, cégeskatalógus formájában is elérhetővé tehetitek munkatársaitok számára."
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
@@ -88,6 +87,7 @@
     },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "a-digitalis-eszkozok-hasznalata"
       }
@@ -128,6 +128,43 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "3eb33c36-078b-40a3-bbd2-93e47d63af40": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A programok felhasználóit minden lehetséges módon támogatjuk a tanulásban, ezt a terhet levesszük partnereink válláról. Nagyon fontosnak tartjuk, hogy a visszajelzések alapján folyamatosan fejlesszük kurzusainkat.<\/p>"
+          }
+        },
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-0",
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-1",
+        "template--15984578691248__3eb33c36-078b-40a3-bbd2-93e47d63af40-16662493956ba4e823-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -139,6 +176,7 @@
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
-    "79f9b634-f418-48f7-b010-dfd8aa79491a"
+    "79f9b634-f418-48f7-b010-dfd8aa79491a",
+    "3eb33c36-078b-40a3-bbd2-93e47d63af40"
   ]
 }
