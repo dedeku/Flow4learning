@@ -3172,3 +3172,14 @@ section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f
     max-width: 100rem;
 }
 }
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    margin-left: -0.5rem;
+    padding: 0;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
