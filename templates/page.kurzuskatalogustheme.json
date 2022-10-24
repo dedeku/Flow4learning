@@ -75,11 +75,11 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_katalogus.jpg",
+        "image": "shopify:\/\/shop_images\/flow_katalogus_hatter.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 10,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
