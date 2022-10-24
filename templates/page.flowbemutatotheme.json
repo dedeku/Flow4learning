@@ -144,6 +144,32 @@
         "cover_image": "shopify:\/\/shop_images\/flow_video_koszonto.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=JI-hqLAKsik",
         "description": "",
+        "full_width": false
+      }
+    },
+    "72d9ad58-1710-425d-851a-d26d87dd4020": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15984572530864__72d9ad58-1710-425d-851a-d26d87dd4020-1666607429987098cb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "flow4learning",
+            "heading_size": "h1"
+          }
+        },
+        "template--15984572530864__72d9ad58-1710-425d-851a-d26d87dd4020-1666607429987098cb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mi itt a Flow-nál <strong>több, mint húsz éve foglalkozunk tréningekkel és tanácsadással<\/strong>, és ezt a tapasztalatot ma már az új, <strong>dinamikus módszerek<\/strong>kel ötvözzük. Az a célunk, hogy a tanulási folyamat minél hatékonyabb, rugalmasabb és modernebb legyen. Ehhez ma már óriási lehetőséget nyújt a <strong>digitális eszközök<\/strong> használata.<\/p><p>Online programjainkon tanulhatsz tőlünk: <strong>önismeretről, kommunikációról és konfliktuskezelésről<\/strong>, vagy arról, hogy hogyan lehetsz igazán <strong>sikeres vezető<\/strong>.<\/p><p>Küldetésünk lényege, hogy <strong>vonzóvá, örömtelivé tegyük a tanulást<\/strong> és videós anyagaink segítségével bárhonnan, bárki számára elérhető legyen a tudás.<\/p><p>A minél hatékonyabb, <strong>rugalmas<\/strong>abb és <strong>modern<\/strong>ebb <strong>tanulási folyamatban hiszünk<\/strong>.<\/p><p><strong>Napi kapcsolatban vagyunk a tanulóinkkal<\/strong>, meghallgatjuk a visszajelzéseinket, és ezek alapján folyamatosan fejlesztjük a kurzusainkat. Online porgramjainkat kiegészítjük <strong>munkafüzetek<\/strong>kel, feladatokkal, kvízekkel, hogy a videók megnézése mellett gyakorolni is tudj.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15984572530864__72d9ad58-1710-425d-851a-d26d87dd4020-1666607429987098cb-0",
+        "template--15984572530864__72d9ad58-1710-425d-851a-d26d87dd4020-1666607429987098cb-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
         "full_width": true
       }
     }
@@ -159,6 +185,7 @@
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "8d16210a-bd89-48c5-8d3a-456c3cea8280",
-    "93605579-ec9f-422a-8c35-9f9b0a1dde93"
+    "93605579-ec9f-422a-8c35-9f9b0a1dde93",
+    "72d9ad58-1710-425d-851a-d26d87dd4020"
   ]
 }
