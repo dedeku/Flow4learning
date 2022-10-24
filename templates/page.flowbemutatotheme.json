@@ -137,16 +137,6 @@
       "settings": {
       }
     },
-    "93605579-ec9f-422a-8c35-9f9b0a1dde93": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "cover_image": "shopify:\/\/shop_images\/flow_video_koszonto.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=JI-hqLAKsik",
-        "description": "",
-        "full_width": false
-      }
-    },
     "72d9ad58-1710-425d-851a-d26d87dd4020": {
       "type": "rich-text",
       "blocks": {
@@ -172,6 +162,33 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "93605579-ec9f-422a-8c35-9f9b0a1dde93": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/flow_video_koszonto.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=JI-hqLAKsik",
+        "description": "",
+        "full_width": false
+      }
+    },
+    "78ab00be-9799-4926-925a-bfc5fded4993": {
+      "type": "revy-contents",
+      "disabled": true,
+      "blocks": {
+        "template--15984572530864__78ab00be-9799-4926-925a-bfc5fded4993-16666074290ade8794-0": {
+          "type": "html",
+          "settings": {
+            "revy-content-section": "<!-- Put Revy Content Here -->"
+          }
+        }
+      },
+      "block_order": [
+        "template--15984572530864__78ab00be-9799-4926-925a-bfc5fded4993-16666074290ade8794-0"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -185,7 +202,8 @@
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "8d16210a-bd89-48c5-8d3a-456c3cea8280",
+    "72d9ad58-1710-425d-851a-d26d87dd4020",
     "93605579-ec9f-422a-8c35-9f9b0a1dde93",
-    "72d9ad58-1710-425d-851a-d26d87dd4020"
+    "78ab00be-9799-4926-925a-bfc5fded4993"
   ]
 }
