@@ -3184,5 +3184,5 @@ section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f
     align-items: center;
 }
 #szamlaloBox .multicolumn-card {
-    min-height: 560px;
+    min-height: 560px!important;
 }
