@@ -5,3 +5,20 @@ for (let i = 0, linksLength = links.length ; i < linksLength ; i++) {
     links[i].rel = 'noreferrer noopener';
   }
 }
+
+        document.querySelector('#my_area').addEventListener('load', function () {
+            aTestFunction();
+            function aTestFunction() {
+                var counter = 0;
+                var c = 0;
+                var i = setInterval(function () {
+                    $(".multicolumn-card__info h3 span").html(c + "");
+                    counter++;
+                    c++;
+
+                    if (counter == 3172) {
+                        clearInterval(i);
+                    }
+                }, 10);
+            }
+        });
