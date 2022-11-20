@@ -3187,7 +3187,7 @@ section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f
     min-height: 560px!important;
 }
 
-#Banner-template--15984578691248__50677900-c1d0-4962-b678-061c5f3b048d .banner__media .media>img {
+.banner__media .media>img {
 
   object-fit: contain!important;
 }
