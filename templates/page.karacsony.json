@@ -103,6 +103,7 @@
     },
     "16349106773cf6b3c5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16349106773cf6b3c5-0": {
           "type": "heading",
@@ -135,6 +136,7 @@
     },
     "1634911291ea9e702d": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Válassz minikurzusaink közül!",
         "collection": "minikurzus",
