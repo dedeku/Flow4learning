@@ -30,11 +30,10 @@
         "blocks": {
           "a444bc0d-6409-46a4-974d-a8abe7b566cc": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "KARÁCSONYI AKCIÓ NEKED!",
-              "color_scheme": "accent-2",
-              "link": "shopify:\/\/pages\/tudas-karacsonyra-neked"
+              "text": "Ajándékozz tudást karácsonyra!",
+              "color_scheme": "accent-1",
+              "link": "https:\/\/flow4learning.hu\/pages\/karacsony"
             }
           },
           "announcement-bar-0": {
