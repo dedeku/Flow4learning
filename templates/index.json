@@ -83,8 +83,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "szétnézek",
+        "button_link": "https:\/\/flow4learning.hu\/collections\/all",
         "swipe_on_mobile": false
       }
     },
