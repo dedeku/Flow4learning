@@ -716,6 +716,49 @@
       "settings": {
         "page": "partner-logo"
       }
+    },
+    "a88997fe-182e-44fe-8df5-cc5de385baba": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Céges karácsonyi ajándék",
+            "heading_size": "medium"
+          }
+        },
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-1": {
+          "type": "text",
+          "settings": {
+            "text": "Szeretnéd meglepni valamivel kollégáidat karácsonyra de nem tudod mi legyen az? Egy üveg bor vagy egy céges logóval ellátott bögre? Nekünk van jobb ötletünk! Egy élmény sokszor többet ér a kézzelfogható ajándéknál, és emlékezetes is marad. Kollégáid már 13 féle online minikurzusból tudnak választani - különböző szolgáltatásokkal."
+          }
+        },
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-0",
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-1",
+        "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-2"
+      ],
+      "settings": {
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -736,6 +779,7 @@
     "162696284706074dbc",
     "16269636913ba50bcb",
     "163524516749ec085a",
-    "16631546700ec99936"
+    "16631546700ec99936",
+    "a88997fe-182e-44fe-8df5-cc5de385baba"
   ]
 }
