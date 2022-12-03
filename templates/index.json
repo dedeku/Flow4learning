@@ -737,11 +737,11 @@
         "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Megnézem",
+            "button_link_1": "https:\/\/flow4learning.hu\/pages\/karacsony",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Minikurzusok",
+            "button_link_2": "https:\/\/flow4learning.hu\/collections\/minikurzus",
             "button_style_secondary_2": false
           }
         }
