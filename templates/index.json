@@ -46,6 +46,7 @@
       "blocks": {
         "template--15023211020464__a2c9b605-2c53-4845-9e28-ac00869ddaf2-1669468705b0362b9a-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Black_Friday.jpg",
             "title": "Ez a péntek nem érhet véget!",
@@ -78,7 +79,7 @@
         "template--15023211020464__a2c9b605-2c53-4845-9e28-ac00869ddaf2-1669468705b0362b9a-2"
       ],
       "settings": {
-        "title": "Ünnepi akcióink 🎄",
+        "title": "Ünnepi ajánlat 🎄",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
