@@ -58,7 +58,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/photo-1545785028-23ee5937cf69.jpg",
-            "title": "Kedvezményes online kurzusok cégeknek",
+            "title": "Online kurzus - céges ajándék",
             "text": "<p>Szeretnéd meglepni valamivel kollégáidat karácsonyra de nem tudod mi legyen az? Egy üveg bor vagy egy céges logóval ellátott bögre? Nekünk van jobb ötletünk! Egy élmény sokszor többet ér a kézzelfogható ajándéknál, és emlékezetes is marad. Kollégáid  már<a href=\"https:\/\/flow4learning.hu\/pages\/karacsony\" title=\"https:\/\/flow4learning.hu\/pages\/karacsony\"> <strong>13 féle online minikurzusból tudnak választani <\/strong><\/a>- különböző szolgáltatásokkal.<\/p>",
             "column_link": "https:\/\/flow4learning.hu\/pages\/karacsony"
           }
@@ -719,6 +719,7 @@
     },
     "a88997fe-182e-44fe-8df5-cc5de385baba": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-0": {
           "type": "heading",
@@ -752,11 +753,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/xmas_wide.jpg",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
