@@ -136,42 +136,6 @@
         "swipe_on_mobile": false
       }
     },
-    "846a2ab9-48e2-437b-b748-7d4768abd94f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kettő az egyben - kedvezményes áron"
-          }
-        },
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a <strong>vezetés alapjai<\/strong>t az Út a sikerhez képzésen, és tanuld meg a <strong>nehéz vezetői helyzetek kezelésé<\/strong>t a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>"
-          }
-        },
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem, jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form"
-          }
-        }
-      },
-      "block_order": [
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0",
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1",
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sale.jpg",
-        "height": "large",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -927,6 +891,42 @@
         "layout": "image_first"
       }
     },
+    "846a2ab9-48e2-437b-b748-7d4768abd94f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kettő az egyben - kedvezményes áron"
+          }
+        },
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a <strong>vezetés alapjai<\/strong>t az Út a sikerhez képzésen, és tanuld meg a <strong>nehéz vezetői helyzetek kezelésé<\/strong>t a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>"
+          }
+        },
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Megnézem, jelentkezem",
+            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form"
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0",
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1",
+        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sale.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "16644415951137665e": {
       "type": "multicolumn",
       "disabled": true,
@@ -986,7 +986,6 @@
     "16639139936737ba10",
     "a2c9b605-2c53-4845-9e28-ac00869ddaf2",
     "1663056278376a6777",
-    "846a2ab9-48e2-437b-b748-7d4768abd94f",
     "image_banner",
     "1626962693d2de0207",
     "1d7e5a95-4f4a-4e91-87d5-3968af9bf1fc",
@@ -1006,6 +1005,7 @@
     "16269636913ba50bcb",
     "163524516749ec085a",
     "1648034015555decc9",
+    "846a2ab9-48e2-437b-b748-7d4768abd94f",
     "16644415951137665e",
     "16631546700ec99936"
   ]
