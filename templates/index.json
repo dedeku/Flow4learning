@@ -319,78 +319,6 @@
         "swipe_on_mobile": false
       }
     },
-    "164244931707a49a74": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1642449317fb2e704a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Most utoljára a tavalyi áron!"
-          }
-        },
-        "1642449317fb2e704a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Február 17-én indul intenzív <strong>vezetőképzés<\/strong>ünk frissen kinevezett vagy leendő vezetőknek. 2 hónapos, mentorált <strong>online program<\/strong>, amelynek során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> live konzultációk<\/strong>on is részt veszel majd.<\/p>"
-          }
-        },
-        "1642449317fb2e704a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Érdekelnek a részletek",
-            "button_link": "https:\/\/sikeresvezeto.flow4learning.hu"
-          }
-        }
-      },
-      "block_order": [
-        "1642449317fb2e704a-0",
-        "1642449317fb2e704a-1",
-        "1642449317fb2e704a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
-    "16269638486602ba4e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16269638486602ba4e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ajándékozz képzést kollégáidnak"
-          }
-        },
-        "16269638486602ba4e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Cégvezetőként e is szeretnél végre olyan ajándékot adni kollegáidnak az ünnepekre, aminek valóban örülnek - és a szervezet számára is hasznosak?<\/p><p>Neked hoztuk létre karácsony minikurzus-ajánlatunkat. Neked csak annyi a feladatod, hogy választasz csomagjainkból.<\/p>"
-          }
-        },
-        "16269638486602ba4e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem a céges karácsonyi ajánlatot",
-            "button_link": "shopify:\/\/pages\/karacsony"
-          }
-        }
-      },
-      "block_order": [
-        "16269638486602ba4e-0",
-        "16269638486602ba4e-1",
-        "16269638486602ba4e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6114.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
     "163592875498457ddd": {
       "type": "image-with-text",
       "blocks": {
@@ -476,78 +404,6 @@
         "height": "adapt",
         "color_scheme": "accent-2",
         "layout": "text_first"
-      }
-    },
-    "1627545463300c61dd": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1627545463300c61dd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ingyenes betekintők"
-          }
-        },
-        "1627545463300c61dd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Próbáld ki, milyen a flow4learninggel tanulni! Nézd meg ingyenesen elérhető leckéinket, gondold át, mi érdekelhet, és élvezd a flow-t!<\/p>"
-          }
-        },
-        "1627545463300c61dd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Kipróbálom",
-            "button_link": "shopify:\/\/pages\/nezz-bele-ingyen"
-          }
-        }
-      },
-      "block_order": [
-        "1627545463300c61dd-0",
-        "1627545463300c61dd-1",
-        "1627545463300c61dd-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/leon-0K7GgiA8lVE-unsplash.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
-    "1626963196529102f5": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1626963196529102f5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Képzések cégeknek"
-          }
-        },
-        "1626963196529102f5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vezetőként vagy hr-esként dolgozol egy cégnél? Ismerkedj meg <strong>testre szabott megoldásainkkal<\/strong>, amelyek révén munkatársaidat hatékonyan és gazdaságosan fejlesztheted azokban a témákban, amik nektek a legfontosabbak éppen. <\/p><p>Kurzusainkat <strong>a stratégiátokhoz illesztjük<\/strong>, létrehozhatunk egy saját képzési oldalt, <strong>saját tartalom<\/strong>mal, csak nektek, és oktatóvideóink <strong>látványvilágát is a ti brandeteknek <\/strong>megfelelően tudjuk kialakítani.<\/p><p><\/p>"
-          }
-        },
-        "1626963196529102f5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Még több a céges képzésekről",
-            "button_link": "shopify:\/\/pages\/kepzesek-cegeknek"
-          }
-        }
-      },
-      "block_order": [
-        "1626963196529102f5-0",
-        "1626963196529102f5-1",
-        "1626963196529102f5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/business-education.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
       }
     },
     "16310798590329d19b": {
@@ -855,126 +711,6 @@
         "layout": "text_first"
       }
     },
-    "1648034015555decc9": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1648034015f940066f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sikeres vezető kurzus indul szeptember 15-én"
-          }
-        },
-        "1648034015f940066f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/strong><\/p><p>Intenzív vezetőképzés ÉLŐ konzultációkkal - frissen kinevezett vagy leendő vezetőknek<\/p><p>A 2 hónapos, mentorált <strong>online program<\/strong> során 3 nagy modulon keresztül ismerkedsz meg praktikusan használható eszközökkel, és<strong> ÉLŐ konzultációk<\/strong>on is részt veszel majd.<\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\"><strong>Sikeres vezető 1. Út a sikerhez<\/strong><\/a><\/p><p><a href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\" title=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-2-megkuzdes-a-kihivasokkal\"><strong>Sikeres vezető 2. Megküzdés a kihívásokkal<\/strong><\/a><\/p>"
-          }
-        },
-        "1648034015f940066f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem - jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes"
-          }
-        }
-      },
-      "block_order": [
-        "1648034015f940066f-0",
-        "1648034015f940066f-1",
-        "1648034015f940066f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SVhez.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
-      }
-    },
-    "846a2ab9-48e2-437b-b748-7d4768abd94f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kettő az egyben - kedvezményes áron"
-          }
-        },
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a <strong>vezetés alapjai<\/strong>t az Út a sikerhez képzésen, és tanuld meg a <strong>nehéz vezetői helyzetek kezelésé<\/strong>t a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>"
-          }
-        },
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Megnézem, jelentkezem",
-            "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form"
-          }
-        }
-      },
-      "block_order": [
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-0",
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-1",
-        "template--15023211020464__846a2ab9-48e2-437b-b748-7d4768abd94f-16651280236ebde3c3-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sale.jpg",
-        "height": "large",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "16644415951137665e": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16644415946914782f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/szazalek.jpg",
-            "title": "",
-            "text": "<p><strong>Végezd el a két képzést egyben! <\/strong>Sajátítsd el a vezetés alapjait az Út a sikerhez képzésen, és tanuld meg a nehéz helyzetek kezelését a Megküzdés a kihívásokkal kurzuson. Ha mindkettőre jelentkezel<strong> <\/strong>- október végéig még a régi áron -<strong> a részvételi díj 27%-át elengedjük neked.<\/strong><\/p>",
-            "column_link": ""
-          }
-        },
-        "16644415946914782f-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        },
-        "16644415946914782f-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16644415946914782f-0",
-        "16644415946914782f-1",
-        "16644415946914782f-2"
-      ],
-      "settings": {
-        "title": "Kettő az egyben - kedvezményes áron",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Megnézem, jelentkezem",
-        "button_link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form",
-        "swipe_on_mobile": false
-      }
-    },
     "16631546700ec99936": {
       "type": "page",
       "settings": {
@@ -991,22 +727,15 @@
     "1d7e5a95-4f4a-4e91-87d5-3968af9bf1fc",
     "16270189427248061e",
     "16269627771e9fe6bd",
-    "164244931707a49a74",
-    "16269638486602ba4e",
     "163592875498457ddd",
     "16269630444bc242c3",
     "16467323048087aced",
-    "1627545463300c61dd",
-    "1626963196529102f5",
     "16310798590329d19b",
     "1626963112c776924e",
     "16269636332e363e1f",
     "162696284706074dbc",
     "16269636913ba50bcb",
     "163524516749ec085a",
-    "1648034015555decc9",
-    "846a2ab9-48e2-437b-b748-7d4768abd94f",
-    "16644415951137665e",
     "16631546700ec99936"
   ]
 }
