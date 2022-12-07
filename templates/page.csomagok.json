@@ -25,12 +25,19 @@
           "settings": {
             "shortcode": "2og0"
           }
+        },
+        "2c2de20a-6dd4-4c0c-97b7-ea072b6ab905": {
+          "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": "517r"
+          }
         }
       },
       "block_order": [
         "61884bf6-6e51-4b37-89aa-0de2f18521ca",
         "d7254e24-fa91-4e65-bd88-54f4313737f8",
-        "8345d892-1458-4864-8d70-12df4852f652"
+        "8345d892-1458-4864-8d70-12df4852f652",
+        "2c2de20a-6dd4-4c0c-97b7-ea072b6ab905"
       ],
       "settings": {
         "include_margins": true
