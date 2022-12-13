@@ -58,7 +58,7 @@
           "type": "column",
           "settings": {
             "title": "Alap csomag",
-            "text": "<p>minden megajándékozott választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<br\/><br\/><\/p><p><strong>5.500 Ft + ÁFA \/ fő<\/strong><\/p><p><\/p><p><\/p>",
+            "text": "<p><strong>minden megajándékozott <\/strong>választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<br\/><\/p><p><strong>5.500 Ft + ÁFA \/ fő<\/strong><\/p><p><\/p><p><\/p>",
             "column_link": ""
           }
         },
