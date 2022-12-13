@@ -17,7 +17,7 @@
         "16349099934647edd1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Szeretnéd meglepni valamivel a kollégáidat vagy egy barátodat karácsonyra? Nem tudod mi legyen az? Egy üveg bor vagy egy újabb bögre? Nekünk van jobb ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad a megajándékozottaknak, akik érdeklődésük alapján már 13 féle online minikurzusból tudnak választani a lenti kínálatból.<\/p>"
+            "text": "<p>Szeretnéd meglepni valamivel egy barátodat vagy a kollégáidat karácsonyra? Nem tudod mi legyen az? Egy üveg bor vagy egy újabb bögre? Nekünk van jobb ötletünk. Egy élmény sokszor többet ér a kézzelfogható ajándéknál. Egy tartalmas, változást ígérő meglepetés emlékezetes marad a megajándékozottaknak, akik érdeklődésük alapján már 13 féle online minikurzusból tudnak választani a lenti kínálatból.<\/p>"
           }
         }
       },
@@ -58,7 +58,7 @@
           "type": "column",
           "settings": {
             "title": "Alap csomag",
-            "text": "<p>- minden megajándékozott választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<br\/><br\/><\/p><p><strong>5.500 Ft + ÁFA \/ fő<\/strong><\/p><p><\/p><p><\/p>",
+            "text": "<p>minden megajándékozott választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<br\/><br\/><\/p><p><strong>5.500 Ft + ÁFA \/ fő<\/strong><\/p><p><\/p><p><\/p>",
             "column_link": ""
           }
         },
@@ -66,7 +66,7 @@
           "type": "column",
           "settings": {
             "title": "Optimum csomag",
-            "text": "<p>- minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail emlékeztetőket kapnak<\/p><p>- folyamatos visszajelzést adunk a HR-nek \/ vezetésnek a haladásról<br\/><br\/><\/p><p><strong>9.000 Ft + ÁFA \/ fő<\/strong><\/p>",
+            "text": "<p><strong>céges ajándék<\/strong>, ahol minden megajándékozott választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail <strong>emlékeztető<\/strong>ket kapnak<\/p><p>- folyamatos <strong>visszajelzést adunk a<\/strong> HR-nek \/ vezetésnek a <strong>haladásról<\/strong><br\/><br\/><\/p><p><strong>9.000 Ft + ÁFA \/ fő<\/strong><\/p>",
             "column_link": ""
           }
         },
@@ -74,7 +74,7 @@
           "type": "column",
           "settings": {
             "title": "Prémium csomag",
-            "text": "<p>- minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail emlékeztetőket kapnak<\/p><p>- folyamatos visszajelzést adunk a HR-nek \/ vezetésnek a haladásról<\/p><p>- cégre szabott 2 órás alkalmazást-segítő workshopot tartunk a résztvevőknek (minimum 6 fő esetén)<br\/><br\/><strong>24.500 Ft + ÁFA \/ fő<\/strong><\/p>",
+            "text": "<p><strong>céges ajándék<\/strong>, ahol minden kolléga választhat magának egy 1-2 óra alatt elvégezhető online kurzust, amit 1 éven belül bármikor elvégezhet<\/p><p>- a résztvevők rendszeres e-mail <strong>emlékeztetők<\/strong>et kapnak<\/p><p>- folyamatos <strong>visszajelzés<\/strong>t adunk a HR-nek \/ vezetésnek <strong>a haladásról<\/strong><\/p><p>- cégre szabott 2 órás <strong>alkalmazást-segítő workshop<\/strong>ot tartunk a résztvevőknek (minimum 6 fő esetén)<br\/><br\/><strong>24.500 Ft + ÁFA \/ fő<\/strong><\/p>",
             "column_link": ""
           }
         }
