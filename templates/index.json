@@ -350,7 +350,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-02-02_at_9.50.01.png",
-        "height": "large",
+        "height": "small",
         "color_scheme": "accent-1",
         "layout": "image_first"
       }
