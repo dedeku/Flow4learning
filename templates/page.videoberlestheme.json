@@ -13,13 +13,6 @@
         "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
       }
     },
-    "165773107458610a06": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
-      }
-    },
     "16577315886d4118c0": {
       "type": "custom-liquid",
       "disabled": true,
@@ -104,7 +97,7 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Folyamatosan bővülő választékunk jelenleg <strong>50-60 videóból<\/strong> áll.<\/p><p>Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára:<strong> vezetés, kommunikáció, konfliktuskezelés, önismeret. <\/strong><\/p><p>Néhány konkrét példa videós kínálatunkból: <strong>Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/strong><\/p>"
+            "text": "<p>Folyamatosan bővülő választékunk jelenleg <strong>40-50 videóból<\/strong> áll.<\/p><p>Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára:<strong> vezetés, kommunikáció, konfliktuskezelés, önismeret. <\/strong><\/p><p>Néhány konkrét példa videós kínálatunkból: <strong>Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/strong><\/p>"
           }
         },
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
@@ -132,7 +125,6 @@
   "order": [
     "main",
     "165773057610a905e8",
-    "165773107458610a06",
     "16577315886d4118c0",
     "1657731671dc82d271",
     "165773172903b9c8f4",
