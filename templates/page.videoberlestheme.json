@@ -47,7 +47,7 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Folyamatosan bővülő választékunk jelenleg <strong>40-50 videóból<\/strong> áll.<\/p><p>Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára:<strong> vezetés, kommunikáció, konfliktuskezelés, önismeret. <\/strong><\/p><p>Néhány konkrét példa videós kínálatunkból: <strong>Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/strong><\/p>"
+            "text": ""
           }
         },
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
@@ -84,7 +84,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
           "type": "text",
           "settings": {
-            "text": "Oktatóvideóinkat bérbe is veheted különböző hosszúságú időszakokra. Ideális választás, ha kombinált személyes és online(blended) képzési programot tervezel a vezetők vagy a munkatársaid fejlesztésére."
+            "text": "Folyamatosan bővülő választékunk jelenleg 40-50 videóból áll.Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára: vezetés, kommunikáció, konfliktuskezelés, önismeret. Néhány konkrét példa videós kínálatunkból: Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. "
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
@@ -115,6 +115,50 @@
         "show_text_below": true
       }
     },
+    "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4": {
+      "type": "image-banner",
+      "blocks": {
+        "c94e88fa-c57f-4e79-a2a6-e86d41569e1b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Videóbérlés",
+            "heading_size": "large"
+          }
+        },
+        "339e3c93-f525-4e66-af8d-49de88f9323e": {
+          "type": "text",
+          "settings": {
+            "text": "Oktatóvideóinkat bérbe is veheted különböző hosszúságú időszakokra. Ideális választás, ha kombinált személyes és online(blended) képzési programot tervezel a vezetők vagy a munkatársaid fejlesztésére."
+          }
+        },
+        "4772761d-140a-4b55-b9d0-b7a412f693dd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c94e88fa-c57f-4e79-a2a6-e86d41569e1b",
+        "339e3c93-f525-4e66-af8d-49de88f9323e",
+        "4772761d-140a-4b55-b9d0-b7a412f693dd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_videoberles.jpg",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
       "type": "page",
       "settings": {
@@ -130,6 +174,7 @@
     "165773172903b9c8f4",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "50677900-c1d0-4962-b678-061c5f3b048d",
+    "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f"
   ]
 }
