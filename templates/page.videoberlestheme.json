@@ -66,7 +66,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/video.jpg",
-        "height": "large",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
