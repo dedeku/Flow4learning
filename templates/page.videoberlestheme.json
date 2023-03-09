@@ -34,6 +34,43 @@
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
       }
     },
+    "79f9b634-f418-48f7-b010-dfd8aa79491a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Folyamatosan bővülő választékunk jelenleg <strong>40-50 videóból<\/strong> áll.<\/p><p>Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára:<strong> vezetés, kommunikáció, konfliktuskezelés, önismeret. <\/strong><\/p><p>Néhány konkrét példa videós kínálatunkból: <strong>Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/strong><\/p>"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_mbti_002.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "50677900-c1d0-4962-b678-061c5f3b048d": {
       "type": "image-banner",
       "blocks": {
@@ -83,43 +120,6 @@
       "settings": {
         "page": "videoberles-es-vasarlas"
       }
-    },
-    "79f9b634-f418-48f7-b010-dfd8aa79491a": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Folyamatosan bővülő választékunk jelenleg <strong>40-50 videóból<\/strong> áll.<\/p><p>Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára:<strong> vezetés, kommunikáció, konfliktuskezelés, önismeret. <\/strong><\/p><p>Néhány konkrét példa videós kínálatunkból: <strong>Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/strong><\/p>"
-          }
-        },
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0",
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
-        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/flow_mbti_002.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -128,8 +128,8 @@
     "16577315886d4118c0",
     "1657731671dc82d271",
     "165773172903b9c8f4",
+    "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "50677900-c1d0-4962-b678-061c5f3b048d",
-    "4e3ebcc5-8998-422e-9a60-db5000241b0f",
-    "79f9b634-f418-48f7-b010-dfd8aa79491a"
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f"
   ]
 }
