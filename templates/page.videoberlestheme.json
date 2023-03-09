@@ -36,6 +36,7 @@
     },
     "79f9b634-f418-48f7-b010-dfd8aa79491a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
           "type": "heading",
@@ -77,14 +78,14 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-0": {
           "type": "heading",
           "settings": {
-            "heading": "Videóbérlés",
+            "heading": "Videótár",
             "heading_size": "large"
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
           "type": "text",
           "settings": {
-            "text": "Folyamatosan bővülő választékunk jelenleg 40-50 videóból áll.Az alábbi témákban tudunk tartalmat biztosítani ügyfeleink számára: vezetés, kommunikáció, konfliktuskezelés, önismeret. Néhány konkrét példa videós kínálatunkból: Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. "
+            "text": "Folyamatosan bővülő választékunk jelenleg 40-50 videóból áll. Ezekben a témákban tudunk tartalmat biztosítani ügyfeleink számára: vezetés, kommunikáció, konfliktuskezelés, önismeret. Néhány konkrét példa videós kínálatunkból: Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. "
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
@@ -105,7 +106,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_videoberles.jpg",
+        "image": "shopify:\/\/shop_images\/video_45142de7-4973-449a-a454-cd26f67dcb64.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
