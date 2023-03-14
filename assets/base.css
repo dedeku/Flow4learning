@@ -3199,3 +3199,12 @@ span.ets_cf_checkbox_title {
     font-size: 12px;
     line-height: 24px;
 }
+.ets_cf_checkbox_item.ets_cf_checkbox_inline {
+    display: flex;
+    margin: 0 0 10px 0;
+}
+span.ets_cf_checkbox_title {
+    font-size: 12px;
+    display: flex;
+    line-height: 16px;
+}
