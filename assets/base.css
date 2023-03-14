@@ -3190,3 +3190,7 @@ section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f
 
   object-fit: contain!important;
 }
+.ets_cf_checkbox_item label, .ets_cf_radio_item label {
+    display: flex;
+    align-items: flex-start!important;
+}
