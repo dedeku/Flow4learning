@@ -3194,3 +3194,8 @@ section#shopify-section-template--15984578789552__50677900-c1d0-4962-b678-061c5f
     display: flex;
     align-items: flex-start!important;
 }
+
+span.ets_cf_checkbox_title {
+    font-size: 12px;
+    line-height: 24px;
+}
