@@ -169,7 +169,7 @@
     "2b9ae176-f741-48e9-9fb2-e64ebd06e5ca": {
       "type": "custom-liquid",
       "custom_css": [
-        "#etsCfBoxKxMOVEF92s{background-color: #ffffff; width: 1199px; padding: 10px; display: flex!important;}"
+
       ],
       "settings": {
         "custom_liquid": "{ets_cf_Kkw}"
