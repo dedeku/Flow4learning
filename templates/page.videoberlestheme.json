@@ -87,7 +87,7 @@
     "a79a2c31-38ef-4f73-8d88-21b965d72b66": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a style=\"text-align:center; width:300px; margin:0 auto;\" class=\"button button--primary\" href=\"#shopify-section-template--15984578724016__2b9ae176-f741-48e9-9fb2-e64ebd06e5ca\">\n          Megnézem\n        <\/a>"
+        "custom_liquid": "<a style=\"text-align:center; width:300px; margin:0 auto;\" class=\"button button--primary\" href=\"#tobbfele_konstrukcio_form\">\n          Megnézem\n        <\/a>"
       }
     },
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4": {
@@ -178,7 +178,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "{ets_cf_Kkw}"
+        "custom_liquid": "<div id=\"tobbfele_konstrukcio_form\" style=\"text-align: center;\">\n<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_99  et_pb_css_mix_blend_mode_passthrough\">\n<div class=\"et_pb_module et_pb_text et_pb_text_97  et_pb_text_align_left et_pb_bg_layout_dark\">\n<div class=\"et_pb_text_inner\"><\/div>\n<\/div>\n<\/div>\n<\/div>\n{ets_cf_Kkw}"
       }
     }
   },
