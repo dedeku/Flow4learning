@@ -84,12 +84,6 @@
         "page": "videoberles-es-vasarlas"
       }
     },
-    "a79a2c31-38ef-4f73-8d88-21b965d72b66": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a style=\"text-align:center; width:300px; margin:0 auto;\" class=\"button button--primary\" href=\"#tobbfele_konstrukcio_form\">\n          Megnézem\n        <\/a>"
-      }
-    },
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4": {
       "type": "image-banner",
       "blocks": {
@@ -190,7 +184,6 @@
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
-    "a79a2c31-38ef-4f73-8d88-21b965d72b66",
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "2b9ae176-f741-48e9-9fb2-e64ebd06e5ca"
