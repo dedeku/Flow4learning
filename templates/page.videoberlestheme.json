@@ -87,7 +87,7 @@
     "a79a2c31-38ef-4f73-8d88-21b965d72b66": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a style=\"width:100%;margin:0 auto;\"class=\"button button--primary\" href=\"#etsCfBoxW7K7XI5LKY\">\n          Megnézem\n        <\/a>"
+        "custom_liquid": "<a style=\"text-align:center; width:300px; margin:0 auto;\"class=\"button button--primary\" href=\"#etsCfBoxW7K7XI5LKY\">\n          Megnézem\n        <\/a>"
       }
     },
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4": {
