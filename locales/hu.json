@@ -398,10 +398,10 @@
     "checkout": {
       "contact": {
         "last_name_label": "Vezetéknév",
-        "first_name_label": "Vezetéknév"
+        "first_name_label": "Keresztnév"
       },
       "field_errors": {
-        "address_first_name_blank": "Írd be a vezetékneved",
+        "address_first_name_blank": "Írd be a keresztneved",
         "address_last_name_blank": "Írd be a vezetékneved"
       },
       "marketing": {
@@ -410,7 +410,7 @@
       }
     },
     "attributes": {
-      "first_name": "vezetéknév",
+      "first_name": "Keresztnév",
       "last_name": "Vezetéknév"
     }
   },
@@ -420,7 +420,7 @@
     },
     "account_information": {
       "profile_card": {
-        "first_name": "Vezetéknév",
+        "first_name": "Keresztnév",
         "last_name": "Vezetéknév"
       }
     }
