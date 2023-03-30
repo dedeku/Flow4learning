@@ -397,7 +397,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "last_name_label": "Keresztnév",
+        "last_name_label": "Vezetéknév",
         "first_name_label": "Vezetéknév"
       },
       "field_errors": {
@@ -411,7 +411,7 @@
     },
     "attributes": {
       "first_name": "vezetéknév",
-      "last_name": "keresztnév"
+      "last_name": "Vezetéknév"
     }
   },
   "customer_accounts": {
@@ -421,7 +421,7 @@
     "account_information": {
       "profile_card": {
         "first_name": "Vezetéknév",
-        "last_name": "Keresztnév"
+        "last_name": "Vezetéknév"
       }
     }
   }
