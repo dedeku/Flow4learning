@@ -417,6 +417,12 @@
   "customer_accounts": {
     "order_details": {
       "marketing_checkbox_label": "Szívesen veszem, ha küldtök nekem emailt az aktualitásokról"
+    },
+    "account_information": {
+      "profile_card": {
+        "first_name": "Vezetéknév",
+        "last_name": "Keresztnév"
+      }
     }
   }
 }
