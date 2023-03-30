@@ -407,6 +407,10 @@
       "marketing": {
         "accept_marketing_checkbox_label": "Szívesen veszem, ha küldtök nekem emailt az aktualitásokról",
         "post_accept_marketing_checkbox_label": "Feliratkoztál az e-mailben érkező hírlevelekre, aktualitásokra"
+      },
+      "thank_you": {
+        "thank_you_confirmed_order_with_email_pick_up": "Hamarosan megkezdheted kurzusod.",
+        "order_status_confirmed_order_with_email": "Hamarosan megkezdheted kurzusod."
       }
     },
     "attributes": {
