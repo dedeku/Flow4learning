@@ -341,7 +341,7 @@
     },
     "register": {
       "title": "Fiók létrehozása",
-      "first_name": "Vezetéknév",
+      "first_name": "Keresztnév",
       "last_name": "Vezetéknév",
       "email": "E-mail cím",
       "password": "Jelszó",
