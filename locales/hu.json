@@ -402,7 +402,7 @@
       },
       "field_errors": {
         "address_first_name_blank": "Írd be a vezetékneved",
-        "address_last_name_blank": "Írd be a keresztneved"
+        "address_last_name_blank": "Írd be a vezetékneved"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Szívesen veszem, ha küldtök nekem emailt az aktualitásokról",
