@@ -405,8 +405,8 @@
         "address_last_name_blank": "Írd be a vezetékneved"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldtök nekem emailt az aktualitásokról, további ingyenes lehetőségekről.",
-        "post_accept_marketing_checkbox_label": "Feliratkoztál az e-mailben érkező hírlevelekre, aktualitásokra"
+        "accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről.",
+        "post_accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről."
       },
       "thank_you": {
         "thank_you_confirmed_order_with_email_pick_up": "Hamarosan megkezdheted kurzusod.",
@@ -420,7 +420,7 @@
   },
   "customer_accounts": {
     "order_details": {
-      "marketing_checkbox_label": "Szívesen veszem, ha küldtök nekem emailt az aktualitásokról"
+      "marketing_checkbox_label": "Igen, szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről."
     },
     "account_information": {
       "profile_card": {
