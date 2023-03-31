@@ -405,7 +405,7 @@
         "address_last_name_blank": "Írd be a vezetékneved"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "Szívesen veszem, ha küldtök nekem emailt az aktualitásokról",
+        "accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldtök nekem emailt az aktualitásokról, további ingyenes lehetőségekről.",
         "post_accept_marketing_checkbox_label": "Feliratkoztál az e-mailben érkező hírlevelekre, aktualitásokra"
       },
       "thank_you": {
