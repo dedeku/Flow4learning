@@ -406,7 +406,7 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről.",
-        "post_accept_marketing_checkbox_label": "Igen, szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről."
+        "post_accept_marketing_checkbox_label": "Szívesen veszem, ha küldötök nekem emailt az aktualitásokról, további ingyenes lehetőségekről."
       },
       "thank_you": {
         "thank_you_confirmed_order_with_email_pick_up": "Hamarosan megkezdheted kurzusod.",
