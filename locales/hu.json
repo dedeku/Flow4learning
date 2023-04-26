@@ -400,7 +400,7 @@
         "last_name_label": "Vezetéknév",
         "first_name_label": "Keresztnév",
         "company_label": "Vállalat",
-        "optional_company_label": "Adószám"
+        "optional_company_label": "Cégnév és adószám"
       },
       "field_errors": {
         "address_first_name_blank": "Írd be a keresztneved",
