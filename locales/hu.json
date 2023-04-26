@@ -398,7 +398,9 @@
     "checkout": {
       "contact": {
         "last_name_label": "Vezetéknév",
-        "first_name_label": "Keresztnév"
+        "first_name_label": "Keresztnév",
+        "company_label": "Vállalat",
+        "optional_company_label": "Adószám"
       },
       "field_errors": {
         "address_first_name_blank": "Írd be a keresztneved",
