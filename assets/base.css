@@ -3221,11 +3221,12 @@ span.ets_cf_checkbox_title {
 section#shopify-section-template--15023211446448__main {
     display: none;
 }
+section#shopify-section-template--15023211446448__1682858797de45345e {
+    padding: 0;
+}
 section#shopify-section-template--15023211446448__96856c51-d5fb-47ca-8c7d-42035c436790 {
     display: flex;
-    /* flex-basis: auto; */
     margin: 0 auto;
     flex-direction: column;
     align-items: center;
-    /* align-content: center; */
 }
