@@ -152,7 +152,7 @@
     "96856c51-d5fb-47ca-8c7d-42035c436790": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a class=\"hab-slide-button\" href=\"https:\/\/flowmagyarorszag.activehosted.com\/f\/11\" target=\"_blank\">Szeretnék értesülni az aktuális kurzusaitokról<\/a>"
+        "custom_liquid": "<a class=\"button hab-slide-button\" href=\"https:\/\/flowmagyarorszag.activehosted.com\/f\/11\" target=\"_blank\">Szeretnék értesülni az aktuális kurzusaitokról<\/a>"
       }
     }
   },
