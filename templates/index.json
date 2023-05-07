@@ -1,5 +1,24 @@
 {
   "sections": {
+    "1683464871b17adf47": {
+      "type": "apps",
+      "blocks": {
+        "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
+          "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
+          "settings": {
+            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
+            "width-ppf": "100%",
+            "height-ppf": "1000"
+          }
+        }
+      },
+      "block_order": [
+        "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "16639139936737ba10": {
       "type": "apps",
       "blocks": {
@@ -765,6 +784,7 @@
     }
   },
   "order": [
+    "1683464871b17adf47",
     "16639139936737ba10",
     "a2c9b605-2c53-4845-9e28-ac00869ddaf2",
     "1663056278376a6777",
