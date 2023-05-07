@@ -3237,3 +3237,18 @@ section#shopify-block-cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7{
 .irezZo {
     flex: 0 0;
 }
+a.button.hab-slide-button {
+    font-size: 1.5rem;
+    display: flex;
+    letter-spacing: 0.1rem;
+    line-height: 1.2;
+    align-items: center;
+    align-content: center;
+    width: 480px;
+    margin: 0 auto;
+}
+.JhSHY {
+    padding-top: 0px;
+    margin-bottom: 0;
+    display: none;
+}
