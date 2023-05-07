@@ -19,6 +19,12 @@
         "include_margins": true
       }
     },
+    "9c95413d-f416-4b6d-ad8b-61fc3cf6274c": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
     "16639139936737ba10": {
       "type": "apps",
       "blocks": {
@@ -785,6 +791,7 @@
   },
   "order": [
     "1683464871b17adf47",
+    "9c95413d-f416-4b6d-ad8b-61fc3cf6274c",
     "16639139936737ba10",
     "a2c9b605-2c53-4845-9e28-ac00869ddaf2",
     "1663056278376a6777",
