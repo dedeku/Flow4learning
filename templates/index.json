@@ -2,11 +2,13 @@
   "sections": {
     "1683464871b17adf47": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
+          "disabled": true,
           "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
+            "quiz-ppf": "tools\/{proxy}\/{quiz-slug}",
             "width-ppf": "100%",
             "height-ppf": "1000"
           }
@@ -31,8 +33,8 @@
         "1c1419e4-59d4-4c1a-bf11-5addca2e9024": {
           "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
           "settings": {
-            "style": "4",
-            "primaryColor": "#ffffff",
+            "style": "1",
+            "primaryColor": "#FFFFFF",
             "titleFont": "libre_franklin_n7",
             "subTitleFont": "libre_franklin_n4",
             "buttonsFont": "libre_franklin_n6",
@@ -41,21 +43,18 @@
             "height": 600,
             "heightMode": "fixed",
             "makeSlidesLinks": false,
-            "image_1": "shopify:\/\/shop_images\/SV_full.jpg",
-            "title_1": "Sikeres vezető - Út a sikerhez",
-            "subTitle_1": "<p>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/p>",
-            "button_1": "Megnézem, jelentkezem!",
-            "buttonLink_1": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez",
-            "image_2": "shopify:\/\/shop_images\/kihivasok.jpg",
-            "title_2": "Sikeres vezető - Egyensúly a mindennapokban",
-            "subTitle_2": "<p>Mozgósítsd az energiát és a motivációt a csapatodban<\/p>",
-            "button_2": "Megnézem, jelentkezem!",
-            "buttonLink_2": "shopify:\/\/pages\/sikeres-vezeto-egyensuly-a-mindennapokban",
-            "image_3": "shopify:\/\/shop_images\/Screenshot_2023-03-26_at_17.22.24.png",
-            "title_3": "Coach készségek és eszközök HR-eseknek",
-            "subTitle_3": "<p>Ha fejlődni szeretnél a coaching szemlélet és eszközhasználat terén annak érdekében, hogy minél testreszabottabban tudd támogatni a munkatársaidat.<\/p>",
-            "button_3": "Megnézem, jelentkezem!",
-            "buttonLink_3": "https:\/\/flow4learning.hu\/products\/coach-keszsegek-es-eszkozok-hr-eseknek-elo-konzultaciokkal"
+            "title_1": "Discover Our New Collection",
+            "subTitle_1": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
+            "button_1": "Shop Now",
+            "buttonLink_1": "",
+            "title_2": "Discover Our New Collection",
+            "subTitle_2": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
+            "button_2": "Shop Now",
+            "buttonLink_2": "",
+            "title_3": "Discover Our New Collection",
+            "subTitle_3": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
+            "button_3": "Shop Now",
+            "buttonLink_3": ""
           }
         }
       },
@@ -790,6 +789,7 @@
     },
     "ce961960-a314-48c7-9a30-3f37988ca40f": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--15023211020464__ce961960-a314-48c7-9a30-3f37988ca40f-168352599073e7248f-0": {
           "type": "heading",
