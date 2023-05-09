@@ -2,6 +2,7 @@
   "sections": {
     "1683464871b17adf47": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
@@ -27,6 +28,7 @@
     },
     "16639139936737ba10": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "1c1419e4-59d4-4c1a-bf11-5addca2e9024": {
           "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
