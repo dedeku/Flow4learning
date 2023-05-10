@@ -132,13 +132,14 @@
     },
     "1682858797de45345e": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "07708269-f1b4-4781-af9f-45295a525663": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
           "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
+            "quiz-ppf": "tools\/{proxy}\/{quiz-slug}",
             "width-ppf": "100%",
-            "height-ppf": "1200"
+            "height-ppf": "1000"
           }
         }
       },
