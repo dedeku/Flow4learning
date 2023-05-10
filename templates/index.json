@@ -2,9 +2,11 @@
   "sections": {
     "1683464871b17adf47": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
+          "disabled": true,
           "settings": {
             "quiz-ppf": "tools\/{proxy}\/{quiz-slug}",
             "width-ppf": "100%",
