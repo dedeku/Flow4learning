@@ -1,12 +1,48 @@
 {
   "sections": {
+    "68a8900a-f5a5-49ef-abb7-05de9200455f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fedezd fel, melyik a legtesthezállóbb kurzus neked!"
+          }
+        },
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Töltsd ki kvízünket, hogy megtaláld azt a képzést, amivel eredményesebb leszel a magánéletedben és a munkádban!<\/p>"
+          }
+        },
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "kitöltöm",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0",
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-1",
+        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Flow_Consulting_ez_a_kurzus_neked_szol.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1683464871b17adf47": {
       "type": "apps",
       "blocks": {
         "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
           "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
+            "quiz-ppf": "tools\/{proxy}\/{quiz-slug}",
             "width-ppf": "100%",
             "height-ppf": "1000"
           }
@@ -829,45 +865,10 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "68a8900a-f5a5-49ef-abb7-05de9200455f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Fedezd fel, melyik a legtesthezállóbb kurzus neked!"
-          }
-        },
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Töltsd ki kvízünket, hogy megtaláld azt a képzést, amivel eredményesebb leszel a magánéletedben és a munkádban!<\/p>"
-          }
-        },
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "kitöltöm",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0",
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-1",
-        "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Flow_Consulting_ez_a_kurzus_neked_szol.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
+    "68a8900a-f5a5-49ef-abb7-05de9200455f",
     "1683464871b17adf47",
     "9c95413d-f416-4b6d-ad8b-61fc3cf6274c",
     "16639139936737ba10",
@@ -889,7 +890,6 @@
     "163524516749ec085a",
     "16631546700ec99936",
     "a88997fe-182e-44fe-8df5-cc5de385baba",
-    "ce961960-a314-48c7-9a30-3f37988ca40f",
-    "68a8900a-f5a5-49ef-abb7-05de9200455f"
+    "ce961960-a314-48c7-9a30-3f37988ca40f"
   ]
 }
