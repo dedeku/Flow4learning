@@ -6,7 +6,7 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Fedezd fel, melyik a leghasznosabb flow4learning kurzus neked!"
+            "heading": "Fedezd fel, melyik a legtesthezállóbb kurzus neked!"
           }
         },
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1": {
@@ -18,7 +18,7 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Elkezdem",
+            "button_label": "Kitöltöm",
             "button_link": "shopify:\/\/pages\/quiz"
           }
         }
@@ -37,7 +37,6 @@
     },
     "68a8900a-f5a5-49ef-abb7-05de9200455f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0": {
           "type": "heading",
