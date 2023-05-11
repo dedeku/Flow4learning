@@ -130,23 +130,10 @@
         "layout": "image_first"
       }
     },
-    "1682858797de45345e": {
-      "type": "apps",
-      "blocks": {
-        "07708269-f1b4-4781-af9f-45295a525663": {
-          "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
-          "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
-            "width-ppf": "100%",
-            "height-ppf": "1000"
-          }
-        }
-      },
-      "block_order": [
-        "07708269-f1b4-4781-af9f-45295a525663"
-      ],
+    "07d4524f-1cc0-4389-92b9-0bd112350a0b": {
+      "type": "page",
       "settings": {
-        "include_margins": true
+        "page": "kovetkezo-live-programjaink"
       }
     }
   },
@@ -160,6 +147,6 @@
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
-    "1682858797de45345e"
+    "07d4524f-1cc0-4389-92b9-0bd112350a0b"
   ]
 }
