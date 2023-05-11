@@ -1,5 +1,40 @@
 {
   "sections": {
+    "2223e229-6cfc-4348-9e61-1b0aed945dc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fedezd fel, melyik a leghasznosabb flow4learning kurzus neked!"
+          }
+        },
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Töltsd ki kvízünket, hogy megtaláld azt a képzést, amivel eredményesebb leszel a magánéletedben és a munkádban!<\/p>"
+          }
+        },
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-0",
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1",
+        "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/de745076-3577-4f20-906b-4e47f2f04eb1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "68a8900a-f5a5-49ef-abb7-05de9200455f": {
       "type": "image-with-text",
       "disabled": true,
@@ -34,6 +69,27 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "1683464871b17adf47": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7": {
+          "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
+          "disabled": true,
+          "settings": {
+            "quiz-ppf": "tools\/{proxy}\/{quiz-slug}",
+            "width-ppf": "100%",
+            "height-ppf": "1000"
+          }
+        }
+      },
+      "block_order": [
+        "cf7bc8c4-c563-4aa1-8482-7b9e6ae3e5b7"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "9c95413d-f416-4b6d-ad8b-61fc3cf6274c": {
@@ -849,7 +905,9 @@
     }
   },
   "order": [
+    "2223e229-6cfc-4348-9e61-1b0aed945dc9",
     "68a8900a-f5a5-49ef-abb7-05de9200455f",
+    "1683464871b17adf47",
     "9c95413d-f416-4b6d-ad8b-61fc3cf6274c",
     "16639139936737ba10",
     "a2c9b605-2c53-4845-9e28-ac00869ddaf2",
