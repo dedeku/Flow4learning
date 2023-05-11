@@ -136,7 +136,7 @@
         "2558d2e5-7adc-41f8-bc19-ce0feea9b3ed": {
           "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
           "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
+            "quiz-ppf": "https:\/\/flow4learninghu.myshopify.com\/tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
             "width-ppf": "100%",
             "height-ppf": "1000"
           }
