@@ -6,7 +6,7 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Fedezd fel, melyik a legtesthezállóbb kurzus neked!"
+            "heading": "Fedezd fel, melyik a leghasznosabb flow4learning kurzus neked!"
           }
         },
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1": {
@@ -18,7 +18,7 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Kitöltöm",
+            "button_label": "Elkezdem",
             "button_link": "shopify:\/\/pages\/quiz"
           }
         }
@@ -37,6 +37,7 @@
     },
     "68a8900a-f5a5-49ef-abb7-05de9200455f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0": {
           "type": "heading",
@@ -99,12 +100,11 @@
     },
     "16639139936737ba10": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "1c1419e4-59d4-4c1a-bf11-5addca2e9024": {
           "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
           "settings": {
-            "style": "1",
+            "style": "4",
             "primaryColor": "#ffffff",
             "titleFont": "libre_franklin_n7",
             "subTitleFont": "libre_franklin_n4",
@@ -114,10 +114,11 @@
             "height": 600,
             "heightMode": "fixed",
             "makeSlidesLinks": false,
-            "title_1": "Discover Our New Collection",
-            "subTitle_1": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
-            "button_1": "Shop Now",
-            "buttonLink_1": "",
+            "image_1": "shopify:\/\/shop_images\/SV_full.jpg",
+            "title_1": "Sikeres vezető - Út a sikerhez kurzus",
+            "subTitle_1": "<p>Sajátítsd el a sikeres vezetők nélkülözhetetlen készségeit!<\/p>",
+            "button_1": "Megnézem, jelentkezem!",
+            "buttonLink_1": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez",
             "title_2": "Discover Our New Collection",
             "subTitle_2": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/p>",
             "button_2": "Shop Now",
