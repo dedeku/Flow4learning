@@ -3269,5 +3269,4 @@ div#shopify-section-template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945d
 
 
 div#shopify-section-template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9 .button:not([disabled]):hover {
-    box-shadow: 0 0 0 0.2rem #aec52e, #aec52e;
-}
+    box-shadow: 0 0 0 0.2rem #aec52e!important;
