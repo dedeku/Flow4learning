@@ -3264,5 +3264,5 @@ a.button.hab-slide-button {
     flex: 0 0!important;
 }
 div#shopify-section-template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9 a.button--primary {
-    background: #aec52e!important;
+    background: #aec52e!important;border: 1px solid ##aec52e;
 }
