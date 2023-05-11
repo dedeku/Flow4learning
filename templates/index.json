@@ -18,8 +18,8 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Elkezdem",
+            "button_link": "shopify:\/\/pages\/quiz"
           }
         }
       },
