@@ -132,6 +132,7 @@
     },
     "07d4524f-1cc0-4389-92b9-0bd112350a0b": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "kovetkezo-live-programjaink"
       }
