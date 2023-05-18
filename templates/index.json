@@ -28,9 +28,12 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1",
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/de745076-3577-4f20-906b-4e47f2f04eb1.jpg",
-        "height": "large",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
