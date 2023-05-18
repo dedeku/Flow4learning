@@ -30,7 +30,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/de745076-3577-4f20-906b-4e47f2f04eb1.jpg",
-        "height": "adapt",
+        "height": "large",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
