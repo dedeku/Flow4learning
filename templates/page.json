@@ -136,6 +136,26 @@
       "settings": {
         "page": "adatkezelesi-tajekoztato"
       }
+    },
+    "1685910941e117bb88": {
+      "type": "apps",
+      "blocks": {
+        "de8a9fe1-bc68-4439-902d-e8190279b584": {
+          "type": "shopify:\/\/apps\/quizell\/blocks\/quizeel-new\/be73d783-51c5-48d3-b979-2641da706c4e",
+          "settings": {
+            "quizz_id": "kIehMKyl5MLXrpeYwnRRMS426300",
+            "quizz_display_type": "1",
+            "quiz_height_type": "2",
+            "iframe_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "de8a9fe1-bc68-4439-902d-e8190279b584"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -148,6 +168,7 @@
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
-    "07d4524f-1cc0-4389-92b9-0bd112350a0b"
+    "07d4524f-1cc0-4389-92b9-0bd112350a0b",
+    "1685910941e117bb88"
   ]
 }

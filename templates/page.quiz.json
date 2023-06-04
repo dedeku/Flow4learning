@@ -141,10 +141,20 @@
             "width-ppf": "100%",
             "height-ppf": "1000"
           }
+        },
+        "16675c54-807b-4be3-91a0-a5bf1ed1677a": {
+          "type": "shopify:\/\/apps\/quizell\/blocks\/quizeel-new\/be73d783-51c5-48d3-b979-2641da706c4e",
+          "settings": {
+            "quizz_id": "kIehMKyl5MLXrpeYwnRRMS426300",
+            "quizz_display_type": "1",
+            "quiz_height_type": "2",
+            "iframe_height": 100
+          }
         }
       },
       "block_order": [
-        "2558d2e5-7adc-41f8-bc19-ce0feea9b3ed"
+        "2558d2e5-7adc-41f8-bc19-ce0feea9b3ed",
+        "16675c54-807b-4be3-91a0-a5bf1ed1677a"
       ],
       "settings": {
         "include_margins": true
