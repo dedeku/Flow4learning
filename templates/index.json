@@ -894,6 +894,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "2587e4e4-7f89-4760-8017-27e61cf896d9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"display: flex; justify-content:center\"><iframe src=\"https:\/\/app.quizell.com\/quiz\/Q0ll1ha2wfMBWD0jxtLFMS439400\"  style=\"width: 100vw; height: 540px;\" frameborder=\"0\" ><\/iframe><\/div>"
+      }
     }
   },
   "order": [
@@ -920,6 +926,7 @@
     "163524516749ec085a",
     "16631546700ec99936",
     "a88997fe-182e-44fe-8df5-cc5de385baba",
-    "ce961960-a314-48c7-9a30-3f37988ca40f"
+    "ce961960-a314-48c7-9a30-3f37988ca40f",
+    "2587e4e4-7f89-4760-8017-27e61cf896d9"
   ]
 }
