@@ -897,7 +897,6 @@
     },
     "2587e4e4-7f89-4760-8017-27e61cf896d9": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content:center\"><iframe src=\"https:\/\/app.quizell.com\/quiz\/Q0ll1ha2wfMBWD0jxtLFMS439400\"  style=\"width: 100vw; height: 540px;\" frameborder=\"0\" ><\/iframe><\/div>"
       }
