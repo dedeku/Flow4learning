@@ -134,18 +134,10 @@
     "1683791738f6900892": {
       "type": "apps",
       "blocks": {
-        "2558d2e5-7adc-41f8-bc19-ce0feea9b3ed": {
-          "type": "shopify:\/\/apps\/perfect-product-finder-quiz\/blocks\/quiz\/619ce3d2-0211-4d3a-9bb0-e881b10b00ad",
-          "settings": {
-            "quiz-ppf": "tools\/perfect-product-finder\/talalja-meg-a-tokeletes-online-tanfolyamot",
-            "width-ppf": "100%",
-            "height-ppf": "1000"
-          }
-        },
         "16675c54-807b-4be3-91a0-a5bf1ed1677a": {
           "type": "shopify:\/\/apps\/quizell\/blocks\/quizeel-new\/be73d783-51c5-48d3-b979-2641da706c4e",
           "settings": {
-            "quizz_id": "kIehMKyl5MLXrpeYwnRRMS426300",
+            "quizz_id": "cKf4hFsHUOn859fstNPZMS467700",
             "quizz_display_type": "1",
             "quiz_height_type": "2",
             "iframe_height": 100
@@ -153,7 +145,6 @@
         }
       },
       "block_order": [
-        "2558d2e5-7adc-41f8-bc19-ce0feea9b3ed",
         "16675c54-807b-4be3-91a0-a5bf1ed1677a"
       ],
       "settings": {
