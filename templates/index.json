@@ -607,8 +607,8 @@
       ],
       "settings": {
         "title": "Mit mondanak, akik velünk tanulnak?",
-        "image_width": "half",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
