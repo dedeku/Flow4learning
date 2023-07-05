@@ -512,6 +512,22 @@
     "1626963112c776924e": {
       "type": "multicolumn",
       "blocks": {
+        "fc4f681d-f690-4b95-b350-f2062e69554a": {
+          "type": "column",
+          "settings": {
+            "title": "Keresztes Péter - Műszaki igazgató, VAR Kereskedelmi és Szolgáltató Kft.",
+            "text": "<p>\"A<br\/>Sikeres vezető képzés nagyon tetszett. Jó, hogy szét van tagolva, webinárként lehet<br\/>haladni, akkor amikor akarok, és visszanézhetem bármikor. Szerintem ez az egyik<br\/>legnagyobb előnye. Jók a „személyes” előadások is, sok dologra fény derül. Látni, hogy mások is hasonló cipőben járnak és küzdenek különböző<br\/>kihívásokkal.\" <\/p>",
+            "column_link": ""
+          }
+        },
+        "00952047-e774-42d7-8f98-f04eb46712cb": {
+          "type": "column",
+          "settings": {
+            "title": "Palkó Bettina - HR Business Partner, Pepco",
+            "text": "<p>\"Kollégáink szívesen végezték a flow4learning online<br\/>kurzusait időgazdálkodás, mindfulness és delegálás témakörökben. Nagyon<br\/>jó vélemények érkeztek tőlük. A legtöbb pozitív visszajelzést a képzések<br\/>legfontosabb elemeire adták - az oktatók hitelességére és közvetlenségére,<br\/>illetve a munkafüzet használatára, amely hatékonyabbá és gyakorlatiasabbá tette<br\/>számukra az online tanulást.\"<\/p>",
+            "column_link": ""
+          }
+        },
         "a7e8580a-4d7d-4105-a234-66fdaddf2749": {
           "type": "column",
           "settings": {
@@ -575,17 +591,11 @@
             "text": "<p>„Az oktatók nagyon kedvesek, képzettek, minden helyzetben tudtak nekünk segíteni! Öröm volt velük a munka!\"<\/p>",
             "column_link": ""
           }
-        },
-        "00952047-e774-42d7-8f98-f04eb46712cb": {
-          "type": "column",
-          "settings": {
-            "title": "Palkó Bettina - HR Business Partner, Pepco",
-            "text": "<p>\"Kollégáink szívesen végezték a flow4learning online<br\/>kurzusait időgazdálkodás, mindfulness és delegálás témakörökben. Nagyon<br\/>jó vélemények érkeztek tőlük. A legtöbb pozitív visszajelzést a képzések<br\/>legfontosabb elemeire adták - az oktatók hitelességére és közvetlenségére,<br\/>illetve a munkafüzet használatára, amely hatékonyabbá és gyakorlatiasabbá tette<br\/>számukra az online tanulást.\"<\/p>",
-            "column_link": ""
-          }
         }
       },
       "block_order": [
+        "fc4f681d-f690-4b95-b350-f2062e69554a",
+        "00952047-e774-42d7-8f98-f04eb46712cb",
         "a7e8580a-4d7d-4105-a234-66fdaddf2749",
         "1bf83106-b11c-4c42-8cb8-34159dcc9ac2",
         "1626963112c776924e-0",
@@ -593,8 +603,7 @@
         "024a8c4c-5256-413b-9763-215d81395854",
         "1626963112c776924e-1",
         "1626963112c776924e-2",
-        "36630880-22a8-4165-b7b0-c7239267e962",
-        "00952047-e774-42d7-8f98-f04eb46712cb"
+        "36630880-22a8-4165-b7b0-c7239267e962"
       ],
       "settings": {
         "title": "Mit mondanak, akik velünk tanulnak?",
