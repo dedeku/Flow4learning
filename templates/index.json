@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/summer_v2.jpg",
             "title": "",
-            "text": "<p><strong>A tanulás nyáron is élmény<\/strong> 📚🏖️<\/p><p>Vedd meg most, és egy évig kéznél lesz - kedvezményes áron 😀<\/p>",
+            "text": "",
             "column_link": ""
           }
         },
@@ -16,7 +16,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Nem szeretnénk, hogy tanulnivaló nélkül maradj a nyáron 🏖️, ezért július végéig <strong>30% kedvezmény<\/strong>t adunk <strong>a honlapunkon elérhető összes<\/strong>, saját tempóban elvégezhető <strong>mini-és nagykurzusunkra<\/strong>.*<\/p><p>Kattints és használd a <strong>NYAR30 <\/strong>kuponkódot!<\/p>",
+            "text": "<p><strong>A tanulás nyáron is élmény<\/strong> 📚🏖️<\/p><p>Vedd meg most, és egy évig kéznél lesz - kedvezményes áron 😀<\/p><p>Nem szeretnénk, hogy tanulnivaló nélkül maradj a nyáron 🏖️, ezért július végéig <strong>30% kedvezmény<\/strong>t adunk <strong>a honlapunkon elérhető összes<\/strong>, saját tempóban elvégezhető <strong>mini-és nagykurzusunkra<\/strong>.*<\/p><p>Kattints és használd a <strong>NYAR30 <\/strong>kuponkódot!<\/p>",
             "column_link": ""
           }
         },
