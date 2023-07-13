@@ -858,8 +858,8 @@
         "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Kérem a kedvezményt",
+            "button_link": "https:\/\/flow4learning.hu\/collections\/all"
           }
         }
       },
