@@ -1,5 +1,43 @@
 {
   "sections": {
+    "058e4802-7f39-482f-9d05-324f33112af8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Szuper nyár - szuper akció"
+          }
+        },
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nem szeretnénk, hogy tanulnivaló nélkül maradj a nyáron 🏖️, ezért július végéig <strong>30% kedvezmény<\/strong>t adunk <strong>a honlapunkon elérhető összes<\/strong>, saját tempóban elvégezhető <strong>mini-és nagykurzusunkra<\/strong>.*<\/p><p>Kattints és használd a <strong>NYAR30 <\/strong>kuponkódot!<\/p>"
+          }
+        },
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Kérem a kedvezményt",
+            "button_link": "https:\/\/flow4learning.hu\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-0",
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-1",
+        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 769px) {.feature-row__image-wrapper > img {max-width: 300px; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/summer_v2.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "2223e229-6cfc-4348-9e61-1b0aed945dc9": {
       "type": "image-with-text",
       "disabled": true,
@@ -838,47 +876,10 @@
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content:center\"><iframe src=\"https:\/\/app.quizell.com\/quiz\/Q0ll1ha2wfMBWD0jxtLFMS439400\"  style=\"width: 100vw; height: 540px;\" frameborder=\"0\" ><\/iframe><\/div>"
       }
-    },
-    "058e4802-7f39-482f-9d05-324f33112af8": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Szuper nyár - szuper akció"
-          }
-        },
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Nem szeretnénk, hogy tanulnivaló nélkül maradj a nyáron 🏖️, ezért július végéig <strong>30% kedvezmény<\/strong>t adunk <strong>a honlapunkon elérhető összes<\/strong>, saját tempóban elvégezhető <strong>mini-és nagykurzusunkra<\/strong>.*<\/p><p>Kattints és használd a <strong>NYAR30 <\/strong>kuponkódot!<\/p>"
-          }
-        },
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Kérem a kedvezményt",
-            "button_link": "https:\/\/flow4learning.hu\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-0",
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-1",
-        "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2"
-      ],
-      "custom_css": [
-        "@media screen and (min-width: 769px) {.feature-row__image-wrapper > img {max-width: 300px; }}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/summer_v2.jpg",
-        "height": "large",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
+    "058e4802-7f39-482f-9d05-324f33112af8",
     "2223e229-6cfc-4348-9e61-1b0aed945dc9",
     "68a8900a-f5a5-49ef-abb7-05de9200455f",
     "1683464871b17adf47",
@@ -901,7 +902,6 @@
     "163524516749ec085a",
     "16631546700ec99936",
     "a88997fe-182e-44fe-8df5-cc5de385baba",
-    "2587e4e4-7f89-4760-8017-27e61cf896d9",
-    "058e4802-7f39-482f-9d05-324f33112af8"
+    "2587e4e4-7f89-4760-8017-27e61cf896d9"
   ]
 }
