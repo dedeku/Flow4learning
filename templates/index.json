@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>* A kedvezmény időtartama: 2023. június 28 - július 27. <\/strong>A kedvezmény minden saját tempóban elvégezhető mini- és nagykurzusunkra igénybevehető, de <strong>nem vonatkozik az ÉLŐ konzultációkat tartalmazó mentorált programjainkra<\/strong>. <\/p>",
+            "text": "<p><strong>* A kedvezmény időtartama: 2023. június 28 - július 27. <\/strong>A kedvezmény minden, saját tempóban elvégezhető mini- és nagykurzusunkra igénybevehető, de <strong>nem vonatkozik az ÉLŐ konzultációkat tartalmazó mentorált programjainkra<\/strong>. <\/p>",
             "column_link": ""
           }
         }
