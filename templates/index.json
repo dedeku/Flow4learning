@@ -868,6 +868,9 @@
         "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-1",
         "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-2"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 769px) {.feature-row__image-wrapper > img {max-width: 300px; }}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/summer.jpg",
         "height": "large",
