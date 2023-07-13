@@ -2,6 +2,7 @@
   "sections": {
     "058e4802-7f39-482f-9d05-324f33112af8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--15023211020464__058e4802-7f39-482f-9d05-324f33112af8-16892606530abde741-0": {
           "type": "heading",
@@ -876,6 +877,51 @@
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content:center\"><iframe src=\"https:\/\/app.quizell.com\/quiz\/Q0ll1ha2wfMBWD0jxtLFMS439400\"  style=\"width: 100vw; height: 540px;\" frameborder=\"0\" ><\/iframe><\/div>"
       }
+    },
+    "fb60fe37-b6b4-4f79-a9e5-691f423a8127": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/summer_v2.jpg",
+            "title": "",
+            "text": "<p><strong>A tanulás nyáron is élmény<\/strong> 📚🏖️<\/p><p>Vedd meg most, és egy évig kéznél lesz - kedvezményes áron 😀<\/p>",
+            "column_link": ""
+          }
+        },
+        "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Nem szeretnénk, hogy tanulnivaló nélkül maradj a nyáron 🏖️, ezért július végéig <strong>30% kedvezmény<\/strong>t adunk <strong>a honlapunkon elérhető összes<\/strong>, saját tempóban elvégezhető <strong>mini-és nagykurzusunkra<\/strong>.*<\/p><p>Kattints és használd a <strong>NYAR30 <\/strong>kuponkódot!<\/p>",
+            "column_link": ""
+          }
+        },
+        "0e1589a1-0aa7-4fcc-bd18-be3d4b9a8445": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>* A kedvezmény időtartama: 2023. június 28 - július 27. <\/strong>A kedvezmény minden saját tempóban elvégezhető mini- és nagykurzusunkra igénybevehető, de <strong>nem vonatkozik az ÉLŐ konzultációkat tartalmazó mentorált programjainkra<\/strong>. <\/p>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-0",
+        "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-1",
+        "0e1589a1-0aa7-4fcc-bd18-be3d4b9a8445"
+      ],
+      "settings": {
+        "title": "Szuper nyár - szuper akció",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -902,6 +948,7 @@
     "163524516749ec085a",
     "16631546700ec99936",
     "a88997fe-182e-44fe-8df5-cc5de385baba",
-    "2587e4e4-7f89-4760-8017-27e61cf896d9"
+    "2587e4e4-7f89-4760-8017-27e61cf896d9",
+    "fb60fe37-b6b4-4f79-a9e5-691f423a8127"
   ]
 }
