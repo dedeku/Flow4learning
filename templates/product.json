@@ -148,12 +148,6 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "fd43ab16-d66d-44c5-b0d4-3edaeaa5bc93": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{{ product.metafields.units.instructorID.value }}"
-      }
     }
   },
   "order": [
@@ -161,7 +155,6 @@
     "1632828242989022b2",
     "16329993304fdfcbff",
     "product-recommendations",
-    "16312618716e27a562",
-    "fd43ab16-d66d-44c5-b0d4-3edaeaa5bc93"
+    "16312618716e27a562"
   ]
 }
