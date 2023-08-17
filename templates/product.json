@@ -88,7 +88,7 @@
       "type": "apps",
       "blocks": {
         "f589b396-f539-4c90-a696-c5f558fbf142": {
-          "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/bundler-target-element\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-target-element\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
           "settings": {
           }
         }
@@ -119,7 +119,6 @@
     },
     "16312618716e27a562": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16312618716e27a562-0": {
           "type": "heading",
@@ -144,9 +143,16 @@
         "16312618716e27a562-1",
         "16312618716e27a562-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "fd43ab16-d66d-44c5-b0d4-3edaeaa5bc93": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{{ product.metafields.units.instructorID.value }}"
       }
     }
   },
@@ -155,6 +161,7 @@
     "1632828242989022b2",
     "16329993304fdfcbff",
     "product-recommendations",
-    "16312618716e27a562"
+    "16312618716e27a562",
+    "fd43ab16-d66d-44c5-b0d4-3edaeaa5bc93"
   ]
 }
