@@ -64,6 +64,12 @@
             "product": "{{product}}",
             "stars_text_empty": "Még nincs értékelés"
           }
+        },
+        "f7ccb2e7-67c3-49e6-bb29-815df6ee7f4f": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"sharethis-inline-share-buttons\"><\/div>"
+          }
         }
       },
       "block_order": [
@@ -76,7 +82,8 @@
         "buy_buttons",
         "description",
         "share",
-        "606de008-a40c-46b1-a391-a9acdcce0d65"
+        "606de008-a40c-46b1-a391-a9acdcce0d65",
+        "f7ccb2e7-67c3-49e6-bb29-815df6ee7f4f"
       ],
       "settings": {
         "enable_sticky_info": true,
