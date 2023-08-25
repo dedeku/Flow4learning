@@ -2,7 +2,6 @@
   "sections": {
     "fb60fe37-b6b4-4f79-a9e5-691f423a8127": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-0": {
           "type": "column",
@@ -35,6 +34,7 @@
         "template--15023211020464__fb60fe37-b6b4-4f79-a9e5-691f423a8127-16892617402c51431d-1",
         "0e1589a1-0aa7-4fcc-bd18-be3d4b9a8445"
       ],
+      "disabled": true,
       "settings": {
         "title": "Szuper nyár - szuper akció",
         "image_width": "full",
@@ -48,7 +48,6 @@
     },
     "2223e229-6cfc-4348-9e61-1b0aed945dc9": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-0": {
           "type": "heading",
@@ -75,6 +74,7 @@
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-1",
         "template--15023211020464__2223e229-6cfc-4348-9e61-1b0aed945dc9-1683788585a23e4c1a-2"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -87,7 +87,6 @@
     },
     "68a8900a-f5a5-49ef-abb7-05de9200455f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-0": {
           "type": "heading",
@@ -114,6 +113,7 @@
         "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-1",
         "template--15023211020464__68a8900a-f5a5-49ef-abb7-05de9200455f-168352602578b62171-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Flow_Consulting_ez_a_kurzus_neked_szol.jpg",
         "height": "adapt",
@@ -178,7 +178,6 @@
     },
     "a2c9b605-2c53-4845-9e28-ac00869ddaf2": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__a2c9b605-2c53-4845-9e28-ac00869ddaf2-1669468705b0362b9a-0": {
           "type": "column",
@@ -214,6 +213,7 @@
         "template--15023211020464__a2c9b605-2c53-4845-9e28-ac00869ddaf2-1669468705b0362b9a-1",
         "template--15023211020464__a2c9b605-2c53-4845-9e28-ac00869ddaf2-1669468705b0362b9a-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Ünnepi ajánlat 🎄",
         "image_width": "full",
@@ -318,7 +318,6 @@
     },
     "1626962693d2de0207": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "63caf05c-5e92-4201-9ec7-9f26029fd998": {
           "type": "column",
@@ -363,6 +362,7 @@
         "1626962693d2de0207-0",
         "1626962693d2de0207-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "full",
@@ -382,7 +382,6 @@
     },
     "16270189427248061e": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "16270189427248061e-2": {
           "type": "column",
@@ -397,6 +396,7 @@
       "block_order": [
         "16270189427248061e-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "half",
@@ -508,7 +508,6 @@
     },
     "16467323048087aced": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "164673230445e31de1-0": {
           "type": "heading",
@@ -535,6 +534,7 @@
         "164673230445e31de1-1",
         "164673230445e31de1-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/energizal-cut_79e359f0-e079-439d-baf6-9af865a0bdf0.jpg",
         "height": "adapt",
@@ -665,7 +665,6 @@
     },
     "16269636332e363e1f": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "16269636332e363e1f-0": {
           "type": "column",
@@ -750,6 +749,7 @@
         "b288d4af-aeff-47cd-ab1f-c04735cf315a",
         "df452405-7054-4bb2-b773-c1374ff3eda2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Akik tőlünk tanultak",
         "image_width": "half",
@@ -763,7 +763,6 @@
     },
     "16269636913ba50bcb": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16269636913ba50bcb-0": {
           "type": "heading",
@@ -788,6 +787,7 @@
         "16269636913ba50bcb-1",
         "16269636913ba50bcb-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "full_width": true
@@ -795,7 +795,6 @@
     },
     "163524516749ec085a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "163524516749ec085a-0": {
           "type": "heading",
@@ -822,6 +821,7 @@
         "163524516749ec085a-1",
         "163524516749ec085a-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/mbti2.jpg",
         "height": "adapt",
@@ -837,7 +837,6 @@
     },
     "a88997fe-182e-44fe-8df5-cc5de385baba": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-0": {
           "type": "heading",
@@ -869,6 +868,7 @@
         "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-1",
         "template--15023211020464__a88997fe-182e-44fe-8df5-cc5de385baba-1670053990de04e675-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/xmas_wide.jpg",
         "adapt_height_first_image": true,
@@ -882,6 +882,7 @@
     },
     "2587e4e4-7f89-4760-8017-27e61cf896d9": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content:center\"><iframe src=\"https:\/\/app.quizell.com\/quiz\/Q0ll1ha2wfMBWD0jxtLFMS439400\"  style=\"width: 100vw; height: 540px;\" frameborder=\"0\" ><\/iframe><\/div>"
       }
