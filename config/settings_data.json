@@ -57,6 +57,7 @@
           },
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "VÉGEZD EL IRÁNYTŰ - MEGOLDÁSOK VEZETŐI HELYZETEKRE CÍMŰ MINIKURZUSUNKAT, SZEPTEMBER 22-IG INGYEN!",
               "color_scheme": "accent-1",
