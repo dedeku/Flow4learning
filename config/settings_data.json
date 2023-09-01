@@ -48,9 +48,18 @@
           },
           "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Fejlesztési megoldások - KOMMUNIKÁCIÓ - ÖNISMERET - VEZETÉS",
               "color_scheme": "background-2",
+              "link": ""
+            }
+          },
+          "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e": {
+            "type": "announcement",
+            "settings": {
+              "text": "VÉGEZD EL IRÁNYTŰ - MEGOLDÁSOK VEZETŐI HELYZETEKRE CÍMŰ MINIKURZUSUNKAT, SZEPTEMBER 22-IG INGYEN!",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
@@ -58,7 +67,11 @@
         "block_order": [
           "a444bc0d-6409-46a4-974d-a8abe7b566cc",
           "announcement-bar-0",
-          "a9f19638-6dac-4e19-9379-76bec6ba3f6e"
+          "a9f19638-6dac-4e19-9379-76bec6ba3f6e",
+          "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
         }
