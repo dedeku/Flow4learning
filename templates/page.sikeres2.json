@@ -5,6 +5,41 @@
       "settings": {
       }
     },
+    "4cb75eb1-2437-41db-954c-604565fbb062": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ha elvégzed Iránytű – Megoldások mindennapi vezetői helyzetekre című minikurzusunkat<strong>, 20% KEDVEZMÉNYT<\/strong> kapsz a<strong> SIKERES VEZETŐ <\/strong>nagykurzusok árából.<\/p>"
+          }
+        },
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tovább az Iránytű kurzusra!",
+            "button_link": "shopify:\/\/products\/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-ingyenes"
+          }
+        }
+      },
+      "block_order": [
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-heading-1",
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-text-1",
+        "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Iranytu-Talent-Cover_3092d198-34de-494a-a147-0249f605ab75.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "165773057610a905e8": {
       "type": "custom-liquid",
       "settings": {
@@ -44,6 +79,7 @@
   },
   "order": [
     "main",
+    "4cb75eb1-2437-41db-954c-604565fbb062",
     "165773057610a905e8",
     "16578005015a43b98a",
     "16577961307bb572a4",
