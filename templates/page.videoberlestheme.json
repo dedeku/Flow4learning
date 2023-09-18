@@ -78,50 +78,6 @@
         "show_text_below": true
       }
     },
-    "ed04ca0b-27ac-4c54-98bf-e91b7199f651": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Alap csomag (min. 20 megrendelés esetén 6.000 Ft \/ fő):",
-            "text": "<ul><li>Az önismeret társas játék: <strong>Johari ablak<\/strong> a jobb<br\/>     kapcsolatokért<\/li><li><strong>Mindfulness alapok <\/strong>a tudatos életért: a jelenlét<br\/>     művészete<\/li><li><strong>Mindfulness<\/strong> a pillanatban: Légzésfigyelés<\/li><li><strong>Időrablók<\/strong> - szerezd vissza elvesztett<br\/>     perceidet!<\/li><li>Csúcsteljesítmény flow-ban: a <strong>flow elmélet<\/strong> és a hatékonyabb<br\/>     teljesítmény<\/li><li>A <strong>konfliktusok kezelésének<\/strong> 5 stratégiája<\/li><li>Az empátia művészete: <strong>értő figyelem<\/strong><\/li><li>Hogyan adj <strong>visszajelzést<\/strong>? A tények ereje. <\/li><li><strong>Vezetési Stílusok<\/strong>: irányítástól a delegálásig<\/li><li>Mi fán terem a <strong>delegálás<\/strong>?<\/li><li>A <strong>delegálás körei<\/strong> - mit delegálj és mit ne?<\/li><li>Hogyan vagyunk sokszínűek? A <strong>DISC<\/strong> személyiségmodell<\/li><\/ul>",
-            "column_link": ""
-          }
-        },
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Optimum csomag (min. 20 megrendelés esetén 8.000 Ft \/ fő):",
-            "text": "<p>Alap csomag +<\/p><ul><li><strong>Mindfulness<\/strong> a pillanatban: a Mazsola<br\/>     gyakorlat<\/li><li><strong>Prioritások<\/strong> párbaja: válj az idő mesterévé<br\/>     az <strong>Eisenhower mátrixszal<\/strong>!<\/li><li>Értsd meg, kit mi hajt: <strong>motivációs szükségletek<\/strong> a<br\/>     munkahelyen<\/li><li>A rugalmas gondolkodás ereje: <strong>fixed és growth mindset<\/strong><\/li><li>Kulcs a személyiségtípusokhoz: az <strong>MBTI modell<\/strong><\/li><li>Hogyan maradj konstruktív nehéz helyzetekben? <strong>Én-üzenet<\/strong> a<br\/>     gyakorlatban<\/li><li>Lépésről lépésre a vezetői ranglétrán - Leadership Pipeline Modell<br\/>     a hatékony vezetői fejlődésért<\/li><li>Lelkes kezdőtől a magabiztos profiig: a munkahelyi életciklus<\/li><li>Hozd flow-ba magadat és a munkatársaidat!<\/li><li>Delegálás lépésről lépésre: a felelősségátadás sikeres folyamata<\/li><li>Változások kezelése: hatékony stratégiák bizonytalan időkben<\/li><li>Vezetői sokoldalúság: fedezd fel a Quinn-modell nyolc vezetői<br\/>     szerepét<\/li><li>Hatékony felelősségvállalás: hogyan járd a problémamegoldás,<br\/>     megbízhatóság és fejlődés útját?<\/li><\/ul>",
-            "column_link": ""
-          }
-        },
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Prémium (min. 20 megrendelés esetén 11.000 Ft \/ fő):",
-            "text": "<p>Optimum csomag +<\/p><ul><li>Mindfulness bárhol, bármikor: a STOP gyakorlat<\/li><li>Személyiségtípusok a gyakorlatban: hatékony kommunikáció az MBTI<br\/>     segítségével<\/li><li>Válj kiváló beszélgetőpartnerré a visszatükrözés eszközével!<\/li><li>Helyzetfüggő vezetés - alakítsd tudatosan vezetői stílusodat<\/li><li>Appreciative Leadership: építs az erőforrásokra a csapatodban!<\/li><li>Shackleton-modell: hatékony vezetés zord körülmények között<\/li><li>A sikeres delegálás 6 pontja <\/li><li>Válts szemléletet: coaching a mindennapokban<\/li><li>Változások vezetése: formáld az ellenállásodat együttműködéssé<\/li><li>A felelősségvállalás létrája: Az áldozati<br\/>     szereptől a proaktív megoldásokig<\/li><\/ul>",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1",
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2",
-        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-3"
-      ],
-      "settings": {
-        "title": "Videóinkat 3 féle csomagban éred el:",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
       "type": "page",
       "settings": {
@@ -170,6 +126,50 @@
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "ed04ca0b-27ac-4c54-98bf-e91b7199f651": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Alap csomag (min. 20 megrendelés esetén 6.000 Ft \/ fő):",
+            "text": "<ul><li>Az önismeret társas játék: <strong>Johari ablak<\/strong> a jobb<br\/>     kapcsolatokért<\/li><li><strong>Mindfulness alapok <\/strong>a tudatos életért: a jelenlét<br\/>     művészete<\/li><li><strong>Mindfulness<\/strong> a pillanatban: Légzésfigyelés<\/li><li><strong>Időrablók<\/strong> - szerezd vissza elvesztett<br\/>     perceidet!<\/li><li>Csúcsteljesítmény flow-ban: a <strong>flow elmélet<\/strong> és a hatékonyabb<br\/>     teljesítmény<\/li><li>A <strong>konfliktusok kezelésének<\/strong> 5 stratégiája<\/li><li>Az empátia művészete: <strong>értő figyelem<\/strong><\/li><li>Hogyan adj <strong>visszajelzést<\/strong>? A tények ereje. <\/li><li><strong>Vezetési Stílusok<\/strong>: irányítástól a delegálásig<\/li><li>Mi fán terem a <strong>delegálás<\/strong>?<\/li><li>A <strong>delegálás körei<\/strong> - mit delegálj és mit ne?<\/li><li>Hogyan vagyunk sokszínűek? A <strong>DISC<\/strong> személyiségmodell<\/li><\/ul>",
+            "column_link": ""
+          }
+        },
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Optimum csomag (min. 20 megrendelés esetén 8.000 Ft \/ fő):",
+            "text": "<p>Alap csomag +<\/p><ul><li><strong>Mindfulness<\/strong> a pillanatban: a Mazsola<br\/>     gyakorlat<\/li><li><strong>Prioritások<\/strong> párbaja: válj az idő mesterévé<br\/>     az <strong>Eisenhower mátrixszal<\/strong>!<\/li><li>Értsd meg, kit mi hajt: <strong>motivációs szükségletek<\/strong> a<br\/>     munkahelyen<\/li><li>A rugalmas gondolkodás ereje: <strong>fixed és growth mindset<\/strong><\/li><li>Kulcs a személyiségtípusokhoz: az <strong>MBTI modell<\/strong><\/li><li>Hogyan maradj konstruktív nehéz helyzetekben? <strong>Én-üzenet<\/strong> a<br\/>     gyakorlatban<\/li><li>Lépésről lépésre a vezetői ranglétrán - Leadership Pipeline Modell<br\/>     a hatékony vezetői fejlődésért<\/li><li>Lelkes kezdőtől a magabiztos profiig: a munkahelyi életciklus<\/li><li>Hozd flow-ba magadat és a munkatársaidat!<\/li><li>Delegálás lépésről lépésre: a felelősségátadás sikeres folyamata<\/li><li>Változások kezelése: hatékony stratégiák bizonytalan időkben<\/li><li>Vezetői sokoldalúság: fedezd fel a Quinn-modell nyolc vezetői<br\/>     szerepét<\/li><li>Hatékony felelősségvállalás: hogyan járd a problémamegoldás,<br\/>     megbízhatóság és fejlődés útját?<\/li><\/ul>",
+            "column_link": ""
+          }
+        },
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Prémium (min. 20 megrendelés esetén 11.000 Ft \/ fő):",
+            "text": "<p>Optimum csomag +<\/p><ul><li>Mindfulness bárhol, bármikor: a STOP gyakorlat<\/li><li>Személyiségtípusok a gyakorlatban: hatékony kommunikáció az MBTI<br\/>     segítségével<\/li><li>Válj kiváló beszélgetőpartnerré a visszatükrözés eszközével!<\/li><li>Helyzetfüggő vezetés - alakítsd tudatosan vezetői stílusodat<\/li><li>Appreciative Leadership: építs az erőforrásokra a csapatodban!<\/li><li>Shackleton-modell: hatékony vezetés zord körülmények között<\/li><li>A sikeres delegálás 6 pontja <\/li><li>Válts szemléletet: coaching a mindennapokban<\/li><li>Változások vezetése: formáld az ellenállásodat együttműködéssé<\/li><li>A felelősségvállalás létrája: Az áldozati<br\/>     szereptől a proaktív megoldásokig<\/li><\/ul>",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1",
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2",
+        "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-3"
+      ],
+      "settings": {
+        "title": "Videóinkat 3 féle csomagban éred el:",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "79f9b634-f418-48f7-b010-dfd8aa79491a": {
@@ -227,9 +227,9 @@
     "1657731671dc82d271",
     "165773172903b9c8f4",
     "50677900-c1d0-4962-b678-061c5f3b048d",
-    "ed04ca0b-27ac-4c54-98bf-e91b7199f651",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4",
+    "ed04ca0b-27ac-4c54-98bf-e91b7199f651",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
     "2b9ae176-f741-48e9-9fb2-e64ebd06e5ca"
   ]
