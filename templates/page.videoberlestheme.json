@@ -117,9 +117,9 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Csomagok",
+        "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": true
+        "swipe_on_mobile": false
       }
     },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
