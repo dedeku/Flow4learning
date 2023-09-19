@@ -34,6 +34,41 @@
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
       }
     },
+    "f6fe81c1-a36e-4e21-849c-73715584277c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Videótár"
+          }
+        },
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Folyamatosan bővülő választékunk jelenleg 40-50 videóból áll. Ezekben a témákban tudunk tartalmat biztosítani ügyfeleink számára: vezetés, kommunikáció, konfliktuskezelés, önismeret. Néhány konkrét példa videós kínálatunkból: Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/p>"
+          }
+        },
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-heading-1",
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-text-1",
+        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/video_45142de7-4973-449a-a454-cd26f67dcb64.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "50677900-c1d0-4962-b678-061c5f3b048d": {
       "type": "image-banner",
       "blocks": {
@@ -67,6 +102,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1",
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/video_45142de7-4973-449a-a454-cd26f67dcb64.jpg",
         "adapt_height_first_image": true,
@@ -220,41 +256,6 @@
       "settings": {
         "custom_liquid": "<div id=\"tobbfele_konstrukcio_form\" style=\"text-align: center;\">\n<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_99  et_pb_css_mix_blend_mode_passthrough\">\n<div class=\"et_pb_module et_pb_text et_pb_text_97  et_pb_text_align_left et_pb_bg_layout_dark\">\n<div class=\"et_pb_text_inner\"><\/div>\n<\/div>\n<\/div>\n<\/div>\n{ets_cf_Kkw}"
       }
-    },
-    "f6fe81c1-a36e-4e21-849c-73715584277c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Videótár"
-          }
-        },
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Folyamatosan bővülő választékunk jelenleg 40-50 videóból áll. Ezekben a témákban tudunk tartalmat biztosítani ügyfeleink számára: vezetés, kommunikáció, konfliktuskezelés, önismeret. Néhány konkrét példa videós kínálatunkból: Leadership Pipeline modell, vezetési stílusok, helyzetfüggő vezetés, motiváció, konfliktuskezelési stílusok, értő figyelem, Eisenhower mátrix (időgazdálkodás), MBTI személyiségtípusok, a flow elmélet, mindfulness alapok. <\/p>"
-          }
-        },
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-heading-1",
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-text-1",
-        "template--15984578724016__f6fe81c1-a36e-4e21-849c-73715584277c-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/video_45142de7-4973-449a-a454-cd26f67dcb64.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -263,12 +264,12 @@
     "16577315886d4118c0",
     "1657731671dc82d271",
     "165773172903b9c8f4",
+    "f6fe81c1-a36e-4e21-849c-73715584277c",
     "50677900-c1d0-4962-b678-061c5f3b048d",
     "4e3ebcc5-8998-422e-9a60-db5000241b0f",
     "fc5cd8a3-cb04-4431-9bbd-a2f8d4b2c3f4",
     "ed04ca0b-27ac-4c54-98bf-e91b7199f651",
     "79f9b634-f418-48f7-b010-dfd8aa79491a",
-    "2b9ae176-f741-48e9-9fb2-e64ebd06e5ca",
-    "f6fe81c1-a36e-4e21-849c-73715584277c"
+    "2b9ae176-f741-48e9-9fb2-e64ebd06e5ca"
   ]
 }
