@@ -80,6 +80,7 @@
     },
     "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "videoberles-es-vasarlas"
       }
@@ -117,6 +118,7 @@
         "339e3c93-f525-4e66-af8d-49de88f9323e",
         "4772761d-140a-4b55-b9d0-b7a412f693dd"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/flow_videoberles.jpg",
         "adapt_height_first_image": true,
@@ -143,7 +145,7 @@
           "type": "column",
           "settings": {
             "title": "Optimum csomag",
-            "text": "<p><strong>Minimum 20 megrendelés esetén<\/strong> (8.000 Ft \/ fő):<\/p><p>Alap csomag +<\/p><ul><li><strong>Mindfulness<\/strong> a pillanatban: a Mazsola gyakorlat<\/li><li><strong>Prioritások<\/strong> párbaja: válj az idő mesterévé az <strong>Eisenhower mátrixszal<\/strong>!<\/li><li>Értsd meg, kit mi hajt: <strong>motivációs szükségletek<\/strong>  a munkahelyen<\/li><li>A rugalmas gondolkodás ereje: <strong>fixed és growth mindset<\/strong><\/li><li>Kulcs a személyiségtípusokhoz: az <strong>MBTI modell<\/strong><\/li><li>Hogyan maradj konstruktív nehéz helyzetekben? <strong>Én-üzenet<\/strong> a gyakorlatban<\/li><li>Lépésről lépésre a vezetői ranglétrán - <strong>Leadership Pipeline Modell <\/strong>a hatékony vezetői fejlődésért<\/li><li>Lelkes kezdőtől a magabiztos profiig: a <strong>munkahelyi életciklus<\/strong><\/li><li>Hozd <strong>flow-ba<\/strong> magadat és a munkatársaidat!<\/li><li>Delegálás lépésről lépésre: a <strong>felelősségátadás<\/strong> sikeres folyamata<\/li><li>Változások kezelése: hatékony stratégiák bizonytalan időkben<\/li><li>Vezetői sokoldalúság: fedezd fel a <strong>Quinn-modell<\/strong> nyolc vezetői szerepét<\/li><li>Hatékony felelősségvállalás: hogyan járd a <strong>problémamegoldás<\/strong>,  megbízhatóság és fejlődés útját?<\/li><\/ul>",
+            "text": "<p><strong>Minimum 20 megrendelés esetén<\/strong> (8.000 Ft \/ fő):<\/p><p>Alap csomag +<\/p><ul><li><strong>Mindfulness<\/strong> a pillanatban: a Mazsola<br\/>     gyakorlat<\/li><li><strong>Prioritások<\/strong> párbaja: válj az idő mesterévé<br\/>     az <strong>Eisenhower mátrixszal<\/strong>!<\/li><li>Értsd meg, kit mi hajt: <strong>motivációs szükségletek<\/strong> a<br\/>     munkahelyen<\/li><li>A rugalmas gondolkodás ereje: <strong>fixed és growth mindset<\/strong><\/li><li>Kulcs a személyiségtípusokhoz: az <strong>MBTI modell<\/strong><\/li><li>Hogyan maradj konstruktív nehéz helyzetekben? <strong>Én-üzenet<\/strong> a<br\/>     gyakorlatban<\/li><li>Lépésről lépésre a vezetői ranglétrán - <strong>Leadership Pipeline Modell<\/strong><br\/>     a hatékony vezetői fejlődésért<\/li><li>Lelkes kezdőtől a magabiztos profiig: a <strong>munkahelyi életciklus<\/strong><\/li><li>Hozd <strong>flow-ba<\/strong> magadat és a munkatársaidat!<\/li><li>Delegálás lépésről lépésre: a <strong>felelősségátadás<\/strong> sikeres folyamata<\/li><li>Változások kezelése: hatékony stratégiák bizonytalan időkben<\/li><li>Vezetői sokoldalúság: fedezd fel a <strong>Quinn-modell<\/strong> nyolc vezetői<br\/>     szerepét<\/li><li>Hatékony felelősségvállalás: hogyan járd a <strong>problémamegoldás<\/strong>,<br\/>     megbízhatóság és fejlődés útját?<\/li><\/ul>",
             "column_link": ""
           }
         },
