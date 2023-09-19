@@ -134,7 +134,6 @@
         "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/11116911_479.jpg",
             "title": "Alap csomag",
             "text": "<p><strong>Minimum 20 megrendelés esetén <\/strong>(6.000 Ft \/ fő):<\/p><ul><li>Az önismeret társas játék: <strong>Johari ablak<\/strong> a jobb     kapcsolatokért<\/li><li><strong>Mindfulness alapok <\/strong>a tudatos életért: a jelenlét művészete<\/li><li><strong>Mindfulness<\/strong> a pillanatban: Légzésfigyelés<\/li><li><strong>Időrablók<\/strong> - szerezd vissza elvesztett perceidet!<\/li><li>Csúcsteljesítmény flow-ban: a <strong>flow elmélet<\/strong> és a hatékonyabb teljesítmény<\/li><li>A <strong>konfliktusok kezelésének<\/strong> 5 stratégiája<\/li><li>Az empátia művészete: <strong>értő figyelem<\/strong><\/li><li>Hogyan adj <strong>visszajelzést<\/strong>? A tények ereje. <\/li><li><strong>Vezetési Stílusok<\/strong>: irányítástól a delegálásig<\/li><li>Mi fán terem a <strong>delegálás<\/strong>?<\/li><li>A <strong>delegálás körei<\/strong> - mit delegálj és mit ne?<\/li><li>Hogyan vagyunk sokszínűek? A <strong>DISC<\/strong> személyiségmodell<\/li><\/ul>",
             "column_link": ""
@@ -151,7 +150,7 @@
         "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-3": {
           "type": "column",
           "settings": {
-            "title": "Prémium",
+            "title": "Prémium csomag",
             "text": "<p>Minimum 20 megrendelés esetén <strong>11.000 Ft \/ fő<\/strong><\/p><p>Optimum csomag +<\/p><ul><li>Mindfulness bárhol, bármikor: a <strong>STOP gyakorlat<\/strong><\/li><li>Személyiségtípusok a gyakorlatban: hatékony kommunikáció az <strong>MBTI <\/strong>segítségével<\/li><li>Válj kiváló beszélgetőpartnerré a <strong>visszatükrözés<\/strong> eszközével!<\/li><li><strong>Helyzetfüggő vezetés<\/strong> - alakítsd tudatosan vezetői stílusodat<\/li><li><strong>Appreciative Leadership<\/strong>: építs az erőforrásokra a csapatodban!<\/li><li><strong>Shackleton<\/strong>-modell: hatékony vezetés zord körülmények között<\/li><li>A sikeres delegálás 6 pontja <\/li><li><strong>Válts szemléletet<\/strong>: coaching a mindennapokban<\/li><li><strong>Változások vezetése<\/strong>: formáld az ellenállásodat együttműködéssé<\/li><li>A <strong>felelősségvállalás<\/strong> létrája: Az áldozati<\/li><li>A szereptől a <strong>proaktív <\/strong>megoldásokig<\/li><\/ul>",
             "column_link": ""
           }
