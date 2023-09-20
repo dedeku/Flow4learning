@@ -70,6 +70,14 @@
               "color_scheme": "accent-2",
               "link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form"
             }
+          },
+          "592a69d7-35ed-4520-afed-a9b67c176107": {
+            "type": "announcement",
+            "settings": {
+              "text": "Videócsomagok kedvezményes áron",
+              "color_scheme": "accent-1",
+              "link": "https:\/\/flow4learning.hu\/pages\/videoberles-es-vasarlas"
+            }
           }
         },
         "block_order": [
@@ -77,7 +85,8 @@
           "announcement-bar-0",
           "a9f19638-6dac-4e19-9379-76bec6ba3f6e",
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e",
-          "84f86602-0812-4b4f-a1f0-d106a4ca3685"
+          "84f86602-0812-4b4f-a1f0-d106a4ca3685",
+          "592a69d7-35ed-4520-afed-a9b67c176107"
         ],
         "custom_css": [
 
