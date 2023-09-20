@@ -76,9 +76,10 @@
         "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/basic.png",
             "title": "Alap csomag (12 videó)",
-            "text": "<p>Minimum 20 megrendelés esetén <strong>6.000 Ft\/fő<\/strong><\/p><ul><li>Az önismeret társas játék: <strong>Johari ablak<\/strong> a jobb     kapcsolatokért<\/li><li><strong>Mindfulness alapok <\/strong>a tudatos életért: a jelenlét művészete<\/li><li><strong>Mindfulness<\/strong> a pillanatban: Légzésfigyelés<\/li><li><strong>Időrablók<\/strong> - szerezd vissza elvesztett perceidet!<\/li><li>Csúcsteljesítmény flow-ban: a <strong>flow elmélet<\/strong> és a hatékonyabb teljesítmény<\/li><li>A <strong>konfliktusok kezelésének<\/strong> 5 stratégiája<\/li><li>Az empátia művészete: <strong>értő figyelem<\/strong><\/li><li>Hogyan adj <strong>visszajelzést<\/strong>? A tények ereje. <\/li><li><strong>Vezetési Stílusok<\/strong>: irányítástól a delegálásig<\/li><li>Mi fán terem a <strong>delegálás<\/strong>?<\/li><li>A <strong>delegálás körei<\/strong> - mit delegálj és mit ne?<\/li><li>Hogyan vagyunk sokszínűek? A <strong>DISC<\/strong> személyiségmodell<\/li><\/ul>",
-            "column_link": ""
+            "text": "<p>Minimum 20 megrendelés esetén <strong>6.000 Ft\/fő<\/strong><\/p>",
+            "column_link": "shopify:\/\/pages\/alap-csomag-minimum-20-megrendeles-eseten-6-000-ft-fo"
           }
         },
         "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2": {
