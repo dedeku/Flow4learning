@@ -85,6 +85,7 @@
         "template--15984578724016__ed04ca0b-27ac-4c54-98bf-e91b7199f651-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/optimum.png",
             "title": "Optimum csomag (25 videó)",
             "text": "<p><a href=\"https:\/\/flow4learning.hu\/pages\/optimum-csomag\" target=\"_blank\" title=\"https:\/\/flow4learning.hu\/pages\/optimum-csomag\">Minimum 20 megrendelés esetén <strong>8.000 Ft \/ fő<\/strong><\/a><\/p>",
             "column_link": ""
