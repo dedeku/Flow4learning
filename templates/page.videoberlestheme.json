@@ -78,7 +78,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/basic.png",
             "title": "Alap csomag (12 videó)",
-            "text": "<p><a href=\"https:\/\/flow4learning.hu\/pages\/alap-csomag\" title=\"https:\/\/flow4learning.hu\/pages\/alap-csomag\">Minimum 20 megrendelés esetén <strong>6.000 Ft\/fő<\/strong><\/a><\/p>",
+            "text": "<p><a href=\"https:\/\/flow4learning.hu\/pages\/alap-csomag\" target=\"_blank\" title=\"https:\/\/flow4learning.hu\/pages\/alap-csomag\">Minimum 20 megrendelés esetén <\/a><strong>6.000 Ft\/fő<\/strong><\/p>",
             "column_link": "shopify:\/\/pages\/alap-csomag-minimum-20-megrendeles-eseten-6-000-ft-fo"
           }
         },
