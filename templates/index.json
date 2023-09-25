@@ -169,7 +169,7 @@
             "buttonLink_3": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-egyensuly-a-mindennapokban"
           }
         },
-        "f12f4c02-9226-4cce-b77d-305bafcf301b": {
+        "54344486-02be-4c26-a709-b927286c3b43": {
           "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/hero-slider\/4959f958-a614-4d73-add9-fc38222c9217",
           "settings": {
             "style": "4",
@@ -182,14 +182,14 @@
             "height": 600,
             "heightMode": "fixed",
             "makeSlidesLinks": false,
-            "image_1": "shopify:\/\/shop_images\/Iranytu-Talent-Cover_3092d198-34de-494a-a147-0249f605ab75.jpg",
-            "title_1": "IRÁNYTŰ – Megoldások mindennapi vezetői helyzetekre",
-            "subTitle_1": "<p>Végezd el az Iránytű minikurzust <strong>2023. szeptember 21-ig<\/strong>, és <strong>20% KEDVEZMÉNYT ADUNK SIKERES VEZETŐ<\/strong> képzéseink árából.<\/p>",
-            "button_1": "Tovább az Iránytű kurzusra!",
-            "buttonLink_1": "shopify:\/\/products\/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-ingyenes",
-            "title_2": "",
-            "subTitle_2": "",
-            "button_2": "",
+            "title_1": "",
+            "subTitle_1": "",
+            "button_1": "",
+            "buttonLink_1": "",
+            "image_2": "shopify:\/\/shop_images\/SV_full.jpg",
+            "title_2": "Sikeres vezető - Út a sikerhez",
+            "subTitle_2": "<p>Megtanulhatod, hogy hogyan vállalj felelősséget mások munkájáért<\/p>",
+            "button_2": "Megnézem, jelentkezem!",
             "buttonLink_2": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-ut-a-sikerhez",
             "image_3": "shopify:\/\/shop_images\/kihivasok.jpg",
             "title_3": "Sikeres vezető - Egyensúly a mindennapokban",
@@ -201,7 +201,7 @@
       },
       "block_order": [
         "27f9d479-6234-440c-bae3-4b1223a6f8d9",
-        "f12f4c02-9226-4cce-b77d-305bafcf301b"
+        "54344486-02be-4c26-a709-b927286c3b43"
       ],
       "settings": {
         "include_margins": true
