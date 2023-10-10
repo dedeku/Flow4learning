@@ -16,6 +16,7 @@
         },
         "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Ha elvégzed Iránytű – Megoldások mindennapi vezetői helyzetekre című minikurzusunkat<strong>, 20% KEDVEZMÉNYT<\/strong> kapsz a<strong> SIKERES VEZETŐ <\/strong>nagykurzusok árából.<\/p>"
           }
@@ -33,6 +34,7 @@
         "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-text-1",
         "template--15710212653232__4cb75eb1-2437-41db-954c-604565fbb062-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Iranytu-Talent-Cover_3092d198-34de-494a-a147-0249f605ab75.jpg",
         "height": "adapt",
