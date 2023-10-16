@@ -77,6 +77,17 @@
       "settings": {
         "page": "mibolleszazempowermentaccordion"
       }
+    },
+    "4233d956-808a-4a24-95cb-5dbdda0dfc11": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Nézd meg kisfilmünket arról, hogy mire számíthatsz a képzésen!",
+        "cover_image": "shopify:\/\/shop_images\/sv2-hirlevel.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NRz_BeweYDM",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -87,6 +98,7 @@
     "16577961307bb572a4",
     "1658140732bb6b3f80",
     "165779626538ab47fd",
-    "1658142526fd9738fb"
+    "1658142526fd9738fb",
+    "4233d956-808a-4a24-95cb-5dbdda0dfc11"
   ]
 }
