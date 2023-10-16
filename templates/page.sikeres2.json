@@ -5,6 +5,16 @@
       "settings": {
       }
     },
+    "4233d956-808a-4a24-95cb-5dbdda0dfc11": {
+      "type": "video",
+      "settings": {
+        "heading": "Nézd meg kisfilmünket arról, hogy mire számíthatsz a képzésen!",
+        "cover_image": "shopify:\/\/shop_images\/sv2-hirlevel.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NRz_BeweYDM",
+        "description": "",
+        "full_width": false
+      }
+    },
     "4cb75eb1-2437-41db-954c-604565fbb062": {
       "type": "image-with-text",
       "blocks": {
@@ -77,28 +87,17 @@
       "settings": {
         "page": "mibolleszazempowermentaccordion"
       }
-    },
-    "4233d956-808a-4a24-95cb-5dbdda0dfc11": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Nézd meg kisfilmünket arról, hogy mire számíthatsz a képzésen!",
-        "cover_image": "shopify:\/\/shop_images\/sv2-hirlevel.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=NRz_BeweYDM",
-        "description": "",
-        "full_width": false
-      }
     }
   },
   "order": [
     "main",
+    "4233d956-808a-4a24-95cb-5dbdda0dfc11",
     "4cb75eb1-2437-41db-954c-604565fbb062",
     "165773057610a905e8",
     "16578005015a43b98a",
     "16577961307bb572a4",
     "1658140732bb6b3f80",
     "165779626538ab47fd",
-    "1658142526fd9738fb",
-    "4233d956-808a-4a24-95cb-5dbdda0dfc11"
+    "1658142526fd9738fb"
   ]
 }
