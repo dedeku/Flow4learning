@@ -6,16 +6,17 @@
         "template--15984578724016__33aa50b5-3dd0-40f5-a112-c4d70524a39f-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Én és a csapatom: eredményes vezetés (16 oktatóvideó) – 8000 Ft + Áfa\/fő",
+            "text": "<p>Kifejezetten vezetőknek és menedzsereknek szóló videók, amik segítenek a hatékonyság növelésében és a csapat motiválásában.<\/p>",
             "column_link": ""
           }
         },
         "template--15984578724016__33aa50b5-3dd0-40f5-a112-c4d70524a39f-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/kihivasok2.jpg",
+            "title": "Megoldások a mindennapi kihívásokra (10 oktatóvideó) – 6000 Ft + Áfa\/fő",
+            "text": "<p>Hasznos tippek és technikák a mindennapi munkahelyi kihívások kezelésére elsősorban konfliktuskezelés, időgazdálkodás és stresszkezelés témájában.<\/p>",
             "column_link": ""
           }
         },
