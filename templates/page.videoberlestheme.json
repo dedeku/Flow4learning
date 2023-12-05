@@ -42,8 +42,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Írj nekünk, ha érdekel",
+        "button_link": "https:\/\/flow4learning.hu\/pages\/kapcsolat",
         "swipe_on_mobile": false
       }
     },
