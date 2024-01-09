@@ -39,11 +39,10 @@
           },
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "FlowReggelt! - Fókuszban a digitális megoldások",
-              "color_scheme": "background-2",
-              "link": "shopify:\/\/pages\/karacsony"
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/pages\/szeretettel-varunk-😍"
             }
           },
           "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
