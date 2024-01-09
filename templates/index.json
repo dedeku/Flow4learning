@@ -33,6 +33,7 @@
         "template--15023211020464__ac1bc4e7-603f-46fe-bfcc-f853a73625e4-text-1",
         "template--15023211020464__ac1bc4e7-603f-46fe-bfcc-f853a73625e4-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/flowreggelt.png",
         "adapt_height_first_image": true,
