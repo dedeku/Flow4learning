@@ -6,14 +6,14 @@
         "template--15023211020464__ac1bc4e7-603f-46fe-bfcc-f853a73625e4-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Szeretettel várunk programunkon, ahol személyesen is találkozhatsz a flow4learning csapatával, és olyan ügyfeleinkkel, akik már használnak digitális eszközöket. Oszd meg a digitális tanulással kapcsolatos tapasztalataidat, kérdéseidet, és légy részese közösségünk fejlődésének!",
+            "heading": "2024. február 1. 9-11 óra, a Flow-ban - 1146, Zichy Géza utca 5. 😊",
             "heading_size": "medium"
           }
         },
         "template--15023211020464__ac1bc4e7-603f-46fe-bfcc-f853a73625e4-text-1": {
           "type": "text",
           "settings": {
-            "text": "A részvétel ingyenes, jelezd kérlek, ha jössz, hogy számítsunk rád! 2024. február 1. 9-11 óra, a Flow-ban - 1146, Zichy Géza utca 5. 😊"
+            "text": "Szeretettel várunk programunkon, ahol személyesen is találkozhatsz a flow4learning csapatával, és olyan ügyfeleinkkel, akik már használnak digitális eszközöket. Oszd meg a digitális tanulással kapcsolatos tapasztalataidat, kérdéseidet, és légy részese közösségünk fejlődésének! A részvétel ingyenes, jelezd, ha jössz, hogy számítsunk rád!"
           }
         },
         "template--15023211020464__ac1bc4e7-603f-46fe-bfcc-f853a73625e4-buttons-1": {
@@ -35,7 +35,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/flowreggelt.png",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
