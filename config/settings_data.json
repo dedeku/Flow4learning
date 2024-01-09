@@ -41,8 +41,8 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "KARÁCSONYI AKCIÓ CÉGEKNEK",
-              "color_scheme": "background-1",
+              "text": "FlowReggelt! - Fókuszban a digitális megoldások",
+              "color_scheme": "background-2",
               "link": "shopify:\/\/pages\/karacsony"
             }
           },
