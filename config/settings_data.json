@@ -66,11 +66,10 @@
           },
           "84f86602-0812-4b4f-a1f0-d106a4ca3685": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "40 EZER FORINT KEDVEZMÉNY – VÉGEZD EL AZ INGYENES KURZUST, ÉS SZEREZD MEG AKCIÓSAN A SIKERES VEZETŐ KÉPZÉSEINKET!",
-              "color_scheme": "accent-2",
-              "link": "https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form"
+              "text": "Utolsó lehetőség: január 31-ig még tavalyi áron jelentkezhetsz Sikeres vezető képzéseinkre!",
+              "color_scheme": "accent-1",
+              "link": ""
             }
           },
           "592a69d7-35ed-4520-afed-a9b67c176107": {
