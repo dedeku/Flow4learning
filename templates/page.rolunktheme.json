@@ -40,22 +40,10 @@
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Nagyon szerettem volna Nektek visszajelzést adni, aztán mindig elmaradt, közben a lányom is megszületett, így máshol volt a fókuszom, most viszont szeretném megköszönni, hogy részt vehettem ezen a kurzuson.\n \nFőleg a coviddal terhelt időszak óta lettem a különböző online képzések gyűjtögetője, tényleg rengeteget megcsináltam, lementettem, aztán soha nem is foglalkoztam vele, mert vagy nem tudott újat adni vagy az 5 percétől volt egy förtelem az egész.\n A Flow képzése viszont párját ritkítja, minden egyes anyaga egy igazi kincs, komolyan. Annyira jó volt úgy belekezdeni egy anyagba, hogy kristálytisztán láttam magam előtt az egység célját és főbb pontjait, ahogyan feladatokkal kíséritek az egész folyamatot és nemcsak a végén zúdul ránk a \"házi\", aminek nem is kell mondanom, hogy mennyi-mennyi haszna van. A videós anyagoknál is szuper volt, hogy nem kellett 40-60 perces monstrumelőadásokkal birkózni, hanem rövid, jól emészthető adagokban kaptuk a tudást.\n\nEgyrészt már a tervezettsége miatt is érdemes lenne a magyar tanárok javarészének belepillantani ebbe a kurzusba, másrészt a szemlélet miatt. Először féltem attól, hogy mit is keresek itt, de anyagról anyagra haladva jöttem rá, hogy csak megfelelően kell átfordítani a mi kereteinkre az elhangzottakat és máris annyi mindent tudnánk fejleszteni a mindennapokban, hogy tátva marad mindenki szája.\n \nNem biztos, hogy így írásban át tudom adni azt a hálát, amit érzek. Hatalmas ajándék az, hogy Tőletek tanulhattam, hogy ennyi profi szakember tudásából meríthettem.\n \nTovábbi sok sikert és eredményes, boldog napokkal teli új évet kívánok!\n\n<\/p>\n<p class=\"alairas\">Balogh Bence<\/p>\n<p>Biológia, történelem szakos tanár<\/p>\n<\/div>"
       }
     },
-    "165773057610a905e8": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
-      }
-    },
     "165773107458610a06": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
-      }
-    },
-    "16577315886d4118c0": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
       }
     },
     "1657731671dc82d271": {
@@ -69,16 +57,28 @@
       "settings": {
         "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
       }
+    },
+    "165773057610a905e8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
+      }
+    },
+    "16577315886d4118c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
+      }
     }
   },
   "order": [
     "main",
     "1657737936413209cc",
     "custom_liquid_EBkBLc",
-    "165773057610a905e8",
     "165773107458610a06",
-    "16577315886d4118c0",
     "1657731671dc82d271",
-    "165773172903b9c8f4"
+    "165773172903b9c8f4",
+    "165773057610a905e8",
+    "16577315886d4118c0"
   ]
 }
