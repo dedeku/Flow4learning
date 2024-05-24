@@ -32,9 +32,9 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "Ajándékozz tudást karácsonyra!",
+              "text": "Trendek a digitális tanulás világában",
               "color_scheme": "accent-1",
-              "link": "https:\/\/flow4learning.hu\/pages\/karacsony"
+              "link": ""
             }
           },
           "announcement-bar-0": {
