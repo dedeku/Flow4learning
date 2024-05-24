@@ -42,10 +42,10 @@
     },
     "50677900-c1d0-4962-b678-061c5f3b048d": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Testreszabott megoldások",
             "heading_size": "large"
@@ -53,12 +53,14 @@
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Bármilyen képzési programot tervezel, érdemes átgondolni, hogy mitől lesz igazán dinamikus és eredményes."
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "",
             "button_link_1": "",
@@ -74,8 +76,9 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1",
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_Barmilyen_kepzesi_programot_tervezel.jpg",
+        "image": "shopify:\/\/shop_images\/Trendek_a_digitalis_tanulas_vilagaban.png",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -94,7 +97,6 @@
     },
     "79f9b634-f418-48f7-b010-dfd8aa79491a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
           "type": "heading",
@@ -123,6 +125,7 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
         "height": "adapt",
@@ -139,20 +142,6 @@
     },
     "1685910941e117bb88": {
       "type": "apps",
-      "blocks": {
-        "de8a9fe1-bc68-4439-902d-e8190279b584": {
-          "type": "shopify:\/\/apps\/quizell\/blocks\/quizeel-new\/be73d783-51c5-48d3-b979-2641da706c4e",
-          "settings": {
-            "quizz_id": "kIehMKyl5MLXrpeYwnRRMS426300",
-            "quizz_display_type": "1",
-            "quiz_height_type": "2",
-            "iframe_height": 100
-          }
-        }
-      },
-      "block_order": [
-        "de8a9fe1-bc68-4439-902d-e8190279b584"
-      ],
       "settings": {
         "include_margins": true
       }
