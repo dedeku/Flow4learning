@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "165773057610a905e8": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
+      }
+    },
+    "165773107458610a06": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
+      }
+    },
+    "16577315886d4118c0": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
+      }
+    },
+    "1657731671dc82d271": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂<\/p>\n<p class=\"alairas\">Györke-Szilágyi Éva<\/p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.<\/p>\n<\/div>"
+      }
+    },
+    "165773172903b9c8f4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
+      }
+    },
+    "50677900-c1d0-4962-b678-061c5f3b048d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Testreszabott megoldások",
+            "heading_size": "large"
+          }
+        },
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Bármilyen képzési programot tervezel, érdemes átgondolni, hogy mitől lesz igazán dinamikus és eredményes."
+          }
+        },
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-0",
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1",
+        "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Trendek_a_digitalis_tanulas_vilagaban.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "a-digitalis-eszkozok-hasznalata"
+      }
+    },
+    "79f9b634-f418-48f7-b010-dfd8aa79491a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Amikor mi állítunk össze képzési programot, mindenképpen széles eszközválasztékkal dolgozunk, és építünk ezekre a digitális eszközökre. A te igényeidre szabjuk a megoldásokat, legyen az személyes, online, vagy blended program. Ha te adod a tematikát és mi a tartalmat, ha te adod a tartalmat és ahhoz szeretnél digitális megoldásokat, vagy ha megvan a programod, és csak egy-egy részéhez kérsz ötleteket-támogatást – mindegyik megoldásban tudunk segíteni.<\/p>"
+          }
+        },
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
+        "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "07d4524f-1cc0-4389-92b9-0bd112350a0b": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "adatkezelesi-tajekoztato"
+      }
+    },
+    "1685910941e117bb88": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165773057610a905e8",
+    "165773107458610a06",
+    "16577315886d4118c0",
+    "1657731671dc82d271",
+    "165773172903b9c8f4",
+    "50677900-c1d0-4962-b678-061c5f3b048d",
+    "4e3ebcc5-8998-422e-9a60-db5000241b0f",
+    "79f9b634-f418-48f7-b010-dfd8aa79491a",
+    "07d4524f-1cc0-4389-92b9-0bd112350a0b",
+    "1685910941e117bb88"
+  ]
+}
