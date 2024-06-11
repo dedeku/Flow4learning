@@ -5,15 +5,6 @@
       "settings": {
       }
     },
-    "video_DzpMzX": {
-      "type": "video",
-      "settings": {
-        "heading": "Nézd meg kisfilmünket arról, hogy mire számíthatsz a képzésen!",
-        "video_url": "https:\/\/youtu.be\/3myXC1dD4Ws",
-        "description": "",
-        "full_width": false
-      }
-    },
     "ae59c1a3-17d7-45f3-9d99-c5a110226b0f": {
       "type": "image-with-text",
       "blocks": {
@@ -89,7 +80,6 @@
   },
   "order": [
     "main",
-    "video_DzpMzX",
     "ae59c1a3-17d7-45f3-9d99-c5a110226b0f",
     "165773057610a905e8",
     "16578005015a43b98a",
