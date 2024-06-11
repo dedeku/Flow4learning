@@ -5,6 +5,16 @@
       "settings": {
       }
     },
+    "video_B6YeJ7": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/Sikeres_vezeto.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=3myXC1dD4Ws",
+        "description": "",
+        "full_width": false
+      }
+    },
     "ae59c1a3-17d7-45f3-9d99-c5a110226b0f": {
       "type": "image-with-text",
       "blocks": {
@@ -80,6 +90,7 @@
   },
   "order": [
     "main",
+    "video_B6YeJ7",
     "ae59c1a3-17d7-45f3-9d99-c5a110226b0f",
     "165773057610a905e8",
     "16578005015a43b98a",
