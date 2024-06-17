@@ -37,24 +37,6 @@
               "link": ""
             }
           },
-          "announcement-bar-0": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "FlowReggelt! - Fókuszban a digitális megoldások",
-              "color_scheme": "background-2",
-              "link": "shopify:\/\/pages\/karacsony"
-            }
-          },
-          "a9f19638-6dac-4e19-9379-76bec6ba3f6e": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Fejlesztési megoldások - KOMMUNIKÁCIÓ - ÖNISMERET - VEZETÉS",
-              "color_scheme": "background-2",
-              "link": ""
-            }
-          },
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e": {
             "type": "announcement",
             "disabled": true,
@@ -64,30 +46,18 @@
               "link": "https:\/\/flow4learning.hu\/products\/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-ingyenes"
             }
           },
-          "84f86602-0812-4b4f-a1f0-d106a4ca3685": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Április 18-án indulunk! Jelentkezz 15% kedvezménnyel most induló Sikeres vezető 2-es képzésünkre",
-              "color_scheme": "accent-1",
-              "link": "https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-egyensuly-a-mindennapokban"
-            }
-          },
           "592a69d7-35ed-4520-afed-a9b67c176107": {
             "type": "announcement",
             "settings": {
-              "text": "Kedvezményes videócsomag ajánlatok",
+              "text": "Brandfizz országos munkáltatói márka felmérés - Töltsd ki a kérdőívet Te is!",
               "color_scheme": "accent-2",
-              "link": "https:\/\/flow4learning.hu\/pages\/videoberles-es-vasarlas"
+              "link": "https:\/\/flow.hu\/a-flow-consulting-a-brandfizz-orszagos-munkaltatoi-marka-felmeres-szakmai-partnere\/"
             }
           }
         },
         "block_order": [
           "a444bc0d-6409-46a4-974d-a8abe7b566cc",
-          "announcement-bar-0",
-          "a9f19638-6dac-4e19-9379-76bec6ba3f6e",
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e",
-          "84f86602-0812-4b4f-a1f0-d106a4ca3685",
           "592a69d7-35ed-4520-afed-a9b67c176107"
         ],
         "custom_css": [
