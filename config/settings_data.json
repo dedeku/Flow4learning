@@ -57,6 +57,7 @@
           },
           "592a69d7-35ed-4520-afed-a9b67c176107": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Tanulj velünk nyáron 30% kedvezménnyel - használd a NYAR30 kuponkódot",
               "color_scheme": "accent-2",
