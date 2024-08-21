@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "ac1bc4e7-603f-46fe-bfcc-f853a73625e4": {
@@ -227,10 +236,10 @@
             "height": 600,
             "heightMode": "fixed",
             "makeSlidesLinks": false,
-            "image_1": "shopify:\/\/shop_images\/Fekvo_compass_Kitoltom.png",
-            "title_1": "Országos Munkáltatói Márka Felmérés",
-            "subTitle_1": "<p>A Flow Consulting a 2024-es<br\/>Brandfizz országos munkáltatói márka felmérés szakmai partnere <\/p>",
-            "button_1": "Kitöltöm",
+            "image_1": "shopify:\/\/shop_images\/Iranytu-facebook_cover2024.jpg",
+            "title_1": "",
+            "subTitle_1": "<p>Kattints és végezd el Te is Iránytű kurzusunkat INGYEN! <\/p>",
+            "button_1": "Elvégzem",
             "buttonLink_1": "https:\/\/brandfizz.hu\/munkaltatoi-marka-felmeres\/#kerdoiv\/?utm_medium=social&utm_source=Flow&utm_campaign=Compass2024_Flow",
             "image_2": "shopify:\/\/shop_images\/SV_full.jpg",
             "title_2": "Sikeres vezető - út a sikerhez",
