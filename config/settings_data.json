@@ -57,6 +57,7 @@
           },
           "592a69d7-35ed-4520-afed-a9b67c176107": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Végezd el Iránytű - Megoldások mindennapi vezetői helyzetekre kurzusunkat szeptember 6-ig INGYEN!",
               "color_scheme": "accent-2",
