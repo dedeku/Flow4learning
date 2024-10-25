@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,35 +19,35 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂<\/p>\n<p class=\"alairas\">Józsa Ibolya<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"></span>\n<p>Nagyon tetszik a képzés, elindította a kérdéseket bennem, és szép sorjában vizsgálgatom a kérdőjeleket. Izgalmas alkalmazni a tanultakat és főleg a hatásukat figyelni. A reakciók mindig is érdekeltek. Köszönöm, hogy kaptam lehetőséget és módszereket arra, hogy jobb barát és jobb kolléga legyek. Jöhet a gyakorlat 🙂</p>\n<p class=\"alairas\">Józsa Ibolya</p>\n</div>"
       }
     },
     "165773107458610a06": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.<\/p>\n<p class=\"alairas\">Farkas Fanni<\/p>\n<p>Employer Branding Offizzer, Brandfizz<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"></span>\n<p>Nagyon élveztem a kurzust. Azt vettem észre a mindennapokban, hogy egyre analitikusabb szemmel vizsgálom magam és a kollégáimat is, szívesen mélyedek el magamban egy-egy szituáció vagy viselkedés kapcsán. A helyzetek felismerése egyre kevésbé okoz kihívást. Az első modul inkább az önképem formálásában, míg a második inkább a többiekkel való viszonyulásomban nyújt segítséget.</p>\n<p class=\"alairas\">Farkas Fanni</p>\n<p>Employer Branding Offizzer, Brandfizz</p>\n</div>"
       }
     },
     "16577315886d4118c0": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.<\/p>\n<p class=\"alairas\">Gonda Orsolya<\/p>\n<p>Értékesítési csoportvezető, Szallas.hu<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"></span>\n<p>Hasznos információkat kaptam, gyakorlatias volt, jól felkészült trénerekkel találkoztam.</p>\n<p class=\"alairas\">Gonda Orsolya</p>\n<p>Értékesítési csoportvezető, Szallas.hu</p>\n</div>"
       }
     },
     "1657731671dc82d271": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"><\/span>\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂<\/p>\n<p class=\"alairas\">Györke-Szilágyi Éva<\/p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"rolunkMondtak\"><span class=\"rolunkJel\"></span>\n<p>Nagyon köszönöm a Vezetői Önismeret során kapott sok-sok ismeretet, támogatást, és a nagyon jó hangulatú live alkalmakat.\nA tanultak alapján elindultam egy tanulási úton, amihez az indító lépéseket a kurzus nélkül nem tudtam volna megtenni. Nagyon hasznos számomra az ebben adott támogatásotok.\nKöszönöm! Nagy érdeklődéssel várom a következő felvonást 🙂</p>\n<p class=\"alairas\">Györke-Szilágyi Éva</p>\n<p>Ügyvezető, Bilingual Nonprofit Kft.</p>\n</div>"
       }
     },
     "165773172903b9c8f4": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"><\/span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.<\/p>\n<p class=\"alairas\">Riskó Zoltán<\/p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"rolunkMondtak\">\n<span class=\"rolunkJel\"></span>\n<p>Vezetőként számomra nagyon értékes összefoglaló az eddigi tananyag, mini MBA-nek élem meg, szerencsés, aki ebbe belevág. Jöttek új impulzusok, amelyek felkavarták az állóvizet bennem, igyekszem ezt a lendületet napi formálódásra kihasználni. Sokat segített a személyes figyelem, noszogatás is.</p>\n<p class=\"alairas\">Riskó Zoltán</p>\n<p>Tulajdonos, ügyvezető, Gépészek Társasága Kft.</p>\n</div>"
       }
     },
     "50677900-c1d0-4962-b678-061c5f3b048d": {
@@ -54,7 +63,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-1": {
           "type": "text",
           "settings": {
-            "text": "Az elmúlt évek zaklatott és elszigetelt időszaka után egyre többen szeretnének újra együtt lenni a csapatukkal. Jó újra közösen gondolkodni, szakmailag, üzletileg és emberileg egyaránt fontos személyes találkozásokban, eseményeken részt venni. Minden együttműködési feladat építi a csapatot, és egy közösen összerakott videóanyag emléknek is megmarad. Amennyiben a kisebb csoportok feladatainak része egy videó összeállítása, mi vállaljuk annak profi vágását, igény szerint animációkkal bővítjük és minőségi videóanyaggá formáljuk - legyen az szakmai vagy éppen társasági eseményről szóló tartalom."
+            "text": "Az elfoglalt és zaklatott és hétköznapok közben egyre többen szeretnének egy pillanatra megállni és csak együtt lenni a csapatukkal. Jól esik közösen gondolkodni, fontos személyes találkozásokban, eseményeken részt venni. Minden együttműködési feladat építi a csapatot, és egy közösen összerakott videóanyag emléknek is megmarad. Amennyiben a kisebb csoportok feladatainak része egy videó összeállítása, mi vállaljuk annak profi vágását, igény szerint animációkkal bővítjük és minőségi videóanyaggá formáljuk - legyen az szakmai vagy éppen társasági eseményről szóló tartalom."
           }
         },
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2": {
@@ -75,7 +84,7 @@
         "template--15023211446448__50677900-c1d0-4962-b678-061c5f3b048d-1666246055fd5ec1da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/02_flow_bg.jpg",
+        "image": "shopify://shop_images/02_flow_bg.jpg",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": false,
@@ -94,7 +103,6 @@
     },
     "79f9b634-f418-48f7-b010-dfd8aa79491a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-0": {
           "type": "heading",
@@ -106,7 +114,7 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Amikor mi állítunk össze képzési programot, mindenképpen széles eszközválasztékkal dolgozunk, és építünk ezekre a digitális eszközökre. A te igényeidre szabjuk a megoldásokat, legyen az személyes, online, vagy blended program. Ha te adod a tematikát és mi a tartalmat, ha te adod a tartalmat és ahhoz szeretnél digitális megoldásokat, vagy ha megvan a programod, és csak egy-egy részéhez kérsz ötleteket-támogatást – mindegyik megoldásban tudunk segíteni.<\/p>"
+            "text": "<p>Amikor mi állítunk össze képzési programot, mindenképpen széles eszközválasztékkal dolgozunk, és építünk ezekre a digitális eszközökre. A te igényeidre szabjuk a megoldásokat, legyen az személyes, online, vagy blended program. Ha te adod a tematikát és mi a tartalmat, ha te adod a tartalmat és ahhoz szeretnél digitális megoldásokat, vagy ha megvan a programod, és csak egy-egy részéhez kérsz ötleteket-támogatást – mindegyik megoldásban tudunk segíteni.</p>"
           }
         },
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2": {
@@ -123,8 +131,9 @@
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-1",
         "template--15023211446448__79f9b634-f418-48f7-b010-dfd8aa79491a-1666247133ba30dea6-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/flow_girl_001.jpg",
+        "image": "shopify://shop_images/flow_girl_001.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
