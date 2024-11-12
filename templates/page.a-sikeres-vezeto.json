@@ -1,21 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "16581654493f81e703": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a35dfb3881f646189eae71b2c5914ecf.mp4\" type=\"video\/mp4\">\n    Your browser does not support the video tag.\n  <\/video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!<\/h1>\n<p>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek<\/p>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#shopify-section-template--15710762533040__165816904697061436\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form\">Jelentkezem a képzésre<\/a><\/div>\n  <\/div>\n<\/div>"
+        "custom_liquid": "<div class=\"video-wrapper\">\n  <video playsinline autoplay muted loop>\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/a35dfb3881f646189eae71b2c5914ecf.mp4\" type=\"video/mp4\">\n    Your browser does not support the video tag.\n  </video>\n\n  <div class=\"videoHeader\">\n    <h1>SAJÁTÍTSD EL A SIKERES VEZETŐK<br>\nNÉLKÜLÖZHETETLEN KÉSZSÉGEIT!</h1>\n<p>2 hónapos intenzív vezetőképzés frissen<br> kinevezett vagy leendő vezetőknek</p>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"#shopify-section-template--15710762533040__165816904697061436\">További információt szeretnék</a>\n    <a class=\"narancsGomb\" href=\"https://flow4learning.hu/pages/jelentkezes/#jelentkezz_te_is_form\">Jelentkezem a képzésre</a></div>\n  </div>\n</div>"
       }
     },
     "165816904697061436": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2>VEZETŐNEK LENNI NEM CSAK SZAKMAILAG, <br>HANEM EMBERILEG IS KIHÍVÁS<\/h2>\n<p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerülnek magasabb pozícióba, és nem okvetlenül vezetői kompetenciáik alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják ezeket a szituációkat az érintett munkatársakkal megfelelően kezelni, kommunikálni.<\/p>\n<p><b>Ha velünk tartasz, 2 hónap alatt felvértezünk azokkal a nélkülözhetetlen kommunikációs és egyéb vezetői kompetenciákkal, amelyek elsajátítása a saját bőrödön megtapasztalva évekbe telhet. Mentorált képzési programunk eredményeképpen…<\/b><\/p>"
+        "custom_liquid": "<h2>VEZETŐNEK LENNI NEM CSAK SZAKMAILAG, <br>HANEM EMBERILEG IS KIHÍVÁS</h2>\n<p>A frissen kinevezett vezetők nagy része szakmai teljesítményük alapján kerülnek magasabb pozícióba, és nem okvetlenül vezetői kompetenciáik alapján. A legnagyobb nehézségük, hogy nincs még tapasztalatuk abban, milyen az, amikor már nem csak a saját, hanem mások munkájáért is felelősséggel tartoznak, és hogyan tudják ezeket a szituációkat az érintett munkatársakkal megfelelően kezelni, kommunikálni.</p>\n<p><b>Ha velünk tartasz, 2 hónap alatt felvértezünk azokkal a nélkülözhetetlen kommunikációs és egyéb vezetői kompetenciákkal, amelyek elsajátítása a saját bőrödön megtapasztalva évekbe telhet. Mentorált képzési programunk eredményeképpen…</b></p>"
       }
     },
     "1658169430f4e61546": {
@@ -24,27 +32,27 @@
         "165816943008e4e465-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_tudatos_kommunikacio_ikon.png",
+            "image": "shopify://shop_images/flow_tudatos_kommunikacio_ikon.png",
             "title": "",
-            "text": "<p><strong>Tudatosabban és hatásosabban fogsz kommunikálni<\/strong><\/p>",
+            "text": "<p><strong>Tudatosabban és hatásosabban fogsz kommunikálni</strong></p>",
             "column_link": ""
           }
         },
         "09d73ab9-af48-430d-a6ed-42685d5a9be3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_jobb_kapcsolat_ikon.png",
+            "image": "shopify://shop_images/flow_jobb_kapcsolat_ikon.png",
             "title": "",
-            "text": "<p><strong>Jobb kapcsolatod alakul ki a munkatársaiddal<\/strong><\/p>",
+            "text": "<p><strong>Jobb kapcsolatod alakul ki a munkatársaiddal</strong></p>",
             "column_link": ""
           }
         },
         "165816943008e4e465-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_hatekony_konfliktuskezeles_ikon.png",
+            "image": "shopify://shop_images/flow_hatekony_konfliktuskezeles_ikon.png",
             "title": "",
-            "text": "<p><strong>Hatékonyabban fogod kezelni a konfliktusokat<\/strong><\/p>",
+            "text": "<p><strong>Hatékonyabban fogod kezelni a konfliktusokat</strong></p>",
             "column_link": ""
           }
         }
@@ -71,18 +79,18 @@
         "165817057140b08f8a-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_motivalt_munkatars_ikon.png",
+            "image": "shopify://shop_images/flow_motivalt_munkatars_ikon.png",
             "title": "",
-            "text": "<p><strong>Motiváltabb munkatársak vesznek majd körül<\/strong><\/p>",
+            "text": "<p><strong>Motiváltabb munkatársak vesznek majd körül</strong></p>",
             "column_link": ""
           }
         },
         "165817057140b08f8a-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flow_kimagaslo_eredmeny_ikon.png",
+            "image": "shopify://shop_images/flow_kimagaslo_eredmeny_ikon.png",
             "title": "",
-            "text": "<p><strong>Kimagasló eredményekre leszel képes<\/strong><\/p>",
+            "text": "<p><strong>Kimagasló eredményekre leszel képes</strong></p>",
             "column_link": ""
           }
         }
@@ -106,8 +114,8 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "cover_image": "shopify:\/\/shop_images\/maxresdefault.webp",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=koQRn70hlpQ",
+        "cover_image": "shopify://shop_images/maxresdefault.webp",
+        "video_url": "https://www.youtube.com/watch?v=koQRn70hlpQ",
         "description": "",
         "full_width": false
       }
@@ -115,13 +123,13 @@
     "1658173608b3bcf81c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h1>CSATLAKOZZ TE IS, ÉS KÉSZÜLJ FEL <br>A VEZETŐI SZEREPRE!<\/h1>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-1-ut-a-sikerhez\">További információt szeretnék<\/a>\n    <a class=\"narancsGomb\" href=\"https:\/\/flow4learning.hu\/pages\/jelentkezes\/#jelentkezz_te_is_form\">Jelentkezem a képzésre<\/a><\/div>\n <\/div>"
+        "custom_liquid": "<h1>CSATLAKOZZ TE IS, ÉS KÉSZÜLJ FEL <br>A VEZETŐI SZEREPRE!</h1>\n<div class=\"vezetoGombok\">\n    <a class=\"kekGomb\" href=\"https://flow4learning.hu/pages/sikeres-vezeto-1-ut-a-sikerhez\">További információt szeretnék</a>\n    <a class=\"narancsGomb\" href=\"https://flow4learning.hu/pages/jelentkezes/#jelentkezz_te_is_form\">Jelentkezem a képzésre</a></div>\n </div>"
       }
     },
     "1658175740311bb670": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2 id=\"hogyanEpulFel\">HOGYAN ÉPÜL FEL EZ A KÉPZÉS?<\/h2>\n<p>Ez egy 2 hónapos mentorált online képzés, amelynek során 3 nagy modulon keresztül fogsz konkrét projekteket megvalósítani, és ezeket az oktatókkal közösen kiértékelni.<\/p>\n<p>A képzés ideje alatt minden csütörtökön  18:00-19:00 óra között live konzultáción vehetsz részt, amin oktatóink válaszolnak a kérdéseidre, és közösen feldolgozásra kerülnek a saját esetek is. Ezek a konzultációk felvételről bármikor visszanézhetők.<\/p>\n<p><b>A következő <a href=https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-ut-a-sikerhez>Sikeres vezető <\/a> program indulásának időpontja: \n\n2024. október 10. <p><b>\n\nA következő <a href=https:\/\/flow4learning.hu\/pages\/sikeres-vezeto-egyensuly-a-mindennapokban>Kiegyensúlyozott vezető <\/a>  program indulásának időpontja:\n\n 2025. február <\/b><\/p>"
+        "custom_liquid": "<h2 id=\"hogyanEpulFel\">HOGYAN ÉPÜL FEL EZ A KÉPZÉS?</h2>\n<p>Ez egy 2 hónapos mentorált online képzés, amelynek során 3 nagy modulon keresztül fogsz konkrét projekteket megvalósítani, és ezeket az oktatókkal közösen kiértékelni.</p>\n<p>A képzés ideje alatt minden csütörtökön  18:00-19:00 óra között live konzultáción vehetsz részt, amin oktatóink válaszolnak a kérdéseidre, és közösen feldolgozásra kerülnek a saját esetek is. Ezek a konzultációk felvételről bármikor visszanézhetők.</p>\n<p><b>A következő <a href=https://flow4learning.hu/pages/sikeres-vezeto-ut-a-sikerhez>Sikeres vezető </a> program indulásának időpontja: \n\n2025. április 9. <p><b>\n\nA következő <a href=https://flow4learning.hu/pages/sikeres-vezeto-egyensuly-a-mindennapokban>Kiegyensúlyozott vezető </a>  program indulásának időpontja:\n\n 2025. február 27. </b></p>"
       }
     }
   },
