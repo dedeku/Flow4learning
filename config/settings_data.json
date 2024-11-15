@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -22,13 +22,13 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "outline-button",
     "page_width": "1200",
-    "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/flow4learning\/",
+    "social_linkedin_link": "https://www.linkedin.com/company/flow4learning/",
     "social_twitter_link": "",
-    "social_facebook_link": "https:\/\/www.facebook.com\/flow4learning",
-    "social_instagram_link": "https:\/\/www.instagram.com\/flow4learning\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCCWsVYTcG9AVQ8pexEeJLHg",
-    "favicon": "shopify:\/\/shop_images\/1628591167_Favicon.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
+    "social_facebook_link": "https://www.facebook.com/flow4learning",
+    "social_instagram_link": "https://www.instagram.com/flow4learning/",
+    "social_youtube_link": "https://www.youtube.com/channel/UCCWsVYTcG9AVQ8pexEeJLHg",
+    "favicon": "shopify://shop_images/1628591167_Favicon.png",
+    "checkout_logo_image": "shopify://shop_images/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#813f94",
@@ -37,22 +37,13 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "a444bc0d-6409-46a4-974d-a8abe7b566cc": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Trendek a digitális tanulás világában",
-              "color_scheme": "accent-1",
-              "link": ""
-            }
-          },
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e": {
             "type": "announcement",
             "disabled": true,
             "settings": {
               "text": "INGYENES VEZETŐKÉPZÉS – JELENTKEZZ MOST, ÉS VÉGEZD EL SZEPTEMBER 21-IG!",
               "color_scheme": "accent-1",
-              "link": "https:\/\/flow4learning.hu\/products\/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-ingyenes"
+              "link": "https://flow4learning.hu/products/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-ingyenes"
             }
           },
           "592a69d7-35ed-4520-afed-a9b67c176107": {
@@ -61,26 +52,31 @@
             "settings": {
               "text": "Végezd el Iránytű - Megoldások mindennapi vezetői helyzetekre kurzusunkat szeptember 6-ig INGYEN!",
               "color_scheme": "accent-2",
-              "link": "https:\/\/flow4learning.hu\/products\/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-2024"
+              "link": "https://flow4learning.hu/products/iranytu-megoldasok-mindennapi-vezetoi-helyzetekre-2024"
+            }
+          },
+          "announcement_CDhEdq": {
+            "type": "announcement",
+            "settings": {
+              "text": "Black Friday AKCIÓ november 18-29. között!",
+              "color_scheme": "accent-1",
+              "link": "https://flow4learning.hu/collections/all"
             }
           }
         },
         "block_order": [
-          "a444bc0d-6409-46a4-974d-a8abe7b566cc",
           "f5dfa242-41ef-4e1a-873b-f71bdd6ba01e",
-          "592a69d7-35ed-4520-afed-a9b67c176107"
+          "592a69d7-35ed-4520-afed-a9b67c176107",
+          "announcement_CDhEdq"
         ],
-        "custom_css": [
-
-        ],
-        "settings": {
-        }
+        "custom_css": [],
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
+          "logo": "shopify://shop_images/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
           "logo_width": 200,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -96,7 +92,7 @@
             "disabled": true,
             "settings": {
               "heading": "",
-              "subtext": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.<\/p><p><\/p><p>Semmi spam – csak flow4learning-minőség.<\/p>"
+              "subtext": "<p>Számodra is fontos a folyamatos önfejlesztés? Csatlakozz, és elsőként értesítünk legfrissebb kurzusainkról, akcióinkról, ingyenes anyagainkról, online rendezvényeinkről, sőt, időnként kuponokat is találhatsz a postafiókodban.</p><p></p><p>Semmi spam – csak flow4learning-minőség.</p>"
             }
           },
           "footer-0": {
@@ -124,7 +120,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
+          "logo": "shopify://shop_images/FLOW-4-learning-LOGO-2020-08-30_horizontal.png",
           "logo_max_width": 250,
           "color_scheme": "accent-2"
         }
@@ -136,15 +132,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "807785498547235276": {
-        "type": "shopify:\/\/apps\/contact-form-ultimate\/blocks\/app-embed-block\/7f36c127-5e2b-4909-bcc7-2631483e37a4",
+        "type": "shopify://apps/contact-form-ultimate/blocks/app-embed-block/7f36c127-5e2b-4909-bcc7-2631483e37a4",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -159,7 +152,7 @@
       "type_header_font": "poppins_n4",
       "type_body_font": "poppins_n4",
       "accent_icons": "outline-button",
-      "checkout_logo_image": "shopify:\/\/shop_images\/logo-flowcsoport.png",
+      "checkout_logo_image": "shopify://shop_images/logo-flowcsoport.png",
       "checkout_accent_color": "#813f94",
       "checkout_button_color": "#813f94",
       "sections": {
@@ -178,13 +171,12 @@
           "block_order": [
             "22666043-5c88-4b18-a435-ccc204751842"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/header-logo.png",
+            "logo": "shopify://shop_images/header-logo.png",
             "logo_width": 130,
             "logo_position": "middle-left",
             "menu": "main-menu",
@@ -217,9 +209,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Default": {
       "colors_solid_button_labels": "#FFFFFF",
@@ -245,8 +235,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -266,13 +255,11 @@
           "blocks": {
             "menu": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
