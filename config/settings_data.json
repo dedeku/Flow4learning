@@ -57,6 +57,7 @@
           },
           "announcement_CDhEdq": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "20% kedvezmény a Kiegyensúlyozott vezető képzésünkre december 6-ig",
               "color_scheme": "accent-1",
